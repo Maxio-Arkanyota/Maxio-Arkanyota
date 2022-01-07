@@ -1,1 +1,1 @@
-#!/usr/bin/en
+#!/usr/bin/env
