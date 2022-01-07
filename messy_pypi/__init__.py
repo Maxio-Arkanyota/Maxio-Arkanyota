@@ -1,1 +1,1 @@
-#!/usr/bin/env p
+#!/usr/bin/env py
