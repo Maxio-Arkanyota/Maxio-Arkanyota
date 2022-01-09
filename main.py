@@ -15,18 +15,20 @@ first = f[:today]
 open("./ori.push.py", "w").write(f[today:])
 print(f"day -> {today} -> '{first}'")
 def git_push(commit, chr):
-	print(f"radom commit {chr}")
-	open("./messy_pypi/__init__.py", "a").write(chr)
-	try:
-		repo = Repo(PATH_OF_GIT_REPO)
-		repo.git.add(update=True)
-		repo.index.commit(commit)
-		origin = repo.remote(name='origin')
-		origin.push()
-	except:
-		webhook.send("@Admin error bande de troll")
+    print(f"radom commit {chr}")
+    open("./messy_pypi/__init__.py", "a").write(chr)
+    try:
+        repo = Repo(PATH_OF_GIT_REPO)
+        repo.git.add(update=True)
+        repo.index.commit(commit)
+        origin = repo.remote(name='origin')
+        origin.push()
+        webhook.send(commit)
+    except:
+        webhook.send("@Admin error bande de troll")
 
-for i in first:
-	git_push(f"radom commit '{i}'", i)
-	for _ in tqdm(range(3*60)):
-		sleep(1)
+for ind,i in enumerate(first):
+    git_push(f"day : {today}, commit : {ind}/{today} -> '{i}'", i)
+    if ind != len(first) - 1:
+        for _ in tqdm(range(60)):
+	        sleep(1)
