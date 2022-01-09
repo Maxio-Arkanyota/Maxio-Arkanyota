@@ -1,2 +1,2 @@
 #!/usr/bin/env python
-# vim: set 
+# vim: set f
