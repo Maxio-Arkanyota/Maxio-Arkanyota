@@ -1,4 +1,4 @@
-
+#!/usr/bin/python3
 from tqdm import tqdm
 import datetime
 from git import Repo
@@ -9,18 +9,17 @@ from discord import Webhook, RequestsWebhookAdapter
 PATH_OF_GIT_REPO = r'.git'  # make sure .git folder is properly configured
 today = datetime.datetime.now()
 today = int(today.strftime('%j'))
-webhook = Webhook.from_url("https://discord.com/api/webhooks/926423307421638666/0Gjv7qcTRvtEO8SQaDTt_ZZp0W2OV7AvI709h4TcEB-ECtIP8SPKG92nvTu3huOpwlmf" ,adapter=RequestsWebhookAdapter())
+webhook = Webhook.from_url("https://discord.com/api/webhooks/929922826956320799/MJyCsPU3Wnsz5rSLGj0lzv51TmwwMWbqIUu2diU6DJHsGzQ0msy3TtZ3vaAMzNbAuw9M" ,adapter=RequestsWebhookAdapter())
 
-"""
 f = open("./ori.push.py", "r").read()
 first = f[:today]
 open("./ori.push.py", "w").write(f[today:])
-"""
 
-first = "m: set f"
-print(f"day -> {today} -> '{first}'")
+print(f"day -> {today} -> '{first.encode('unicode_escape').decode()}'")
+webhook.send(f"start commit : day -> {today} -> '{first.encode('unicode_escape').decode()}'")
+
 def git_push(commit, chr):
-    print(f"radom commit {chr}")
+    print(commit)
     open("./messy_pypi/__init__.py", "a").write(chr)
     try:
         repo = Repo(PATH_OF_GIT_REPO)
@@ -33,7 +32,7 @@ def git_push(commit, chr):
         webhook.send("@Admin error bande de troll")
 
 for ind,i in enumerate(first):
-    git_push(f"day : {today}, commit : {ind + 2}/{today} -> '{i}'", i)
+    git_push(f"day : {today}, commit : {ind + 1}/{today} -> '{i.encode('unicode_escape').decode()}'", i)
     if ind != len(first) - 1:
-        for _ in tqdm(range(60)):
+        for _ in tqdm(range(30)):
 	        sleep(1)
