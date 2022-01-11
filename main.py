@@ -9,7 +9,7 @@ from discord import Webhook, RequestsWebhookAdapter
 PATH_OF_GIT_REPO = r'.git'  # make sure .git folder is properly configured
 today = datetime.datetime.now()
 today = int(today.strftime('%j'))
-webhook = Webhook.from_url("https://discord.com/api/webhooks/929922826956320799/MJyCsPU3Wnsz5rSLGj0lzv51TmwwMWbqIUu2diU6DJHsGzQ0msy3TtZ3vaAMzNbAuw9M" ,adapter=RequestsWebhookAdapter())
+webhook = Webhook.from_url("https://discord.com/api/webhooks/930571408906526770/oLoTyvGTZNfENJes0PDhOP7J-VBw2CKvJEcip8fEoEfhmzRcgIyRRQmBRNMDOKr2Bk5Z" ,adapter=RequestsWebhookAdapter())
 
 f = open("./ori.push.py", "r").read()
 first = f[:today]
