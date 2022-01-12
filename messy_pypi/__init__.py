@@ -1,4 +1,4 @@
 #!/usr/bin/env python
 # vim: set fdm=marker:
 # Imports {{{1
-from __future__ i
+from __future__ im
