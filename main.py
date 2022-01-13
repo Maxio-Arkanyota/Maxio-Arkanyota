@@ -11,7 +11,7 @@ print(f"date -> {datetime.datetime.now()}", file=sys.stderr)
 PATH_OF_GIT_REPO = r'.git'  # make sure .git folder is properly configured
 today = datetime.datetime.now()
 today = int(today.strftime('%j'))
-webhook = Webhook.from_url("https://discord.com/api/webhooks/930571408906526770/oLoTyvGTZNfENJes0PDhOP7J-VBw2CKvJEcip8fEoEfhmzRcgIyRRQmBRNMDOKr2Bk5Z" ,adapter=RequestsWebhookAdapter())
+webhook = Webhook.from_url("https://discord.com/api/webhooks/930965206585200700/h-uh3SM_OBLUl9s6kKJkMR29nwZhrHUeU_4cfnrqPCAnqc-_i9J2xNKpdGWr51S32fEG", adapter=RequestsWebhookAdapter())
 webhook.send(f"Salut on commence a push 😊")
 
 f = open("./ori.push.py", "r").read()
