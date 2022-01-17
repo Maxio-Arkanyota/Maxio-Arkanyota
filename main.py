@@ -7,7 +7,7 @@ import requests
 from time import sleep
 from discord import Webhook, RequestsWebhookAdapter
 
-print(f"date -> {datetime.datetime.now()}", file=sys.stderr)
+#print(f"date -> {datetime.datetime.now()}", file=sys.stderr)
 PATH_OF_GIT_REPO = r'.git'  # make sure .git folder is properly configured
 today = datetime.datetime.now()
 today = int(today.strftime('%j'))
@@ -37,5 +37,5 @@ def git_push(commit, chr):
 for ind,i in enumerate(first):
     git_push(f"day : {today}, commit : {str(ind + 1).zfill(len(str(today)))}/{today} -> `{i.encode('unicode_escape').decode()}`", i)
     if ind != len(first) - 1:
-        for _ in tqdm(range(30)):
+        for _ in range(30):
 	        sleep(1)
