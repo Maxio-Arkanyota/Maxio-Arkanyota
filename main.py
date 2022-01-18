@@ -11,7 +11,7 @@ from discord import Webhook, RequestsWebhookAdapter
 PATH_OF_GIT_REPO = r'.git'  # make sure .git folder is properly configured
 today = datetime.datetime.now()
 today = int(today.strftime('%j'))
-webhook = Webhook.from_url("https://discord.com/api/webhooks/930965206585200700/h-uh3SM_OBLUl9s6kKJkMR29nwZhrHUeU_4cfnrqPCAnqc-_i9J2xNKpdGWr51S32fEG", adapter=RequestsWebhookAdapter())
+webhook = Webhook.from_url("https://discord.com/api/webhooks/932789158953484338/GHgyHUxKAiRVnsVgckj8SAwgvKs5tuDzuEXQXToWOSZeHOtT1OsdyrO0cl75DiJ3o25f", adapter=RequestsWebhookAdapter())
 webhook.send(f"Salut on commence a push 😊")
 
 f = open("./ori.push.py", "r").read()
