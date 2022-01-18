@@ -3,4 +3,4 @@
 # Imports {{{1
 from __future__ import print_function, annotations
 from collections import defaultdict
-from enum import E
+from enum import En
