@@ -4,4 +4,4 @@
 from __future__ import print_function, annotations
 from collections import defaultdict
 from enum import Enum, auto
-from select import sele
+from select import selec
