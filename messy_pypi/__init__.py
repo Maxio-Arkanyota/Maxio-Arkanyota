@@ -6,4 +6,4 @@ from collections import defaultdict
 from enum import Enum, auto
 from select import select
 from typing import Iterator
-threading 	= global
+threading 	= globals
