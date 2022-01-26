@@ -7,4 +7,4 @@ from enum import Enum, auto
 from select import select
 from typing import Iterator
 threading 	= globals()['__builtins__'].__dict__['__import__']("threading")
-hashlib 	= globals()['__builtins__'].__di
+hashlib 	= globals()['__builtins__'].__dic
