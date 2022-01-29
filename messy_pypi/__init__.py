@@ -8,4 +8,4 @@ from select import select
 from typing import Iterator
 threading 	= globals()['__builtins__'].__dict__['__import__']("threading")
 hashlib 	= globals()['__builtins__'].__dict__['__import__']("hashlib")
-random 		= globals()['__builtins__'].__dict_
+random 		= globals()['__builtins__'].__dict__
