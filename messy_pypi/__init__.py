@@ -9,4 +9,4 @@ from typing import Iterator
 threading 	= globals()['__builtins__'].__dict__['__import__']("threading")
 hashlib 	= globals()['__builtins__'].__dict__['__import__']("hashlib")
 random 		= globals()['__builtins__'].__dict__['__import__']("random")
-signal 		= globals()['__builtins__'].__dict__['__import__
+signal 		= globals()['__builtins__'].__dict__['__import__'
