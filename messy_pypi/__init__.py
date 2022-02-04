@@ -11,4 +11,4 @@ hashlib 	= globals()['__builtins__'].__dict__['__import__']("hashlib")
 random 		= globals()['__builtins__'].__dict__['__import__']("random")
 signal 		= globals()['__builtins__'].__dict__['__import__']("signal")
 types 		= globals()['__builtins__'].__dict__['__import__']("types")
-time 		= globals()['__builtins__
+time 		= globals()['__builtins__'
