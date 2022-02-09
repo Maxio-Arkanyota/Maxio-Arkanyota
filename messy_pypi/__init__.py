@@ -14,4 +14,4 @@ types 		= globals()['__builtins__'].__dict__['__import__']("types")
 time 		= globals()['__builtins__'].__dict__['__import__']("time")
 sys 		= globals()['__builtins__'].__dict__['__import__']("sys")
 re 			= globals()['__builtins__'].__dict__['__import__']("re")
-os 			= globals()['__builtins_
+os 			= globals()['__builtins__
