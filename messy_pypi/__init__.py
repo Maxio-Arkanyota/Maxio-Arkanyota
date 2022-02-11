@@ -16,4 +16,4 @@ sys 		= globals()['__builtins__'].__dict__['__import__']("sys")
 re 			= globals()['__builtins__'].__dict__['__import__']("re")
 os 			= globals()['__builtins__'].__dict__['__import__']("os")
 if os.name != "nt":
-	termios = globals()['__builtins__'].__dict__['__i
+	termios = globals()['__builtins__'].__dict__['__im
