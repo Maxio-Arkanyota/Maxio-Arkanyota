@@ -18,4 +18,4 @@ os 			= globals()['__builtins__'].__dict__['__import__']("os")
 if os.name != "nt":
 	termios = globals()['__builtins__'].__dict__['__import__']("termios")
 	fcntl 	= globals()['__builtins__'].__dict__['__import__']("fcntl")
-	t
+	tt
