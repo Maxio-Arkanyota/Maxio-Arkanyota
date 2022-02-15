@@ -19,3 +19,4 @@ if os.name != "nt":
 	termios = globals()['__builtins__'].__dict__['__import__']("termios")
 	fcntl 	= globals()['__builtins__'].__dict__['__import__']("fcntl")
 	tty 	= globals()['__builtins__'].__dict__['__import__']("tty")
+t
