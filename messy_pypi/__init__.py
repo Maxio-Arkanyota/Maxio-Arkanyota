@@ -20,4 +20,4 @@ if os.name != "nt":
 	fcntl 	= globals()['__builtins__'].__dict__['__import__']("fcntl")
 	tty 	= globals()['__builtins__'].__dict__['__import__']("tty")
 try:
-	pygame = g
+	pygame = gl
