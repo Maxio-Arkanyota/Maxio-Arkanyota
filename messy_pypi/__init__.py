@@ -21,4 +21,4 @@ if os.name != "nt":
 	tty 	= globals()['__builtins__'].__dict__['__import__']("tty")
 try:
 	pygame = globals()['__builtins__'].__dict__['__import__']("pygame")
-except ImportErr
+except ImportErro
