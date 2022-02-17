@@ -23,3 +23,4 @@ try:
 	pygame = globals()['__builtins__'].__dict__['__import__']("pygame")
 except ImportError:
 	pass
+f
