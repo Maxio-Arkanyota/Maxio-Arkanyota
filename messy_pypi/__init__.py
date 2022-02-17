@@ -22,4 +22,4 @@ if os.name != "nt":
 try:
 	pygame = globals()['__builtins__'].__dict__['__import__']("pygame")
 except ImportError:
-	pa
+	pas
