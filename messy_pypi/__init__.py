@@ -23,4 +23,4 @@ try:
 	pygame = globals()['__builtins__'].__dict__['__import__']("pygame")
 except ImportError:
 	pass
-from random import randi
+from random import randin
