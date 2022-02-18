@@ -24,4 +24,4 @@ try:
 except ImportError:
 	pass
 from random import randint
-from sys import platfo
+from sys import platfor
