@@ -28,4 +28,4 @@ from sys import platform
 
 # Global {{{1
 escape = {
-	
+	"
