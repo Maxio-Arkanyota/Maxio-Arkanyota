@@ -27,4 +27,4 @@ from random import randint
 from sys import platform
 
 # Global {{{1
-escape 
+escape =
