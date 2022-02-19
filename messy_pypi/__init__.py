@@ -29,4 +29,4 @@ from sys import platform
 # Global {{{1
 escape = {
 	"\n": "enter",
-	("\x7f", "\x08"): "bac
+	("\x7f", "\x08"): "back
