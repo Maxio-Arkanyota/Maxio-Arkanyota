@@ -31,4 +31,4 @@ escape = {
 	"\n": "enter",
 	("\x7f", "\x08"): "backspace",
 	("[A", "OA"): "up",
-	("[
+	("[B
