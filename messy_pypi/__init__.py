@@ -30,4 +30,4 @@ from sys import platform
 escape = {
 	"\n": "enter",
 	("\x7f", "\x08"): "backspace",
-	("[A", "OA"): "u
+	("[A", "OA"): "up
