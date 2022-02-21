@@ -32,4 +32,4 @@ escape = {
 	("\x7f", "\x08"): "backspace",
 	("[A", "OA"): "up",
 	("[B", "OB"): "down",
-	("[D", "OD"): 
+	("[D", "OD"): "
