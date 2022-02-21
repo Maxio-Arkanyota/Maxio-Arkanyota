@@ -33,3 +33,4 @@ escape = {
 	("[A", "OA"): "up",
 	("[B", "OB"): "down",
 	("[D", "OD"): "left",
+	
