@@ -36,4 +36,4 @@ escape = {
 	("[C", "OC"): "right",
 	"[2~": "insert",
 	"[3~": "delete",
-	"
+	"[
