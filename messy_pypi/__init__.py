@@ -34,4 +34,4 @@ escape = {
 	("[B", "OB"): "down",
 	("[D", "OD"): "left",
 	("[C", "OC"): "right",
-	"[2~": "insert"
+	"[2~": "insert",
