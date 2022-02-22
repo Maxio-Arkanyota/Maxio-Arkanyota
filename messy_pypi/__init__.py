@@ -37,4 +37,4 @@ escape = {
 	"[2~": "insert",
 	"[3~": "delete",
 	"[H": "home",
-	"[
+	"[F
