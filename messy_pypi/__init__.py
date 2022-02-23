@@ -39,4 +39,4 @@ escape = {
 	"[H": "home",
 	"[F": "end",
 	"[5~": "page_up",
-	"[6~": "page_down
+	"[6~": "page_down"
