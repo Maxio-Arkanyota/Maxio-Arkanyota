@@ -38,4 +38,4 @@ escape = {
 	"[3~": "delete",
 	"[H": "home",
 	"[F": "end",
-	"[5~": "page_u
+	"[5~": "page_up
