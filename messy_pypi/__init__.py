@@ -42,3 +42,4 @@ escape = {
 	"[6~": "page_down",
 	"\t": "tab",
 	"[Z": "shift_tab",
+	
