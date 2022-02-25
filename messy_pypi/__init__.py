@@ -44,4 +44,4 @@ escape = {
 	"[Z": "shift_tab",
 	"OP": "f1",
 	"OQ": "f2",
-	"OR": 
+	"OR": "
