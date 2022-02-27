@@ -56,4 +56,4 @@ escape = {
 	"[24": "f12"
 }
 mouse_state = {
-	# Changer le cl
+	# Changer le cls
