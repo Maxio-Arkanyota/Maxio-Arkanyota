@@ -56,3 +56,4 @@ escape = {
 	"[24": "f12"
 }
 mouse_state = {
+	
