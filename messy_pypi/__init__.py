@@ -55,4 +55,4 @@ escape = {
 	"[23": "f11",
 	"[24": "f12"
 }
-mouse_state
+mouse_state 
