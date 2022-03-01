@@ -56,4 +56,4 @@ escape = {
 	"[24": "f12"
 }
 mouse_state = {
-	# Changer le cls.snake_pos[1]regex si supérieur a la key  \033[<100;: passer le {1,2} 
+	# Changer le cls.snake_pos[1]regex si supérieur a la key  \033[<100;: passer le {1,2} à
