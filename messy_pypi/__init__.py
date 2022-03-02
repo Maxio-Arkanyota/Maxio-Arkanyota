@@ -58,4 +58,4 @@ escape = {
 mouse_state = {
 	# Changer le cls.snake_pos[1]regex si supérieur a la key  \033[<100;: passer le {1,2} à {1,3}ou+
 	# mouse_.._click
-	"\033[<0;": "mouse_left_clic
+	"\033[<0;": "mouse_left_click
