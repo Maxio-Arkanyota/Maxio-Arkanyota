@@ -60,4 +60,4 @@ mouse_state = {
 	# mouse_.._click
 	"\033[<0;": "mouse_left_click",
 	"\033[<1;": "mouse_middle_click",
-	"\033[<2;": "mouse_right_clic
+	"\033[<2;": "mouse_right_click
