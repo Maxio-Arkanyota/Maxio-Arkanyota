@@ -67,4 +67,4 @@ mouse_state = {
 	"\033[<10;": "mouse_left_alt_click",
 	# mouse_..ctrl_click
 	"\033[<16;": "mouse_left_ctrl_click",
-	"\033[<17;": "mouse_middle_ctrl_click"
+	"\033[<17;": "mouse_middle_ctrl_click",
