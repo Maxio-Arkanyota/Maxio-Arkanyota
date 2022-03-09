@@ -72,4 +72,4 @@ mouse_state = {
 	# mouse_..altctrl_click
 	"\033[<24;": "mouse_left_ctrlalt_click",
 	"\033[<25;": "mouse_middle_ctrlalt_click",
-	"\033[<26;": "mouse_right_ctrlal
+	"\033[<26;": "mouse_right_ctrlalt
