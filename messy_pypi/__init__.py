@@ -76,4 +76,4 @@ mouse_state = {
 	# mouse_drag_.._click
 	"\033[<32;": "mouse_drag_left_click",
 	"\033[<33;": "mouse_drag_middle_click",
-	"\033[<34;": "mouse_dra
+	"\033[<34;": "mouse_drad
