@@ -80,4 +80,4 @@ mouse_state = {
 	# mouse_drag_..alt_click
 	"\033[<40;": "mouse_left_alt_click",
 	"\033[<41;": "mouse_left_alt_click",
-	"\033[<42;": "mouse_le
+	"\033[<42;": "mouse_lef
