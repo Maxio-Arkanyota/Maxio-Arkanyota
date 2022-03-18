@@ -89,4 +89,4 @@ mouse_state = {
 	"\033[<56;": "mouse_left_ctrlalt_click",
 	"\033[<57;": "mouse_middle_ctrlalt_click",
 	"\033[<58;": "mouse_right_ctrlalt_click",
-	# mouse_sc
+	# mouse_scr
