@@ -92,4 +92,4 @@ mouse_state = {
 	# mouse_scroll..
 	"\033[<64;": "mouse_scroll_up",
 	"\033[<65;": "mouse_scroll_down",
-	# mouse_sc
+	# mouse_scr
