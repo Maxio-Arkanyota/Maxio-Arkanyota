@@ -91,4 +91,4 @@ mouse_state = {
 	"\033[<58;": "mouse_right_ctrlalt_click",
 	# mouse_scroll..
 	"\033[<64;": "mouse_scroll_up",
-	"\033[<65;": "mouse_scro
+	"\033[<65;": "mouse_scrol
