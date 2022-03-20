@@ -94,4 +94,4 @@ mouse_state = {
 	"\033[<65;": "mouse_scroll_down",
 	# mouse_scroll_alt..
 	"\033[<72;": "mouse_scroll_alt_up",
-	"\033[<73;": "mouse_scroll_alt_down"
+	"\033[<73;": "mouse_scroll_alt_down",
