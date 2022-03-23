@@ -102,4 +102,4 @@ mouse_state = {
 	"\033[<88;": "mouse_scroll_ctrl_up",
 	"\033[<89;": "mouse_scroll_ctrl_down",
 }
-# Ne pas touch
+# Ne pas touche
