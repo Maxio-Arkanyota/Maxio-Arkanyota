@@ -103,4 +103,4 @@ mouse_state = {
 	"\033[<89;": "mouse_scroll_ctrl_down",
 }
 # Ne pas toucher: code pris de bpytop
-class Raw(o
+class Raw(ob
