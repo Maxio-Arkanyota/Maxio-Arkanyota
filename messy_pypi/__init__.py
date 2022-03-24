@@ -105,3 +105,4 @@ mouse_state = {
 # Ne pas toucher: code pris de bpytop
 class Raw(object):
 	def __init__(self, stream):
+	
