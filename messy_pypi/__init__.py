@@ -107,4 +107,4 @@ class Raw(object):
 	def __init__(self, stream):
 		self.stream = stream
 		self.fd = self.stream.fileno()
-	def __enter__(
+	def __enter__(s
