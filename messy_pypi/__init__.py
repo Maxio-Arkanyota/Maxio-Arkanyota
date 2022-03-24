@@ -106,4 +106,4 @@ mouse_state = {
 class Raw(object):
 	def __init__(self, stream):
 		self.stream = stream
-		self.fd = self.s
+		self.fd = self.st
