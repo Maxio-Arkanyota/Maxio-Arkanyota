@@ -108,4 +108,4 @@ class Raw(object):
 		self.stream = stream
 		self.fd = self.stream.fileno()
 	def __enter__(self):
-		self.original_stty = termios.tcget
+		self.original_stty = termios.tcgeta
