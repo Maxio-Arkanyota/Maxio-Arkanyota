@@ -109,3 +109,4 @@ class Raw(object):
 		self.fd = self.stream.fileno()
 	def __enter__(self):
 		self.original_stty = termios.tcgetattr(self.stream)
+	
