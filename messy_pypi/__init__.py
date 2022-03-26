@@ -110,4 +110,4 @@ class Raw(object):
 	def __enter__(self):
 		self.original_stty = termios.tcgetattr(self.stream)
 		tty.setcbreak(self.stream)
-	def __exit__(self,
+	def __exit__(self, 
