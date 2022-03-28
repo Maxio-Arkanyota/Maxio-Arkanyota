@@ -116,4 +116,4 @@ class Nonblocking(object):
 	"""Set nonblocking mode for device"""
 	def __init__(self, stream):
 		self.stream = stream
-		self.fd = self.stream
+		self.fd = self.stream.
