@@ -115,3 +115,4 @@ class Raw(object):
 class Nonblocking(object):
 	"""Set nonblocking mode for device"""
 	def __init__(self, stream):
+	
