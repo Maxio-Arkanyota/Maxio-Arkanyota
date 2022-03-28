@@ -114,4 +114,4 @@ class Raw(object):
 		termios.tcsetattr(self.stream, termios.TCSANOW, self.original_stty)
 class Nonblocking(object):
 	"""Set nonblocking mode for device"""
-	def __init__(self,
+	def __init__(self, 
