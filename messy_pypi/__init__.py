@@ -117,4 +117,4 @@ class Nonblocking(object):
 	def __init__(self, stream):
 		self.stream = stream
 		self.fd = self.stream.fileno()
-	def __
+	def __e
