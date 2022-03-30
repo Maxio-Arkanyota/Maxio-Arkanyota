@@ -119,4 +119,4 @@ class Nonblocking(object):
 		self.fd = self.stream.fileno()
 	def __enter__(self):
 		self.orig_fl = fcntl.fcntl(self.fd, fcntl.F_GETFL)
-		fcntl.fcntl(self.fd
+		fcntl.fcntl(self.fd,
