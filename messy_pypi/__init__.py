@@ -122,4 +122,4 @@ class Nonblocking(object):
 		fcntl.fcntl(self.fd, fcntl.F_SETFL, self.orig_fl | os.O_NONBLOCK)
 	def __exit__(self, *args):
 		fcntl.fcntl(self.fd, fcntl.F_SETFL, self.orig_fl)
-def print_char(x: int, y: int, char: 
+def print_char(x: int, y: int, char: s
