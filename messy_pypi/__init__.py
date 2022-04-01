@@ -127,4 +127,4 @@ def print_char(x: int, y: int, char: str) -> None:
 	x: >
 	y: \\/
 	"""
-	
+	p
