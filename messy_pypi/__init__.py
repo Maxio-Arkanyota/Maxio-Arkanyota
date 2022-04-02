@@ -131,4 +131,4 @@ def print_char(x: int, y: int, char: str) -> None:
 def clear() -> None:
 	# os.system("cls||clear")
 	if os.name == "nt":
-		os.system
+		os.system(
