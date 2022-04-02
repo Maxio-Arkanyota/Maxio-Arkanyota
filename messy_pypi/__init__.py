@@ -129,4 +129,4 @@ def print_char(x: int, y: int, char: str) -> None:
 	"""
 	print(f"\033[{y};{x}H{char}")
 def clear() -> None:
-	# os.system("cls||clea
+	# os.system("cls||clear
