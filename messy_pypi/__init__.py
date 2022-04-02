@@ -132,3 +132,4 @@ def clear() -> None:
 	# os.system("cls||clear")
 	if os.name == "nt":
 		os.system("cls")
+	
