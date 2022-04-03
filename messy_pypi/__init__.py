@@ -134,4 +134,4 @@ def clear() -> None:
 		os.system("cls")
 	else:
 		os.system("clear")
-def terminal_
+def terminal_s
