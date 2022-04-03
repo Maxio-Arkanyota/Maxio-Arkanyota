@@ -134,4 +134,4 @@ def clear() -> None:
 		os.system("cls")
 	else:
 		os.system("clear")
-def terminal_size(item: str = None) -> (tuple[int, i
+def terminal_size(item: str = None) -> (tuple[int, in
