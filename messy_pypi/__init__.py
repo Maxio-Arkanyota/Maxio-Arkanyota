@@ -134,4 +134,4 @@ def clear() -> None:
 		os.system("cls")
 	else:
 		os.system("clear")
-def terminal_size(
+def terminal_size(i
