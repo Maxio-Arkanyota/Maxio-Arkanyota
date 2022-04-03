@@ -136,4 +136,4 @@ def clear() -> None:
 		os.system("clear")
 def terminal_size(item: str = None) -> (tuple[int, int] or int):
 	"""
-	X: 
+	X: >
