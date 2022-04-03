@@ -134,3 +134,4 @@ def clear() -> None:
 		os.system("cls")
 	else:
 		os.system("clear")
+d
