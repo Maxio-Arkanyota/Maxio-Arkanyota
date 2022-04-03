@@ -137,4 +137,4 @@ def clear() -> None:
 def terminal_size(item: str = None) -> (tuple[int, int] or int):
 	"""
 	X: >
-	Y: \
+	Y: \\
