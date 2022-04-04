@@ -140,4 +140,4 @@ def terminal_size(item: str = None) -> (tuple[int, int] or int):
 	Y: \\/
 	"""
 	size = os.get_terminal_size()
-	if item
+	if item 
