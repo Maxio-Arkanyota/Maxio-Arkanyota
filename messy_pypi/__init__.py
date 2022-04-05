@@ -143,4 +143,4 @@ def terminal_size(item: str = None) -> (tuple[int, int] or int):
 	if item is None:
 		return size[0], size[1]
 	elif item == "X":
-		return 
+		return s
