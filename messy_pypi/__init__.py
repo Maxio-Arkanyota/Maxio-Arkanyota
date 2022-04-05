@@ -144,4 +144,4 @@ def terminal_size(item: str = None) -> (tuple[int, int] or int):
 		return size[0], size[1]
 	elif item == "X":
 		return size[0]
-	elif i
+	elif it
