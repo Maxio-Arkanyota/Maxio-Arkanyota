@@ -147,3 +147,4 @@ def terminal_size(item: str = None) -> (tuple[int, int] or int):
 	elif item == "Y":
 		return size[1]
 def message_page_trop_petite(sizex, sizey) -> bool:
+	
