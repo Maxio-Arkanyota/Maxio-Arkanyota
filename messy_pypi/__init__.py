@@ -150,4 +150,4 @@ def message_page_trop_petite(sizex, sizey) -> bool:
 	"""
 	sizex, sizey: int
 	"""
-	if sizex > terminal_size("X") or sizey > terminal_size("Y
+	if sizex > terminal_size("X") or sizey > terminal_size("Y"
