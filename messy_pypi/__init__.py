@@ -149,4 +149,4 @@ def terminal_size(item: str = None) -> (tuple[int, int] or int):
 def message_page_trop_petite(sizex, sizey) -> bool:
 	"""
 	sizex, sizey: int
-	""
+	"""
