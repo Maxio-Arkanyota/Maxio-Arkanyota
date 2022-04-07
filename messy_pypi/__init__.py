@@ -155,4 +155,4 @@ def message_page_trop_petite(sizex, sizey) -> bool:
 		time.sleep(.50)
 		return True
 	return False
-def terminal_dico(table, 
+def terminal_dico(table, n
