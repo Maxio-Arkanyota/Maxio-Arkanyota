@@ -153,4 +153,4 @@ def message_page_trop_petite(sizex, sizey) -> bool:
 	if sizex > terminal_size("X") or sizey > terminal_size("Y"):
 		print("Trop petit")
 		time.sleep(.50)
-		return T
+		return Tr
