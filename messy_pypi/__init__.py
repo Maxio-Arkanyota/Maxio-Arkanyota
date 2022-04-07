@@ -154,4 +154,4 @@ def message_page_trop_petite(sizex, sizey) -> bool:
 		print("Trop petit")
 		time.sleep(.50)
 		return True
-	retur
+	return
