@@ -156,3 +156,4 @@ def message_page_trop_petite(sizex, sizey) -> bool:
 		return True
 	return False
 def terminal_dico(table, name_bar=("name", "ligne")):
+	
