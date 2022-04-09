@@ -158,3 +158,4 @@ def message_page_trop_petite(sizex, sizey) -> bool:
 def terminal_dico(table, name_bar=("name", "ligne")):
 	len_of_each_elements = [0]*len(name_bar)
 	for i in range(len(len_of_each_elements)):
+	
