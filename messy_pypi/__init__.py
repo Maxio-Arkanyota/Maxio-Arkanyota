@@ -160,4 +160,4 @@ def terminal_dico(table, name_bar=("name", "ligne")):
 	for i in range(len(len_of_each_elements)):
 		for j in range(len(table)):
 			len_of_each_elements[i] = max(len_of_each_elements[i], len(str(list(table.items())[j][i])))
-	for i in 
+	for i in t
