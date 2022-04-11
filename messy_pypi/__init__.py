@@ -162,4 +162,4 @@ def terminal_dico(table, name_bar=("name", "ligne")):
 			len_of_each_elements[i] = max(len_of_each_elements[i], len(str(list(table.items())[j][i])))
 	for i in table:
 		print(str(i).center(len_of_each_elements[0]) + " | "+ str(table[i]).center(len_of_each_elements[1]))
-def getKey(debu
+def getKey(debug
