@@ -164,4 +164,4 @@ def terminal_dico(table, name_bar=("name", "ligne")):
 		print(str(i).center(len_of_each_elements[0]) + " | "+ str(table[i]).center(len_of_each_elements[1]))
 def getKey(debug: bool = False) -> str:
 	"""
-	Warning: Ne renvoie pas la même valeur entr
+	Warning: Ne renvoie pas la même valeur entre
