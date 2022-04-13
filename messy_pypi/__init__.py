@@ -165,4 +165,4 @@ def terminal_dico(table, name_bar=("name", "ligne")):
 def getKey(debug: bool = False) -> str:
 	"""
 	Warning: Ne renvoie pas la même valeur entre Windows et Linux/MacOs
-	Warning2: Sur Linux/MacOs, Il faut presser 2 foix le button Echap 
+	Warning2: Sur Linux/MacOs, Il faut presser 2 foix le button Echap p
