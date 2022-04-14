@@ -170,4 +170,4 @@ def getKey(debug: bool = False) -> str:
 	"""
 	if platform[:3] == 'win':
 		__keydict = {
-			0x3b: 'f1'
+			0x3b: 'f1',
