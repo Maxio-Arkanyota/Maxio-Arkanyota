@@ -169,4 +169,4 @@ def getKey(debug: bool = False) -> str:
 	Pause le terminal jusqu'a la rentrer d'un input
 	"""
 	if platform[:3] == 'win':
-		__key
+		__keyd
