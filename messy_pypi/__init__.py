@@ -168,4 +168,4 @@ def getKey(debug: bool = False) -> str:
 	Warning2: Sur Linux/MacOs, Il faut presser 2 foix le button Echap pour que il soit effectuer
 	Pause le terminal jusqu'a la rentrer d'un input
 	"""
-	if platf
+	if platfo
