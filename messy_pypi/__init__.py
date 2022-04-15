@@ -176,4 +176,4 @@ def getKey(debug: bool = False) -> str:
 			0x3e: 'f4',
 			0x3f: 'f5',
 			0x40: 'f6',
-			0x41:
+			0x41: 
