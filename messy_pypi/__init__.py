@@ -182,4 +182,4 @@ def getKey(debug: bool = False) -> str:
 			0x44: 'f10',
 			0x68: 'altf1',
 			0x69: 'altf2',
-			0x6a: 
+			0x6a: '
