@@ -184,4 +184,4 @@ def getKey(debug: bool = False) -> str:
 			0x69: 'altf2',
 			0x6a: 'altf3',
 			0x6b: 'altf4',
-			0x6c: '
+			0x6c: 'a
