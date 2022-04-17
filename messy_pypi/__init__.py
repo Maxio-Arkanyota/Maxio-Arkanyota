@@ -191,4 +191,4 @@ def getKey(debug: bool = False) -> str:
 			0x70: 'altf9',
 			0x71: 'altf10',
 			0x5e: 'ctrlf1',
-			0x5f: '
+			0x5f: 'c
