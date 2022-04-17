@@ -190,3 +190,4 @@ def getKey(debug: bool = False) -> str:
 			0x6f: 'altf8',
 			0x70: 'altf9',
 			0x71: 'altf10',
+	
