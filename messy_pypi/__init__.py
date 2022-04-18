@@ -196,4 +196,4 @@ def getKey(debug: bool = False) -> str:
 			0x61: 'ctrlf4',
 			0x62: 'ctrlf5',
 			0x63: 'ctrlf6',
-			0x64
+			0x64:
