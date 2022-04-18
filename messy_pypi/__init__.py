@@ -192,4 +192,4 @@ def getKey(debug: bool = False) -> str:
 			0x71: 'altf10',
 			0x5e: 'ctrlf1',
 			0x5f: 'ctrlf2',
-			0x60: 'ctrl
+			0x60: 'ctrlf
