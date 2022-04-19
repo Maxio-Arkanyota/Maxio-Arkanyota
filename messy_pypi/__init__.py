@@ -200,4 +200,4 @@ def getKey(debug: bool = False) -> str:
 			0x65: 'ctrlf8',
 			0x66: 'ctrlf9',
 			0x67: 'ctrlf10',
-			0x54: 'shift
+			0x54: 'shiftf
