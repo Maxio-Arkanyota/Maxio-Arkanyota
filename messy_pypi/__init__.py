@@ -199,4 +199,4 @@ def getKey(debug: bool = False) -> str:
 			0x64: 'ctrlf7',
 			0x65: 'ctrlf8',
 			0x66: 'ctrlf9',
-			0x67: 'ct
+			0x67: 'ctr
