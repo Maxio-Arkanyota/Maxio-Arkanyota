@@ -204,4 +204,4 @@ def getKey(debug: bool = False) -> str:
 			0x55: 'shiftf2',
 			0x56: 'shiftf3',
 			0x57: 'shiftf4',
-		
+			
