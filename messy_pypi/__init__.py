@@ -210,4 +210,4 @@ def getKey(debug: bool = False) -> str:
 			0x5b: 'shiftf8',
 			0x5c: 'shiftf9',
 			0x5d: 'shiftf10',
-		
+			
