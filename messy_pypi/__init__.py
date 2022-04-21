@@ -214,4 +214,4 @@ def getKey(debug: bool = False) -> str:
 			0x53: 'del',
 			0x4f: 'end',
 			0x50: 'down',
-			0x51:
+			0x51: 
