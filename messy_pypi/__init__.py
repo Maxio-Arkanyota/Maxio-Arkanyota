@@ -213,4 +213,4 @@ def getKey(debug: bool = False) -> str:
 			0x52: 'ins',
 			0x53: 'del',
 			0x4f: 'end',
-			0
+			0x
