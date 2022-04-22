@@ -219,4 +219,4 @@ def getKey(debug: bool = False) -> str:
 			0x4d: 'right',
 			0x47: 'home',
 			0x48: 'up',
-			0x4
+			0x49
