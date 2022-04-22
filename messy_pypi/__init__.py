@@ -216,4 +216,4 @@ def getKey(debug: bool = False) -> str:
 			0x50: 'down',
 			0x51: 'pgdn',
 			0x4b: 'left',
-			0x4d:
+			0x4d: 
