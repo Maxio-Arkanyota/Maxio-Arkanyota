@@ -220,4 +220,4 @@ def getKey(debug: bool = False) -> str:
 			0x47: 'home',
 			0x48: 'up',
 			0x49: 'pgup',
-		
+			
