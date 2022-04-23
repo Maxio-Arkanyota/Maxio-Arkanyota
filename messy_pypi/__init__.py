@@ -224,4 +224,4 @@ def getKey(debug: bool = False) -> str:
 			0xa3: 'altdel',
 			0x9f: 'altend',
 			0xa0: 'altdown',
-			
+			0
