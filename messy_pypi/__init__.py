@@ -222,4 +222,4 @@ def getKey(debug: bool = False) -> str:
 			0x49: 'pgup',
 			0xa2: 'altins',
 			0xa3: 'altdel',
-			0x9f: 'altend'
+			0x9f: 'altend',
