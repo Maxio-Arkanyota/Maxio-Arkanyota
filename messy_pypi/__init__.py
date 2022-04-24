@@ -232,4 +232,4 @@ def getKey(debug: bool = False) -> str:
 			0x99: 'altpgup',
 			0x92: 'ctrlins',
 			0x93: 'ctrldel',
-			0x75: 'c
+			0x75: 'ct
