@@ -231,4 +231,4 @@ def getKey(debug: bool = False) -> str:
 			0x98: 'altup',
 			0x99: 'altpgup',
 			0x92: 'ctrlins',
-			0x93:
+			0x93: 
