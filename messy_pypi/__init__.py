@@ -230,4 +230,4 @@ def getKey(debug: bool = False) -> str:
 			0x97: 'althome',
 			0x98: 'altup',
 			0x99: 'altpgup',
-			
+			0
