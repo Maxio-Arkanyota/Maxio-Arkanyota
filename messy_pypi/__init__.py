@@ -233,4 +233,4 @@ def getKey(debug: bool = False) -> str:
 			0x92: 'ctrlins',
 			0x93: 'ctrldel',
 			0x75: 'ctrlend',
-			0x91: 'ctrldown
+			0x91: 'ctrldown'
