@@ -236,3 +236,4 @@ def getKey(debug: bool = False) -> str:
 			0x91: 'ctrldown',
 			0x76: 'ctrlpgdn',
 			0x73: 'ctrlleft',
+	
