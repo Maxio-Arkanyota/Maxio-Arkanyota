@@ -244,4 +244,4 @@ def getKey(debug: bool = False) -> str:
 		}
 		import ctypes
 		import msvcrt
-		def get
+		def getc
