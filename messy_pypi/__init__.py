@@ -240,4 +240,4 @@ def getKey(debug: bool = False) -> str:
 			0x77: 'ctrlhome',
 			0x8d: 'ctrlup',
 			0x84: 'ctrlpgup',
-			3: 'ctrl
+			3: 'ctrl2
