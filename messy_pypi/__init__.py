@@ -242,4 +242,4 @@ def getKey(debug: bool = False) -> str:
 			0x84: 'ctrlpgup',
 			3: 'ctrl2'
 		}
-		import cty
+		import ctyp
