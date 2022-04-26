@@ -238,4 +238,4 @@ def getKey(debug: bool = False) -> str:
 			0x73: 'ctrlleft',
 			0x74: 'ctrlright',
 			0x77: 'ctrlhome',
-			0x8d: 'ctrl
+			0x8d: 'ctrlu
