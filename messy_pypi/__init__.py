@@ -243,4 +243,4 @@ def getKey(debug: bool = False) -> str:
 			3: 'ctrl2'
 		}
 		import ctypes
-		impo
+		impor
