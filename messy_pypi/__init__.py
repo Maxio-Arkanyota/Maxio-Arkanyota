@@ -245,3 +245,4 @@ def getKey(debug: bool = False) -> str:
 		import ctypes
 		import msvcrt
 		def getch():
+	
