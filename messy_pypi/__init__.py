@@ -248,4 +248,4 @@ def getKey(debug: bool = False) -> str:
 			n = ord(ctypes.c_char(msvcrt.getch()).value)
 			try:
 				c = chr(n)
-			ex
+			exc
