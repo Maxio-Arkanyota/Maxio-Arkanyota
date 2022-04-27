@@ -246,4 +246,4 @@ def getKey(debug: bool = False) -> str:
 		import msvcrt
 		def getch():
 			n = ord(ctypes.c_char(msvcrt.getch()).value)
-	
+		
