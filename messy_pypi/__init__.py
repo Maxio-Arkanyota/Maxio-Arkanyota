@@ -250,4 +250,4 @@ def getKey(debug: bool = False) -> str:
 				c = chr(n)
 			except:
 				c = '\0'
-			return 
+			return n
