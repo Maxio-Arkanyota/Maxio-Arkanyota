@@ -245,4 +245,4 @@ def getKey(debug: bool = False) -> str:
 		import ctypes
 		import msvcrt
 		def getch():
-			n = ord(ctypes.c_char(m
+			n = ord(ctypes.c_char(ms
