@@ -251,4 +251,4 @@ def getKey(debug: bool = False) -> str:
 			except:
 				c = '\0'
 			return n, c
-		def getk
+		def getke
