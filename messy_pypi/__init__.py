@@ -249,3 +249,4 @@ def getKey(debug: bool = False) -> str:
 			try:
 				c = chr(n)
 			except:
+	
