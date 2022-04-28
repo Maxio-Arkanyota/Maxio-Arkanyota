@@ -252,4 +252,4 @@ def getKey(debug: bool = False) -> str:
 				c = '\0'
 			return n, c
 		def getkey():
-			n, c
+			n, c 
