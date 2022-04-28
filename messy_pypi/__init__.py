@@ -253,4 +253,4 @@ def getKey(debug: bool = False) -> str:
 			return n, c
 		def getkey():
 			n, c = getch()
-			# 0xE0 is 'grey' keys.  change this if you don't 
+			# 0xE0 is 'grey' keys.  change this if you don't l
