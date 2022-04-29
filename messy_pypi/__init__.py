@@ -253,4 +253,4 @@ def getKey(debug: bool = False) -> str:
 			return n, c
 		def getkey():
 			n, c = getch()
-			# 0xE0 is 'grey' keys.  change this if you don't like it, but I don't care what color the key is.  IMHO it just confuses 
+			# 0xE0 is 'grey' keys.  change this if you don't like it, but I don't care what color the key is.  IMHO it just confuses t
