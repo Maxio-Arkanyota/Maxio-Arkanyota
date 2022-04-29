@@ -256,4 +256,4 @@ def getKey(debug: bool = False) -> str:
 			# 0xE0 is 'grey' keys.  change this if you don't like it, but I don't care what color the key is.  IMHO it just confuses the end-user if they need to know.
 			if n == 0 or n == 0xE0:
 				n, c = getch()
-				i
+				if
