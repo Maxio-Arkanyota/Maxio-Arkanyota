@@ -257,4 +257,4 @@ def getKey(debug: bool = False) -> str:
 			if n == 0 or n == 0xE0:
 				n, c = getch()
 				if n in __keydict:
-	
+		
