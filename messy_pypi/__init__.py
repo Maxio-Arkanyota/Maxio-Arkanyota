@@ -259,4 +259,4 @@ def getKey(debug: bool = False) -> str:
 				if n in __keydict:
 					return __keydict[n]
 				return "key%x" % n
-		
+			
