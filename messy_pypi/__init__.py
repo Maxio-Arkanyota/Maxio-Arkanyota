@@ -260,4 +260,4 @@ def getKey(debug: bool = False) -> str:
 					return __keydict[n]
 				return "key%x" % n
 			return c
-	elif platform[
+	elif platform[:
