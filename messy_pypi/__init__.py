@@ -258,4 +258,4 @@ def getKey(debug: bool = False) -> str:
 				n, c = getch()
 				if n in __keydict:
 					return __keydict[n]
-				return "ke
+				return "key
