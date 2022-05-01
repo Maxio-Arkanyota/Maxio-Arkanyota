@@ -265,4 +265,4 @@ def getKey(debug: bool = False) -> str:
 		import termios
 		from sys import stdin
 		def getch():
-			fd = s
+			fd = st
