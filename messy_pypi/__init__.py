@@ -262,4 +262,4 @@ def getKey(debug: bool = False) -> str:
 			return c
 	elif platform[:3] == 'lin' or platform[:3] == 'dar':
 		import tty
-		import termi
+		import termio
