@@ -264,4 +264,4 @@ def getKey(debug: bool = False) -> str:
 		import tty
 		import termios
 		from sys import stdin
-		def getch(
+		def getch()
