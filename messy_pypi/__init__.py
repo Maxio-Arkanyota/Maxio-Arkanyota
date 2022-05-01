@@ -261,4 +261,4 @@ def getKey(debug: bool = False) -> str:
 				return "key%x" % n
 			return c
 	elif platform[:3] == 'lin' or platform[:3] == 'dar':
-		import tt
+		import tty
