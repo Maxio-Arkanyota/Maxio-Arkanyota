@@ -270,4 +270,4 @@ def getKey(debug: bool = False) -> str:
 			try:
 				tty.setraw(stdin.fileno())
 				ch = stdin.read(1)
-			f
+			fi
