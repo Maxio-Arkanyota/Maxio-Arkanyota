@@ -266,4 +266,4 @@ def getKey(debug: bool = False) -> str:
 		from sys import stdin
 		def getch():
 			fd = stdin.fileno()
-			old_settings = termios.tcgetat
+			old_settings = termios.tcgetatt
