@@ -267,4 +267,4 @@ def getKey(debug: bool = False) -> str:
 		def getch():
 			fd = stdin.fileno()
 			old_settings = termios.tcgetattr(fd)
-			try
+			try:
