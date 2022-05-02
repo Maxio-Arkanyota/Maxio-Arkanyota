@@ -271,4 +271,4 @@ def getKey(debug: bool = False) -> str:
 				tty.setraw(stdin.fileno())
 				ch = stdin.read(1)
 			finally:
-				termios.tcsetattr(fd, termios.TCS
+				termios.tcsetattr(fd, termios.TCSA
