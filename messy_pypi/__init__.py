@@ -269,4 +269,4 @@ def getKey(debug: bool = False) -> str:
 			old_settings = termios.tcgetattr(fd)
 			try:
 				tty.setraw(stdin.fileno())
-				ch = std
+				ch = stdi
