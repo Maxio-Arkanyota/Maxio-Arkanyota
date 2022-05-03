@@ -276,4 +276,4 @@ def getKey(debug: bool = False) -> str:
 		def getkey():
 			getchar = getch
 			c1 = getchar()
-			if ord(c
+			if ord(c1
