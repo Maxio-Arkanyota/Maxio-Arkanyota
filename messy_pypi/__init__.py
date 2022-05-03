@@ -275,4 +275,4 @@ def getKey(debug: bool = False) -> str:
 			return ch
 		def getkey():
 			getchar = getch
-			c1 = get
+			c1 = getc
