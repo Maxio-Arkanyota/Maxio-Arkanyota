@@ -274,4 +274,4 @@ def getKey(debug: bool = False) -> str:
 				termios.tcsetattr(fd, termios.TCSADRAIN, old_settings)
 			return ch
 		def getkey():
-			getchar = g
+			getchar = ge
