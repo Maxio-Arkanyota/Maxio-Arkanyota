@@ -272,4 +272,4 @@ def getKey(debug: bool = False) -> str:
 				ch = stdin.read(1)
 			finally:
 				termios.tcsetattr(fd, termios.TCSADRAIN, old_settings)
-	
+		
