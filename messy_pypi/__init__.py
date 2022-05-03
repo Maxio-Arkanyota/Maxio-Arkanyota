@@ -273,3 +273,4 @@ def getKey(debug: bool = False) -> str:
 			finally:
 				termios.tcsetattr(fd, termios.TCSADRAIN, old_settings)
 			return ch
+	
