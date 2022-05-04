@@ -280,4 +280,4 @@ def getKey(debug: bool = False) -> str:
 				return c1
 			c2 = getchar()
 			if ord(c2) != 0x5b:
-				retu
+				retur
