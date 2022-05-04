@@ -278,4 +278,4 @@ def getKey(debug: bool = False) -> str:
 			c1 = getchar()
 			if ord(c1) != 0x1b:
 				return c1
-	
+		
