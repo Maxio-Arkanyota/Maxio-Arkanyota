@@ -287,4 +287,4 @@ def getKey(debug: bool = False) -> str:
 			c4 = getchar()
 			return c1 + c2 + c3 + c4
 	key = getkey()
-	if
+	if 
