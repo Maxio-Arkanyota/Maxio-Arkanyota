@@ -291,3 +291,4 @@ def getKey(debug: bool = False) -> str:
 		exit()
 	else:
 		return key
+d
