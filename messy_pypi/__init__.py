@@ -290,4 +290,4 @@ def getKey(debug: bool = False) -> str:
 	if debug and key == "\x03":
 		exit()
 	else:
-		
+		r
