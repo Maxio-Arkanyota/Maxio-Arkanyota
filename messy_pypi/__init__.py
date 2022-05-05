@@ -288,4 +288,4 @@ def getKey(debug: bool = False) -> str:
 			return c1 + c2 + c3 + c4
 	key = getkey()
 	if debug and key == "\x03":
-		exit(
+		exit()
