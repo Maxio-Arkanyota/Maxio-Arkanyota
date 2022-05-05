@@ -286,4 +286,4 @@ def getKey(debug: bool = False) -> str:
 				return c1 + c2 + c3
 			c4 = getchar()
 			return c1 + c2 + c3 + c4
-	key =
+	key = 
