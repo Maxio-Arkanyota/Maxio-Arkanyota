@@ -289,4 +289,4 @@ def getKey(debug: bool = False) -> str:
 	key = getkey()
 	if debug and key == "\x03":
 		exit()
-	el
+	els
