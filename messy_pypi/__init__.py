@@ -285,4 +285,4 @@ def getKey(debug: bool = False) -> str:
 			if ord(c3) != 0x33:
 				return c1 + c2 + c3
 			c4 = getchar()
-			return c1 + c
+			return c1 + c2
