@@ -292,3 +292,4 @@ def getKey(debug: bool = False) -> str:
 	else:
 		return key
 def get_key_bytes(debug: bool = False) -> bytes:
+	
