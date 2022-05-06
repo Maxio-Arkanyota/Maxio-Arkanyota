@@ -291,4 +291,4 @@ def getKey(debug: bool = False) -> str:
 		exit()
 	else:
 		return key
-def ge
+def get
