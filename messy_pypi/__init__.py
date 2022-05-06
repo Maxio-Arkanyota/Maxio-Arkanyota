@@ -293,4 +293,4 @@ def getKey(debug: bool = False) -> str:
 		return key
 def get_key_bytes(debug: bool = False) -> bytes:
 	return getKey(debug=debug).encode()
-# All {{
+# All {{{
