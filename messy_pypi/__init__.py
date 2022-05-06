@@ -291,4 +291,4 @@ def getKey(debug: bool = False) -> str:
 		exit()
 	else:
 		return key
-def get_key_bytes(debug
+def get_key_bytes(debug:
