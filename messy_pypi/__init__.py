@@ -296,4 +296,4 @@ def get_key_bytes(debug: bool = False) -> bytes:
 # All {{{1
 # Launch and import {{{2
 # COMPRESSINT {{{3
-# Permet de compres
+# Permet de compress
