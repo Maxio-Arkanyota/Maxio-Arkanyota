@@ -295,4 +295,4 @@ def get_key_bytes(debug: bool = False) -> bytes:
 	return getKey(debug=debug).encode()
 # All {{{1
 # Launch and import {{{2
-# COMPRESSINT 
+# COMPRESSINT {
