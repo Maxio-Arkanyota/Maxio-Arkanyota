@@ -296,4 +296,4 @@ def get_key_bytes(debug: bool = False) -> bytes:
 # All {{{1
 # Launch and import {{{2
 # COMPRESSINT {{{3
-# Permet de compresser une chaine un nombre par la moiter de sa lon
+# Permet de compresser une chaine un nombre par la moiter de sa long
