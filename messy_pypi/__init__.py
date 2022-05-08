@@ -299,4 +299,4 @@ def get_key_bytes(debug: bool = False) -> bytes:
 # Permet de compresser une chaine un nombre par la moiter de sa longueur
 # Fonctions
 # - randomnombre(lenNb: int) -> str:  Renvoie un nombre aléatoire de longueur lenNb
-# - owrite(strin
+# - owrite(string
