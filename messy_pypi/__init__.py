@@ -298,4 +298,4 @@ def get_key_bytes(debug: bool = False) -> bytes:
 # COMPRESSINT {{{3
 # Permet de compresser une chaine un nombre par la moiter de sa longueur
 # Fonctions
-# - randomnombre(lenNb: int) -> str:  Renvoie un 
+# - randomnombre(lenNb: int) -> str:  Renvoie un n
