@@ -302,4 +302,4 @@ def get_key_bytes(debug: bool = False) -> bytes:
 # - owrite(stringNbRandom: str, outfile: str(file)) -> Compresse le str dans le fichier outfile
 # - oread(file: str, outfile: str(file)) -> Compresse le str dans le fichier outfile
 # HelpMenu
-# 
+# C
