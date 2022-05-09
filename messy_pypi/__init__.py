@@ -300,4 +300,4 @@ def get_key_bytes(debug: bool = False) -> bytes:
 # Fonctions
 # - randomnombre(lenNb: int) -> str:  Renvoie un nombre aléatoire de longueur lenNb
 # - owrite(stringNbRandom: str, outfile: str(file)) -> Compresse le str dans le fichier outfile
-# - oread(file: str, ou
+# - oread(file: str, out
