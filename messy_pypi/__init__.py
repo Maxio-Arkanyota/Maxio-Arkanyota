@@ -305,3 +305,4 @@ def get_key_bytes(debug: bool = False) -> bytes:
 # Compression:
 # 	compressint -x [file_output]
 # 	Marche avec un input
+#
