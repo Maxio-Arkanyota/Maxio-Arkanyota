@@ -303,4 +303,4 @@ def get_key_bytes(debug: bool = False) -> bytes:
 # - oread(file: str, outfile: str(file)) -> Compresse le str dans le fichier outfile
 # HelpMenu
 # Compression:
-# 	compressint 
+# 	compressint -
