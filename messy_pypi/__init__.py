@@ -311,4 +311,4 @@ class CompressInt:
 	def randomnombre(self, lenNb):
 		# Entree: lenNb: int
 		# Sortie: str
-		# Renvoi un nombre d
+		# Renvoi un nombre de
