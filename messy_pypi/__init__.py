@@ -310,4 +310,4 @@ def get_key_bytes(debug: bool = False) -> bytes:
 class CompressInt:
 	def randomnombre(self, lenNb):
 		# Entree: lenNb: int
-		# Sortie: st
+		# Sortie: str
