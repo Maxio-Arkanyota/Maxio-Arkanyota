@@ -307,4 +307,4 @@ def get_key_bytes(debug: bool = False) -> bytes:
 # 	Marche avec un input
 # Deompression:
 # 	compressint -X <file_compresser> [file_output]
-class CompressInt
+class CompressInt:
