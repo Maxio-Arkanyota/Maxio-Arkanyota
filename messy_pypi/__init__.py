@@ -308,4 +308,4 @@ def get_key_bytes(debug: bool = False) -> bytes:
 # Deompression:
 # 	compressint -X <file_compresser> [file_output]
 class CompressInt:
-	def randomnombre(self, lenNb
+	def randomnombre(self, lenNb)
