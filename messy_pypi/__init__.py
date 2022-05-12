@@ -317,4 +317,4 @@ class CompressInt:
 			stringNb += str(random.randint(0, 9))
 		return stringNb
 	@staticmethod
-	def 
+	def o
