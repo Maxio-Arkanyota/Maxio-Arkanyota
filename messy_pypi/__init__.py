@@ -312,4 +312,4 @@ class CompressInt:
 		# Entree: lenNb: int
 		# Sortie: str
 		# Renvoi un nombre de longeur `lenNb`
-		stringNb = 
+		stringNb = "
