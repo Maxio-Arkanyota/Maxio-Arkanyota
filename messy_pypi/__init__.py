@@ -314,4 +314,4 @@ class CompressInt:
 		# Renvoi un nombre de longeur `lenNb`
 		stringNb = ""
 		for _ in range(lenNb):
-			stringNb += str(random.rand
+			stringNb += str(random.randi
