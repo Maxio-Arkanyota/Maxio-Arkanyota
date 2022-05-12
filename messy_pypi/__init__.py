@@ -316,4 +316,4 @@ class CompressInt:
 		for _ in range(lenNb):
 			stringNb += str(random.randint(0, 9))
 		return stringNb
-	@staticmeth
+	@staticmetho
