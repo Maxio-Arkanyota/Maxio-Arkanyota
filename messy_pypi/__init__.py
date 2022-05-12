@@ -313,4 +313,4 @@ class CompressInt:
 		# Sortie: str
 		# Renvoi un nombre de longeur `lenNb`
 		stringNb = ""
-		for _
+		for _ 
