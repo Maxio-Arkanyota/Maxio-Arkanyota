@@ -317,4 +317,4 @@ class CompressInt:
 			stringNb += str(random.randint(0, 9))
 		return stringNb
 	@staticmethod
-	def owrite(stringNbRandom, out
+	def owrite(stringNbRandom, outf
