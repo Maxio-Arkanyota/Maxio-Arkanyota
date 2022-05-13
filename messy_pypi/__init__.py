@@ -318,3 +318,4 @@ class CompressInt:
 		return stringNb
 	@staticmethod
 	def owrite(stringNbRandom, outfile):
+	
