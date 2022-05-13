@@ -323,4 +323,4 @@ class CompressInt:
 		Sortie: None
 		"""
 		l = ""
-		for i i
+		for i in
