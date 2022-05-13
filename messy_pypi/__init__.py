@@ -322,4 +322,4 @@ class CompressInt:
 		Entree: stringNbRandom: str, outfile: str(file name)
 		Sortie: None
 		"""
-		l =
+		l = 
