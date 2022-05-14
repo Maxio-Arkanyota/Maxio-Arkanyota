@@ -327,4 +327,4 @@ class CompressInt:
 			a = stringNbRandom[i * 2:((i * 2) + 2)]
 			if a == "13":
 				l += chr(100)
-			els
+			else
