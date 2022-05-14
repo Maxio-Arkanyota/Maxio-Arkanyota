@@ -328,4 +328,4 @@ class CompressInt:
 			if a == "13":
 				l += chr(100)
 			else:
-				l += chr(in
+				l += chr(int
