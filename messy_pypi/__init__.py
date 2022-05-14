@@ -325,4 +325,4 @@ class CompressInt:
 		l = ""
 		for i in range(len(stringNbRandom) // 2):
 			a = stringNbRandom[i * 2:((i * 2) + 2)]
-			if a == "1
+			if a == "13
