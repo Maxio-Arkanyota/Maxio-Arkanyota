@@ -323,4 +323,4 @@ class CompressInt:
 		Sortie: None
 		"""
 		l = ""
-		for i in range(len(string
+		for i in range(len(stringN
