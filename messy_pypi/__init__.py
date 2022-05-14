@@ -328,4 +328,4 @@ class CompressInt:
 			if a == "13":
 				l += chr(100)
 			else:
-				l += c
+				l += ch
