@@ -324,3 +324,4 @@ class CompressInt:
 		"""
 		l = ""
 		for i in range(len(stringNbRandom) // 2):
+	
