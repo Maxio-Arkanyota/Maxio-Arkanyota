@@ -330,3 +330,4 @@ class CompressInt:
 			else:
 				l += chr(int(a))
 		if len(stringNbRandom) % 2 == 1:
+	
