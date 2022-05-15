@@ -332,3 +332,4 @@ class CompressInt:
 		if len(stringNbRandom) % 2 == 1:
 			l += "e" + chr(int(stringNbRandom[-1]))
 		with open(outfile, "w") as f:  # Write other thing
+	
