@@ -333,4 +333,4 @@ class CompressInt:
 			l += "e" + chr(int(stringNbRandom[-1]))
 		with open(outfile, "w") as f:  # Write other thing
 			f.write(l)
-	@staticmet
+	@staticmeth
