@@ -339,3 +339,4 @@ class CompressInt:
 		Entree: file, outfile:str(file)
 		Sortie: None
 		"""
+	
