@@ -336,4 +336,4 @@ class CompressInt:
 	@staticmethod
 	def oread(file, outfile):
 		"""
-		Entree: file, outfile:str
+		Entree: file, outfile:str(
