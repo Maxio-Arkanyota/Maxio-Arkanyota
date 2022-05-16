@@ -334,4 +334,4 @@ class CompressInt:
 		with open(outfile, "w") as f:  # Write other thing
 			f.write(l)
 	@staticmethod
-	def oread(fi
+	def oread(fil
