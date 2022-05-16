@@ -340,3 +340,4 @@ class CompressInt:
 		Sortie: None
 		"""
 		l = ""
+	
