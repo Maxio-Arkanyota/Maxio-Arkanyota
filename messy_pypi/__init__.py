@@ -337,4 +337,4 @@ class CompressInt:
 	def oread(file, outfile):
 		"""
 		Entree: file, outfile:str(file)
-		Sortie: Non
+		Sortie: None
