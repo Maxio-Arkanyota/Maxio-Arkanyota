@@ -346,4 +346,4 @@ class CompressInt:
 		for i in a:
 			if reachend:
 				l += str(ord(i))
-			elif ord(i) == 
+			elif ord(i) == 1
