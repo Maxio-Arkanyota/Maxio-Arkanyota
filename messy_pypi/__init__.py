@@ -341,4 +341,4 @@ class CompressInt:
 		"""
 		l = ""
 		reachend = False
-		with open(file, "r") a
+		with open(file, "r") as
