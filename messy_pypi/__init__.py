@@ -342,4 +342,4 @@ class CompressInt:
 		l = ""
 		reachend = False
 		with open(file, "r") as f:
-			a = f.read(
+			a = f.read()
