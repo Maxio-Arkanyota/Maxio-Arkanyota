@@ -341,4 +341,4 @@ class CompressInt:
 		"""
 		l = ""
 		reachend = False
-		with op
+		with ope
