@@ -343,3 +343,4 @@ class CompressInt:
 		reachend = False
 		with open(file, "r") as f:
 			a = f.read()
+	
