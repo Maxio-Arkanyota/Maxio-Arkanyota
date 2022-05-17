@@ -347,3 +347,4 @@ class CompressInt:
 			if reachend:
 				l += str(ord(i))
 			elif ord(i) == 100:
+	
