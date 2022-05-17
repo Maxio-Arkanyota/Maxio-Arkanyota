@@ -344,3 +344,4 @@ class CompressInt:
 		with open(file, "r") as f:
 			a = f.read()
 		for i in a:
+	
