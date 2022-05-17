@@ -345,4 +345,4 @@ class CompressInt:
 			a = f.read()
 		for i in a:
 			if reachend:
-				l += str
+				l += str(
