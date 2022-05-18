@@ -351,4 +351,4 @@ class CompressInt:
 			elif ord(i) == 101:  # e
 				reachend = True
 			else:
-				l += str(ord(i)).zfi
+				l += str(ord(i)).zfil
