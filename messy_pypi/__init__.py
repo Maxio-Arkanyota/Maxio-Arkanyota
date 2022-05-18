@@ -351,3 +351,4 @@ class CompressInt:
 			elif ord(i) == 101:  # e
 				reachend = True
 			else:
+	
