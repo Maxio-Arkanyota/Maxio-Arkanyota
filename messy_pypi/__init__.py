@@ -352,3 +352,4 @@ class CompressInt:
 				reachend = True
 			else:
 				l += str(ord(i)).zfill(2)
+	
