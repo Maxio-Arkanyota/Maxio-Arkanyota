@@ -351,4 +351,4 @@ class CompressInt:
 			elif ord(i) == 101:  # e
 				reachend = True
 			else:
-				l += s
+				l += st
