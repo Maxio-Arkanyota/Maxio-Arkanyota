@@ -349,4 +349,4 @@ class CompressInt:
 			elif ord(i) == 100:
 				l += "13"
 			elif ord(i) == 101:  # e
-				reac
+				reach
