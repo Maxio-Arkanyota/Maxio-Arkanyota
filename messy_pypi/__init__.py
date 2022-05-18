@@ -352,4 +352,4 @@ class CompressInt:
 				reachend = True
 			else:
 				l += str(ord(i)).zfill(2)
-		with open(outfile, "w") as f
+		with open(outfile, "w") as f:
