@@ -357,3 +357,4 @@ class CompressInt:
 	def main(self, is_compression=True):
 		file_output = "out.txt"
 		file_input = "in.txt"
+	
