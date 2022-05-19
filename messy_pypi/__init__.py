@@ -359,4 +359,4 @@ class CompressInt:
 		file_input = "in.txt"
 		if is_compression:
 			try:
-				stringNombre = open(file
+				stringNombre = open(file_
