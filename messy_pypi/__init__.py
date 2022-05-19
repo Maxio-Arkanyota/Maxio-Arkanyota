@@ -358,4 +358,4 @@ class CompressInt:
 		file_output = "out.txt"
 		file_input = "in.txt"
 		if is_compression:
-			t
+			tr
