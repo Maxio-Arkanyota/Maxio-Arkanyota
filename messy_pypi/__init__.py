@@ -354,4 +354,4 @@ class CompressInt:
 				l += str(ord(i)).zfill(2)
 		with open(outfile, "w") as f:
 			f.write(l)
-	def main(self, is_compr
+	def main(self, is_compre
