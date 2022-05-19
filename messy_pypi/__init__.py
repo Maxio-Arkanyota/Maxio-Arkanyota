@@ -355,4 +355,4 @@ class CompressInt:
 		with open(outfile, "w") as f:
 			f.write(l)
 	def main(self, is_compression=True):
-		file_output = "out
+		file_output = "out.
