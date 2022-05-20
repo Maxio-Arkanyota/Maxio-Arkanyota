@@ -364,4 +364,4 @@ class CompressInt:
 				return
 			if stringNombre.isdigit():
 				self.owrite(stringNombre, file_output)
-		
+			
