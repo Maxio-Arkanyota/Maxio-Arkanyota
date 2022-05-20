@@ -363,4 +363,4 @@ class CompressInt:
 			except:
 				return
 			if stringNombre.isdigit():
-				self.owrite(stringNombr
+				self.owrite(stringNombre
