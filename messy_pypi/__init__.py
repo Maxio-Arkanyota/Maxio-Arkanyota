@@ -363,3 +363,4 @@ class CompressInt:
 			except:
 				return
 			if stringNombre.isdigit():
+	
