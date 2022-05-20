@@ -361,4 +361,4 @@ class CompressInt:
 			try:
 				stringNombre = open(file_input, 'r').readline()
 			except:
-				re
+				ret
