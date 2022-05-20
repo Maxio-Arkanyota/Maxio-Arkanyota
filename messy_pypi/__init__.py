@@ -362,4 +362,4 @@ class CompressInt:
 				stringNombre = open(file_input, 'r').readline()
 			except:
 				return
-			if stringNombre.is
+			if stringNombre.isd
