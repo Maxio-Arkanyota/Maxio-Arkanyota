@@ -360,3 +360,4 @@ class CompressInt:
 		if is_compression:
 			try:
 				stringNombre = open(file_input, 'r').readline()
+	
