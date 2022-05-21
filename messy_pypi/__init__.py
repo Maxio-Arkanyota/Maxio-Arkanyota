@@ -369,4 +369,4 @@ class CompressInt:
 		else:
 			self.oread(sys.argv[2], file_output)
 # Démineur Terminal {{{3
-de
+def
