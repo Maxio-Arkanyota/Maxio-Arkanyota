@@ -371,4 +371,4 @@ class CompressInt:
 # Démineur Terminal {{{3
 def demineur():
 	size = 10
-	game_ope
+	game_open
