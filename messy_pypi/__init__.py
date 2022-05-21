@@ -368,4 +368,4 @@ class CompressInt:
 				raise Exception("Un nombre est attendu")
 		else:
 			self.oread(sys.argv[2], file_output)
-# Démin
+# Démine
