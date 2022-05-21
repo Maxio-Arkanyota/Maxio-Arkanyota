@@ -366,3 +366,4 @@ class CompressInt:
 				self.owrite(stringNombre, file_output)
 			else:
 				raise Exception("Un nombre est attendu")
+	
