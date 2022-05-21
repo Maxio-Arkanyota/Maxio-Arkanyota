@@ -365,4 +365,4 @@ class CompressInt:
 			if stringNombre.isdigit():
 				self.owrite(stringNombre, file_output)
 			else:
-				raise Exception
+				raise Exception(
