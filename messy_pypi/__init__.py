@@ -367,4 +367,4 @@ class CompressInt:
 			else:
 				raise Exception("Un nombre est attendu")
 		else:
-			self.oread(sys.ar
+			self.oread(sys.arg
