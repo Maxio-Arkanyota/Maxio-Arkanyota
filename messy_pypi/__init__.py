@@ -372,4 +372,4 @@ class CompressInt:
 def demineur():
 	size = 10
 	game_open = True
-	
+	d
