@@ -373,3 +373,4 @@ def demineur():
 	size = 10
 	game_open = True
 	drapeau_map = [
+	
