@@ -378,3 +378,4 @@ def demineur():
 		]
 		for _ in range(size)
 	]
+	
