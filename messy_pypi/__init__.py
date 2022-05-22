@@ -375,4 +375,4 @@ def demineur():
 	drapeau_map = [
 		[
 			False for _ in range(size)
-		
+		]
