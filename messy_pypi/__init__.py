@@ -379,4 +379,4 @@ def demineur():
 		for _ in range(size)
 	]
 	plateau = []
-	for i in range(size
+	for i in range(size)
