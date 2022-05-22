@@ -376,4 +376,4 @@ def demineur():
 		[
 			False for _ in range(size)
 		]
-		for _ in ran
+		for _ in rang
