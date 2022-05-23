@@ -383,4 +383,4 @@ def demineur():
 		ligne = []
 		for j in range(size):
 			if randint(1, 10) >= 3:
-				l
+				li
