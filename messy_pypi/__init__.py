@@ -387,4 +387,4 @@ def demineur():
 			else:
 				ligne += [9]
 		plateau += [ligne]
-	nouve
+	nouvea
