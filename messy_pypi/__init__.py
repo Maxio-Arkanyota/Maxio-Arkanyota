@@ -381,4 +381,4 @@ def demineur():
 	plateau = []
 	for i in range(size):
 		ligne = []
-		for j in range(si
+		for j in range(siz
