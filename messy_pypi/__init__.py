@@ -382,3 +382,4 @@ def demineur():
 	for i in range(size):
 		ligne = []
 		for j in range(size):
+	
