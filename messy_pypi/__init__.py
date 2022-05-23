@@ -385,3 +385,4 @@ def demineur():
 			if randint(1, 10) >= 3:
 				ligne += [10]
 			else:
+	
