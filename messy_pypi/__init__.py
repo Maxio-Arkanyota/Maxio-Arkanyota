@@ -394,3 +394,4 @@ def demineur():
 			if plateau[i][j] == 9:
 				ligne += [9]
 			else:
+	
