@@ -392,4 +392,4 @@ def demineur():
 		ligne = []
 		for j in range(len(plateau[i])):
 			if plateau[i][j] == 9:
-		
+			
