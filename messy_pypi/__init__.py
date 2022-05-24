@@ -395,3 +395,4 @@ def demineur():
 				ligne += [9]
 			else:
 				somme = 0
+	
