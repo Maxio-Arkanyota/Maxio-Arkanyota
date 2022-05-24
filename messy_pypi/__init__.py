@@ -391,4 +391,4 @@ def demineur():
 	for i in range(len(plateau)):
 		ligne = []
 		for j in range(len(plateau[i])):
-			if plate
+			if platea
