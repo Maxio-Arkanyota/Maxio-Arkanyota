@@ -398,3 +398,4 @@ def demineur():
 				for k in range(-1, 2):
 					for l in range(-1, 2):
 						if not (k == 0 and l == 0):
+	
