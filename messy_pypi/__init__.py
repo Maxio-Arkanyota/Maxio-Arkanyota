@@ -399,4 +399,4 @@ def demineur():
 					for l in range(-1, 2):
 						if not (k == 0 and l == 0):
 							if 0 <= i + k < 10 and 0 <= j + l < 10:
-								if 
+								if p
