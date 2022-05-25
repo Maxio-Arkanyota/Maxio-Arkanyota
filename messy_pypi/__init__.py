@@ -396,4 +396,4 @@ def demineur():
 			else:
 				somme = 0
 				for k in range(-1, 2):
-					for l in rang
+					for l in range
