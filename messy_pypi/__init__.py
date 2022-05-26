@@ -405,3 +405,4 @@ def demineur():
 					ligne += [10]
 				else:
 					ligne += [-somme]
+	
