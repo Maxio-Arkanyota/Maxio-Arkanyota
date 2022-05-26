@@ -403,4 +403,4 @@ def demineur():
 									somme += 1
 				if somme == 0:
 					ligne += [10]
-				e
+				el
