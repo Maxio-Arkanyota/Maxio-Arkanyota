@@ -402,4 +402,4 @@ def demineur():
 								if plateau[i + k][j + l] == 9:
 									somme += 1
 				if somme == 0:
-					ligne += [
+					ligne += [1
