@@ -405,4 +405,4 @@ def demineur():
 					ligne += [10]
 				else:
 					ligne += [-somme]
-		nouveau_pla
+		nouveau_plat
