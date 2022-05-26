@@ -400,4 +400,4 @@ def demineur():
 						if not (k == 0 and l == 0):
 							if 0 <= i + k < 10 and 0 <= j + l < 10:
 								if plateau[i + k][j + l] == 9:
-									so
+									som
