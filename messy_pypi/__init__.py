@@ -406,4 +406,4 @@ def demineur():
 				else:
 					ligne += [-somme]
 		nouveau_plateau += [ligne]
-	d
+	de
