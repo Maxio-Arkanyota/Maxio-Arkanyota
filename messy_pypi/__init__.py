@@ -404,4 +404,4 @@ def demineur():
 				if somme == 0:
 					ligne += [10]
 				else:
-					lign
+					ligne
