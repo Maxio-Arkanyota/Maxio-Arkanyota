@@ -407,4 +407,4 @@ def demineur():
 					ligne += [-somme]
 		nouveau_plateau += [ligne]
 	del ligne
-	plateau = nouveau_plat
+	plateau = nouveau_plate
