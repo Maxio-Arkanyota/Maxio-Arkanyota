@@ -408,4 +408,4 @@ def demineur():
 		nouveau_plateau += [ligne]
 	del ligne
 	plateau = nouveau_plateau
-	# Plateau = [[0 if randint(1,10) >= 2 else -1 for j in 
+	# Plateau = [[0 if randint(1,10) >= 2 else -1 for j in r
