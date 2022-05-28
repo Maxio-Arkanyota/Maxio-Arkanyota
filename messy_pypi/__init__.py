@@ -411,4 +411,4 @@ def demineur():
 	# Plateau = [[0 if randint(1,10) >= 2 else -1 for j in range(size)] for i in range(size)]
 	# Cache = [[1 for j in range(size)] for i in range(size)]
 	x, y = size // 2, size // 2
-	player_a_ga
+	player_a_gag
