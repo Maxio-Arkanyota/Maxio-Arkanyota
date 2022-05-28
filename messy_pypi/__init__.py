@@ -409,4 +409,4 @@ def demineur():
 	del ligne
 	plateau = nouveau_plateau
 	# Plateau = [[0 if randint(1,10) >= 2 else -1 for j in range(size)] for i in range(size)]
-	# Cache = [[1 for j in range
+	# Cache = [[1 for j in range(
