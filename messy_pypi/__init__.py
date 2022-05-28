@@ -414,4 +414,4 @@ def demineur():
 	player_a_gagner = False
 	ligne = False
 	while game_open:
-	
+		
