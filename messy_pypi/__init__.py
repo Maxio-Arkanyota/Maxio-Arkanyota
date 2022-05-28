@@ -412,4 +412,4 @@ def demineur():
 	# Cache = [[1 for j in range(size)] for i in range(size)]
 	x, y = size // 2, size // 2
 	player_a_gagner = False
-	ligne = 
+	ligne = F
