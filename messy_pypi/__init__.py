@@ -420,3 +420,4 @@ def demineur():
 			key = getKey(debug=True)
 			if key == "\r":
 				demineur()
+	
