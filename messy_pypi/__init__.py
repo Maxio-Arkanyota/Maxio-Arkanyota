@@ -419,4 +419,4 @@ def demineur():
 			print_char(1, 1, "Vous avez gagné\n" + "restart: Enter\n" + "exit: CtrlC")
 			key = getKey(debug=True)
 			if key == "\r":
-				
+				d
