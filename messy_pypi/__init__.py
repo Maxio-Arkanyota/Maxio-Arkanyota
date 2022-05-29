@@ -417,4 +417,4 @@ def demineur():
 		if player_a_gagner:
 			clear()
 			print_char(1, 1, "Vous avez gagné\n" + "restart: Enter\n" + "exit: CtrlC")
-			ke
+			key
