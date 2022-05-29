@@ -416,4 +416,4 @@ def demineur():
 	while game_open:
 		if player_a_gagner:
 			clear()
-			print_char(1, 1, "Vo
+			print_char(1, 1, "Vou
