@@ -420,4 +420,4 @@ def demineur():
 			key = getKey(debug=True)
 			if key == "\r":
 				demineur()
-		elif ligne
+		elif ligne:
