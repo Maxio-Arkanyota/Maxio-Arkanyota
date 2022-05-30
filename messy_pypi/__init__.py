@@ -422,3 +422,4 @@ def demineur():
 				demineur()
 		elif ligne:
 			clear()
+	
