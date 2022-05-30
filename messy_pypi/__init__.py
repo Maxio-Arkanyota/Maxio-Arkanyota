@@ -422,4 +422,4 @@ def demineur():
 				demineur()
 		elif ligne:
 			clear()
-			print_char(1, 1, "Vous avez perdu\n" +"restart: Enter\n" + "e
+			print_char(1, 1, "Vous avez perdu\n" +"restart: Enter\n" + "ex
