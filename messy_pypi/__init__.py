@@ -422,4 +422,4 @@ def demineur():
 				demineur()
 		elif ligne:
 			clear()
-			print_char(1, 1, "V
+			print_char(1, 1, "Vo
