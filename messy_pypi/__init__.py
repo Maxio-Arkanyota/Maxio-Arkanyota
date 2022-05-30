@@ -422,4 +422,4 @@ def demineur():
 				demineur()
 		elif ligne:
 			clear()
-			print_char(
+			print_char(1
