@@ -424,4 +424,4 @@ def demineur():
 			clear()
 			print_char(1, 1, "Vous avez perdu\n" +"restart: Enter\n" + "exit: CtrlC")
 			for i in range(len(plateau)):
-				print("\n ", e
+				print("\n ", en
