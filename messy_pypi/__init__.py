@@ -421,4 +421,4 @@ def demineur():
 			if key == "\r":
 				demineur()
 		elif ligne:
-			clear(
+			clear()
