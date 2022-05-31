@@ -427,4 +427,4 @@ def demineur():
 				print("\n ", end="")
 				for j in range(len(plateau[i])):
 					if plateau[i][j] == 0:
-						char_
+						char_i
