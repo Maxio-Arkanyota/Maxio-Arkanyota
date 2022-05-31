@@ -426,3 +426,4 @@ def demineur():
 			for i in range(len(plateau)):
 				print("\n ", end="")
 				for j in range(len(plateau[i])):
+	
