@@ -428,3 +428,4 @@ def demineur():
 				for j in range(len(plateau[i])):
 					if plateau[i][j] == 0:
 						char_item = " "
+	
