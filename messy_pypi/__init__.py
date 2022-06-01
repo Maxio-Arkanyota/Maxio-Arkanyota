@@ -432,4 +432,4 @@ def demineur():
 						char_item = plateau[i][j]
 					elif -1 >= plateau[i][j] >= -8:
 						char_item = "\u2588"
-					elif plateau[i][
+					elif plateau[i][j
