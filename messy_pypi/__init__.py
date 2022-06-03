@@ -445,4 +445,4 @@ def demineur():
 						((terminal_size("Y") - size) // 2) + j,
 						char_item
 					)
-			key = getKey(debug=
+			key = getKey(debug=T
