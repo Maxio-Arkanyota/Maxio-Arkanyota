@@ -444,4 +444,4 @@ def demineur():
 						((terminal_size("X") - size) // 2) + i,
 						((terminal_size("Y") - size) // 2) + j,
 						char_item
-					
+					)
