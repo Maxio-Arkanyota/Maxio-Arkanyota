@@ -441,4 +441,4 @@ def demineur():
 					else:
 						char_item = "?"
 					print_char(
-						((terminal_si
+						((terminal_siz
