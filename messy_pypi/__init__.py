@@ -449,4 +449,4 @@ def demineur():
 			if key == "\r":
 				demineur()
 		else:
-			print_char
+			print_char(
