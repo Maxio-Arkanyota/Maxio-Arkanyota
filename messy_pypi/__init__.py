@@ -453,3 +453,4 @@ def demineur():
 					   "left: q ou ← \n" +
 					   "up: z ou ↑ \n" +
 					   "right: d ou → \n" +
+	
