@@ -450,3 +450,4 @@ def demineur():
 				demineur()
 		else:
 			print_char(1, 1,
+	
