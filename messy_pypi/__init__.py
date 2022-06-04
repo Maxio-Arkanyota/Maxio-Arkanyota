@@ -452,4 +452,4 @@ def demineur():
 			print_char(1, 1,
 					   "left: q ou ← \n" +
 					   "up: z ou ↑ \n" +
-					   "right: d o
+					   "right: d ou
