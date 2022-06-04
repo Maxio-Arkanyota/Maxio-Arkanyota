@@ -446,3 +446,4 @@ def demineur():
 						char_item
 					)
 			key = getKey(debug=True)
+	
