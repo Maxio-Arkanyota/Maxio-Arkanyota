@@ -450,4 +450,4 @@ def demineur():
 				demineur()
 		else:
 			print_char(1, 1,
-					   "left: q 
+					   "left: q o
