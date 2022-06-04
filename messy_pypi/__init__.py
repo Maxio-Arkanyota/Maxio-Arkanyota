@@ -451,4 +451,4 @@ def demineur():
 		else:
 			print_char(1, 1,
 					   "left: q ou ← \n" +
-					   "u
+					   "up
