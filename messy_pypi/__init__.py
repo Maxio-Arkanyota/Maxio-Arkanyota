@@ -456,3 +456,4 @@ def demineur():
 					   "down: s ou ↓ \n" +
 					   "click: a ou Enter \n" +
 					   "flag: e"
+	
