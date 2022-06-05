@@ -457,4 +457,4 @@ def demineur():
 					   "click: a ou Enter \n" +
 					   "flag: e"
 					   )
-			siz
+			size
