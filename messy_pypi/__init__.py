@@ -454,4 +454,4 @@ def demineur():
 					   "up: z ou ↑ \n" +
 					   "right: d ou → \n" +
 					   "down: s ou ↓ \n" +
-					   "click: a ou Enter
+					   "click: a ou Enter 
