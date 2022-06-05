@@ -457,4 +457,4 @@ def demineur():
 					   "click: a ou Enter \n" +
 					   "flag: e"
 					   )
-			size_trop_petit = message_page_t
+			size_trop_petit = message_page_tr
