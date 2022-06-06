@@ -458,4 +458,4 @@ def demineur():
 					   "flag: e"
 					   )
 			size_trop_petit = message_page_trop_petite(size + 2, size + 2)
-			if not size_trop
+			if not size_trop_
