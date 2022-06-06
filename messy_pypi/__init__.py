@@ -461,4 +461,4 @@ def demineur():
 			if not size_trop_petit:
 				# print(Plateau)
 				player_a_gagner = True
-				for i in range(
+				for i in range(l
