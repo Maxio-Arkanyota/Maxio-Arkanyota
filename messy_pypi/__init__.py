@@ -463,4 +463,4 @@ def demineur():
 				player_a_gagner = True
 				for i in range(len(plateau)):
 					print("\n ", end="")
-					for j in range(len(pl
+					for j in range(len(pla
