@@ -460,4 +460,4 @@ def demineur():
 			size_trop_petit = message_page_trop_petite(size + 2, size + 2)
 			if not size_trop_petit:
 				# print(Plateau)
-				player_a_gag
+				player_a_gagn
