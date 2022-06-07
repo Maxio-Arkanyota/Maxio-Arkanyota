@@ -464,4 +464,4 @@ def demineur():
 				for i in range(len(plateau)):
 					print("\n ", end="")
 					for j in range(len(plateau[i])):
-						if plateau[i][j] ==
+						if plateau[i][j] == 
