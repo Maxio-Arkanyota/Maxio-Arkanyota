@@ -468,4 +468,4 @@ def demineur():
 							char_item = " "
 						elif 1 <= plateau[i][j] <= 8:
 							char_item = plateau[i][j]
-						elif -1 >= 
+						elif -1 >= p
