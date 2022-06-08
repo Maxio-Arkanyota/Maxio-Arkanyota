@@ -471,4 +471,4 @@ def demineur():
 						elif -1 >= plateau[i][j] >= -8:
 							char_item = "\u2588"
 							player_a_gagner = False
-						elif plateau[i][j] == 1
+						elif plateau[i][j] == 10
