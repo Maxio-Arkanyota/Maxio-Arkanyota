@@ -477,4 +477,4 @@ def demineur():
 						elif plateau[i][j] == 9:
 							char_item = "\u2588"
 						elif plateau[i][j] == 12:
-							char_item = "\033[31m☭\
+							char_item = "\033[31m☭\0
