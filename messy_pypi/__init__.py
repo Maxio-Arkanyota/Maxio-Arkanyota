@@ -482,4 +482,4 @@ def demineur():
 							char_item = "?"
 						print_char(
 							((terminal_size("X") - size) // 2) + i,
-							((termina
+							((terminal
