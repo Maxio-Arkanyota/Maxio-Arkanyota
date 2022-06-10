@@ -480,4 +480,4 @@ def demineur():
 							char_item = "\033[31m☭\033[0m"
 						else:
 							char_item = "?"
-						print_cha
+						print_char
