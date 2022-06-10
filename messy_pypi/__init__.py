@@ -481,4 +481,4 @@ def demineur():
 						else:
 							char_item = "?"
 						print_char(
-		
+			
