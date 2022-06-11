@@ -487,4 +487,4 @@ def demineur():
 							 "⚑" if elem  # ⚐⚑
 							 else char_item_lambda)(drapeau_map[i][j], char_item)
 						)
-				print_char(((terminal_size("X") - siz
+				print_char(((terminal_size("X") - size
