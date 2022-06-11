@@ -486,3 +486,4 @@ def demineur():
 							(lambda elem, char_item_lambda:
 							 "⚑" if elem  # ⚐⚑
 							 else char_item_lambda)(drapeau_map[i][j], char_item)
+	
