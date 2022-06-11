@@ -485,4 +485,4 @@ def demineur():
 							((terminal_size("Y") - size) // 2) + j,
 							(lambda elem, char_item_lambda:
 							 "⚑" if elem  # ⚐⚑
-		
+			
