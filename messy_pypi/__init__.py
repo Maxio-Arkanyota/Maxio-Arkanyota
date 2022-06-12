@@ -492,4 +492,4 @@ def demineur():
 				clear()
 				if key == "q" or key == "\x1b[D":
 					x = max(0, x - 1)
-				if key == "d" o
+				if key == "d" or
