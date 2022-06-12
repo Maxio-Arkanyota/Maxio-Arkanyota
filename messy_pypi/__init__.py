@@ -491,3 +491,4 @@ def demineur():
 				key = getKey(debug=True)
 				clear()
 				if key == "q" or key == "\x1b[D":
+	
