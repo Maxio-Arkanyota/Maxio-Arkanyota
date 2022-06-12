@@ -490,3 +490,4 @@ def demineur():
 				print_char(((terminal_size("X") - size) // 2) + x, ((terminal_size("Y") - size) // 2) + y, "X")
 				key = getKey(debug=True)
 				clear()
+	
