@@ -493,4 +493,4 @@ def demineur():
 				if key == "q" or key == "\x1b[D":
 					x = max(0, x - 1)
 				if key == "d" or key == "\x1b[C":
-					x = min(size - 
+					x = min(size - 1
