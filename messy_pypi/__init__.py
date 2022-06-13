@@ -496,4 +496,4 @@ def demineur():
 					x = min(size - 1, x + 1)
 				if key == "z" or key == "\x1b[A":
 					y = max(0, y - 1)
-				if
+				if 
