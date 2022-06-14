@@ -502,4 +502,4 @@ def demineur():
 					if plateau[x][y] == 9:
 						ligne = True
 					if plateau[x][y] < 0:
-						plateau[x][y] = -pla
+						plateau[x][y] = -plat
