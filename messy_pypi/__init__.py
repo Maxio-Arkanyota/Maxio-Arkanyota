@@ -501,4 +501,4 @@ def demineur():
 				if key == "a" or key == "\r":
 					if plateau[x][y] == 9:
 						ligne = True
-					if 
+					if p
