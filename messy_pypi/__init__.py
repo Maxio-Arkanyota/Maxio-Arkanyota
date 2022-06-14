@@ -498,4 +498,4 @@ def demineur():
 					y = max(0, y - 1)
 				if key == "s" or key == "\x1b[B":
 					y = min(size - 1, y + 1)
-				if ke
+				if key
