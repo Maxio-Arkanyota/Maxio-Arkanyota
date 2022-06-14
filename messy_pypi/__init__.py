@@ -500,4 +500,4 @@ def demineur():
 					y = min(size - 1, y + 1)
 				if key == "a" or key == "\r":
 					if plateau[x][y] == 9:
-						lig
+						lign
