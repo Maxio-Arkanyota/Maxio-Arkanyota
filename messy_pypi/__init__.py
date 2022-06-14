@@ -499,4 +499,4 @@ def demineur():
 				if key == "s" or key == "\x1b[B":
 					y = min(size - 1, y + 1)
 				if key == "a" or key == "\r":
-					if plateau[x][y]
+					if plateau[x][y] 
