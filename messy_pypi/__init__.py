@@ -505,4 +505,4 @@ def demineur():
 						plateau[x][y] = -plateau[x][y]
 					if plateau[x][y] == 10:
 						plateau[x][y] = 0
-				
+				i
