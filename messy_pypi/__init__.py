@@ -508,4 +508,4 @@ def demineur():
 				if key == "e":
 					drapeau_map[x][y] = not drapeau_map[x][y]
 				# DrawChar((TerminalSize("Y")//2), 10, "Y")
-			# ⓪
+			# ⓪①
