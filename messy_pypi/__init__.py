@@ -507,4 +507,4 @@ def demineur():
 						plateau[x][y] = 0
 				if key == "e":
 					drapeau_map[x][y] = not drapeau_map[x][y]
-				# DrawChar((TerminalSize("Y")//2)
+				# DrawChar((TerminalSize("Y")//2),
