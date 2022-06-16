@@ -513,4 +513,4 @@ def demineur():
 class MineSweeperMain:
 	@staticmethod
 	def start():
-		pygame.font.init(
+		pygame.font.init()
