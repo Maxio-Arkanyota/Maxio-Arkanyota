@@ -512,4 +512,4 @@ def demineur():
 # Minesweeper Démienur graphique pygame {{{3
 class MineSweeperMain:
 	@staticmethod
-	def s
+	def st
