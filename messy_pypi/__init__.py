@@ -511,3 +511,4 @@ def demineur():
 			# ⓪①②③④⑤⑥⑦⑧ ⓵⓶⓷⓸⓹⓺⓻⓼⓽⓾
 # Minesweeper Démienur graphique pygame {{{3
 class MineSweeperMain:
+	
