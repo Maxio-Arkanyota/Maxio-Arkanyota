@@ -509,4 +509,4 @@ def demineur():
 					drapeau_map[x][y] = not drapeau_map[x][y]
 				# DrawChar((TerminalSize("Y")//2), 10, "Y")
 			# ⓪①②③④⑤⑥⑦⑧ ⓵⓶⓷⓸⓹⓺⓻⓼⓽⓾
-# Minesweeper Démienu
+# Minesweeper Démienur
