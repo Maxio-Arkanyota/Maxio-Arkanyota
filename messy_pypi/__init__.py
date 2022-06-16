@@ -510,4 +510,4 @@ def demineur():
 				# DrawChar((TerminalSize("Y")//2), 10, "Y")
 			# ⓪①②③④⑤⑥⑦⑧ ⓵⓶⓷⓸⓹⓺⓻⓼⓽⓾
 # Minesweeper Démienur graphique pygame {{{3
-class MineSweeper
+class MineSweeperM
