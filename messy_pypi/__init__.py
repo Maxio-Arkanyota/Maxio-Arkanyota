@@ -513,4 +513,4 @@ def demineur():
 class MineSweeperMain:
 	@staticmethod
 	def start():
-		pyga
+		pygam
