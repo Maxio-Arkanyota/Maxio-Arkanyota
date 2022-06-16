@@ -514,4 +514,4 @@ class MineSweeperMain:
 	@staticmethod
 	def start():
 		pygame.font.init()
-		os.environ['SDL_VI
+		os.environ['SDL_VID
