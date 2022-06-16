@@ -513,3 +513,4 @@ def demineur():
 class MineSweeperMain:
 	@staticmethod
 	def start():
+	
