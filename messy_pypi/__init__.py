@@ -518,3 +518,4 @@ class MineSweeperMain:
 		surface = pygame.display.set_mode((1200, 900))
 		pygame.display.set_caption('Minesweeper')
 		state = MineSweeperStates.running
+	
