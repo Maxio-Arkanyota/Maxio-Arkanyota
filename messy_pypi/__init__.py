@@ -517,4 +517,4 @@ class MineSweeperMain:
 		os.environ['SDL_VIDEO_WINDOW_POS'] = "%d,%d" % (400, 100)
 		surface = pygame.display.set_mode((1200, 900))
 		pygame.display.set_caption('Minesweeper')
-		state = MineS
+		state = MineSw
