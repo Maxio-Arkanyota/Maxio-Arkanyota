@@ -516,4 +516,4 @@ class MineSweeperMain:
 		pygame.font.init()
 		os.environ['SDL_VIDEO_WINDOW_POS'] = "%d,%d" % (400, 100)
 		surface = pygame.display.set_mode((1200, 900))
-		pyg
+		pyga
