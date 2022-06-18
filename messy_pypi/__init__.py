@@ -519,3 +519,4 @@ class MineSweeperMain:
 		pygame.display.set_caption('Minesweeper')
 		state = MineSweeperStates.running
 		player = MineSweeperPlayer()
+	
