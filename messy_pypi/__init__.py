@@ -523,4 +523,4 @@ class MineSweeperMain:
 		running = True
 		clock = pygame.time.Clock()
 		while running:
-			clock.tick(30
+			clock.tick(30)
