@@ -524,4 +524,4 @@ class MineSweeperMain:
 		clock = pygame.time.Clock()
 		while running:
 			clock.tick(30)
-			for event in pygame.event.ge
+			for event in pygame.event.get
