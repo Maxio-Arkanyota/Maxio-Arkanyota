@@ -520,4 +520,4 @@ class MineSweeperMain:
 		state = MineSweeperStates.running
 		player = MineSweeperPlayer()
 		grid = MineSweeperGrid(player)
-		running
+		running 
