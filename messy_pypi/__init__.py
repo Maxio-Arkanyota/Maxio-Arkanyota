@@ -521,4 +521,4 @@ class MineSweeperMain:
 		player = MineSweeperPlayer()
 		grid = MineSweeperGrid(player)
 		running = True
-		clock = pygame.time.Clock
+		clock = pygame.time.Clock(
