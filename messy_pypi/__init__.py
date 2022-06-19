@@ -528,4 +528,4 @@ class MineSweeperMain:
 				if event.type == pygame.QUIT:
 					running = False
 				if event.type == pygame.MOUSEBUTTONDOWN and state == MineSweeperStates.running:
-					if pygame.mouse.g
+					if pygame.mouse.ge
