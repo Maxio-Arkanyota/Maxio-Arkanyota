@@ -527,4 +527,4 @@ class MineSweeperMain:
 			for event in pygame.event.get():
 				if event.type == pygame.QUIT:
 					running = False
-				if event.type == pygame.MOUSEBUTTONDOWN and state == 
+				if event.type == pygame.MOUSEBUTTONDOWN and state == M
