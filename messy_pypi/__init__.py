@@ -530,4 +530,4 @@ class MineSweeperMain:
 				if event.type == pygame.MOUSEBUTTONDOWN and state == MineSweeperStates.running:
 					if pygame.mouse.get_pressed()[0]:
 						pos = pygame.mouse.get_pos()
-						grid.click(pos[0], p
+						grid.click(pos[0], po
