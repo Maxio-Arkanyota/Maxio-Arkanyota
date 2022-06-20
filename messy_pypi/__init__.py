@@ -531,4 +531,4 @@ class MineSweeperMain:
 					if pygame.mouse.get_pressed()[0]:
 						pos = pygame.mouse.get_pos()
 						grid.click(pos[0], pos[1])
-					elif pygame.mouse.get_p
+					elif pygame.mouse.get_pr
