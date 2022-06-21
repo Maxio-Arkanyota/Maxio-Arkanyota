@@ -534,4 +534,4 @@ class MineSweeperMain:
 					elif pygame.mouse.get_pressed()[2]:
 						pos = pygame.mouse.get_pos()
 						grid.mark_mine(pos[0] // 30, pos[1] // 30)
-					if grid.che
+					if grid.chec
