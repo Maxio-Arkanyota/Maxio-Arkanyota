@@ -535,4 +535,4 @@ class MineSweeperMain:
 						pos = pygame.mouse.get_pos()
 						grid.mark_mine(pos[0] // 30, pos[1] // 30)
 					if grid.check_if_win():
-		
+			
