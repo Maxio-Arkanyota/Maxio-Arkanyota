@@ -537,4 +537,4 @@ class MineSweeperMain:
 					if grid.check_if_win():
 						state = MineSweeperStates.win
 				if event.type == pygame.KEYDOWN:
-					if event.key == pygame.K_S
+					if event.key == pygame.K_SP
