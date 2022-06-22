@@ -539,4 +539,4 @@ class MineSweeperMain:
 				if event.type == pygame.KEYDOWN:
 					if event.key == pygame.K_SPACE and (state == MineSweeperStates.game_over or state == MineSweeperStates.win):
 						grid.reload()
-						state 
+						state =
