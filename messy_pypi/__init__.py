@@ -541,4 +541,4 @@ class MineSweeperMain:
 						grid.reload()
 						state = MineSweeperStates.running
 					if event.key == pygame.K_b:
-						grid.s
+						grid.sh
