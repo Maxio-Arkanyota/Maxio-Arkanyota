@@ -538,4 +538,4 @@ class MineSweeperMain:
 						state = MineSweeperStates.win
 				if event.type == pygame.KEYDOWN:
 					if event.key == pygame.K_SPACE and (state == MineSweeperStates.game_over or state == MineSweeperStates.win):
-						grid.rel
+						grid.relo
