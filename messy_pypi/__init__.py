@@ -545,4 +545,4 @@ class MineSweeperMain:
 			surface.fill((0, 0, 0))
 			if player.get_health() == 0:
 				state = MineSweeperStates.game_over
-			if state == MineSweeperStates.game_ov
+			if state == MineSweeperStates.game_ove
