@@ -542,4 +542,4 @@ class MineSweeperMain:
 						state = MineSweeperStates.running
 					if event.key == pygame.K_b:
 						grid.show_mines()
-			surface.fill((0,
+			surface.fill((0, 
