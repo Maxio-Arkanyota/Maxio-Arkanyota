@@ -544,4 +544,4 @@ class MineSweeperMain:
 						grid.show_mines()
 			surface.fill((0, 0, 0))
 			if player.get_health() == 0:
-				state = MineSwee
+				state = MineSweep
