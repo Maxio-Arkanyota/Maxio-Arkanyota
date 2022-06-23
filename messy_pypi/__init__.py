@@ -543,4 +543,4 @@ class MineSweeperMain:
 					if event.key == pygame.K_b:
 						grid.show_mines()
 			surface.fill((0, 0, 0))
-	
+		
