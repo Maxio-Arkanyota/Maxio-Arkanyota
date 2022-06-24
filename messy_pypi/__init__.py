@@ -547,4 +547,4 @@ class MineSweeperMain:
 				state = MineSweeperStates.game_over
 			if state == MineSweeperStates.game_over:
 				MineSweeperStats.draw(surface, 'Game over!', (970, 350))
-				MineSweeperSt
+				MineSweeperSta
