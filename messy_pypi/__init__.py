@@ -546,4 +546,4 @@ class MineSweeperMain:
 			if player.get_health() == 0:
 				state = MineSweeperStates.game_over
 			if state == MineSweeperStates.game_over:
-				MineSweeperStats.draw(surface, 'Game ov
+				MineSweeperStats.draw(surface, 'Game ove
