@@ -549,4 +549,4 @@ class MineSweeperMain:
 				MineSweeperStats.draw(surface, 'Game over!', (970, 350))
 				MineSweeperStats.draw(surface, 'Press Space to restart', (920, 400))
 			elif state == MineSweeperStates.win:
-				MineSweeperStats.dra
+				MineSweeperStats.draw
