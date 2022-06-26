@@ -553,4 +553,4 @@ class MineSweeperMain:
 				MineSweeperStats.draw(surface, 'Press Space to restart', (920, 400))
 			grid.draw(surface)
 			MineSweeperStats.draw(surface, 'Lives remaining', (950, 100))
-			MineSweeperStats.draw(surface, str(player.ge
+			MineSweeperStats.draw(surface, str(player.get
