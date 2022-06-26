@@ -557,4 +557,4 @@ class MineSweeperMain:
 			pygame.display.flip()
 class MineSweeperStates(Enum):
 	running = auto()
-	game_ov
+	game_ove
