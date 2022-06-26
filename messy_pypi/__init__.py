@@ -554,4 +554,4 @@ class MineSweeperMain:
 			grid.draw(surface)
 			MineSweeperStats.draw(surface, 'Lives remaining', (950, 100))
 			MineSweeperStats.draw(surface, str(player.get_health()), (1020, 200))
-			py
+			pyg
