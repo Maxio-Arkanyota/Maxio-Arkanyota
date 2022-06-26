@@ -556,4 +556,4 @@ class MineSweeperMain:
 			MineSweeperStats.draw(surface, str(player.get_health()), (1020, 200))
 			pygame.display.flip()
 class MineSweeperStates(Enum):
-	runnin
+	running
