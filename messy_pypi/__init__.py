@@ -558,4 +558,4 @@ class MineSweeperMain:
 class MineSweeperStates(Enum):
 	running = auto()
 	game_over = auto()
-	win
+	win 
