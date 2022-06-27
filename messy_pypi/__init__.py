@@ -561,4 +561,4 @@ class MineSweeperStates(Enum):
 	win = auto()
 class MineSweeperPlayer:
 	def __init__(self):
-		self.health
+		self.health 
