@@ -560,4 +560,4 @@ class MineSweeperStates(Enum):
 	game_over = auto()
 	win = auto()
 class MineSweeperPlayer:
-	def __init
+	def __init_
