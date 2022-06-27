@@ -564,3 +564,4 @@ class MineSweeperPlayer:
 		self.health = 5
 	def sub_health(self):
 		self.health -= 1
+	
