@@ -562,4 +562,4 @@ class MineSweeperStates(Enum):
 class MineSweeperPlayer:
 	def __init__(self):
 		self.health = 5
-	def sub_h
+	def sub_he
