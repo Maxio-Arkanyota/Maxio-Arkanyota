@@ -567,4 +567,4 @@ class MineSweeperPlayer:
 	def get_health(self):
 		return self.health
 class MineSweeperStats:
-	@stati
+	@static
