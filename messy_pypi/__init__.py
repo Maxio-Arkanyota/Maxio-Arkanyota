@@ -570,4 +570,4 @@ class MineSweeperStats:
 	@staticmethod
 	def draw(surface, label, pos):
 		textsurface = pygame.font.SysFont('Comic Sans MS', 24).render(label, False, (255, 255, 255))
-		surface.blit(t
+		surface.blit(te
