@@ -568,4 +568,4 @@ class MineSweeperPlayer:
 		return self.health
 class MineSweeperStats:
 	@staticmethod
-	def draw(surfa
+	def draw(surfac
