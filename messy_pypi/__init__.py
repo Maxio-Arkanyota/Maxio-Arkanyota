@@ -569,4 +569,4 @@ class MineSweeperPlayer:
 class MineSweeperStats:
 	@staticmethod
 	def draw(surface, label, pos):
-		textsurface = pygame.font.SysFont('Comic S
+		textsurface = pygame.font.SysFont('Comic Sa
