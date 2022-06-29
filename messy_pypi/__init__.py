@@ -574,4 +574,4 @@ class MineSweeperStats:
 class MineSweeperCell:
 	def __init__(self, pos, random_mine):
 		self.visible = False
-		self
+		self.
