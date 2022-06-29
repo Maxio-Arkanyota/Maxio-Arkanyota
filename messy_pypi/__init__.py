@@ -573,4 +573,4 @@ class MineSweeperStats:
 		surface.blit(textsurface, (pos[0], pos[1]))
 class MineSweeperCell:
 	def __init__(self, pos, random_mine):
-		self.visib
+		self.visibl
