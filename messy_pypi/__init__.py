@@ -576,4 +576,4 @@ class MineSweeperCell:
 		self.visible = False
 		self.mine = random_mine
 		self.show_mine = False
-		se
+		sel
