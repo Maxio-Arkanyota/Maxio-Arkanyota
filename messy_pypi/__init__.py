@@ -579,4 +579,4 @@ class MineSweeperCell:
 		self.size = 30
 		self.color = (200, 200, 200)
 		self.pos = pos
-		self.label
+		self.label 
