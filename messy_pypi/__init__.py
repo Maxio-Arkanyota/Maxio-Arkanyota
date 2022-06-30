@@ -577,4 +577,4 @@ class MineSweeperCell:
 		self.mine = random_mine
 		self.show_mine = False
 		self.size = 30
-		self.color
+		self.color 
