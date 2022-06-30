@@ -582,4 +582,4 @@ class MineSweeperCell:
 		self.label = False
 		self.mine_counter = 0
 		self.font_color = (0, 0, 0)
-		self.m
+		self.ma
