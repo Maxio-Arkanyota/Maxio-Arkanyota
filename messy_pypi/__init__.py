@@ -583,4 +583,4 @@ class MineSweeperCell:
 		self.mine_counter = 0
 		self.font_color = (0, 0, 0)
 		self.marked = False
-		self.explosion =
+		self.explosion = 
