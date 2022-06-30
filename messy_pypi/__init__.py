@@ -580,4 +580,4 @@ class MineSweeperCell:
 		self.color = (200, 200, 200)
 		self.pos = pos
 		self.label = False
-		self.mine_counte
+		self.mine_counter
