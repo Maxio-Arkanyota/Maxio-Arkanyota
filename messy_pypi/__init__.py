@@ -578,4 +578,4 @@ class MineSweeperCell:
 		self.show_mine = False
 		self.size = 30
 		self.color = (200, 200, 200)
-		s
+		se
