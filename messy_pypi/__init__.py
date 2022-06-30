@@ -581,3 +581,4 @@ class MineSweeperCell:
 		self.pos = pos
 		self.label = False
 		self.mine_counter = 0
+	
