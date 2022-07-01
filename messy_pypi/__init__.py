@@ -584,4 +584,4 @@ class MineSweeperCell:
 		self.font_color = (0, 0, 0)
 		self.marked = False
 		self.explosion = False
-		self.img_flag = py
+		self.img_flag = pyg
