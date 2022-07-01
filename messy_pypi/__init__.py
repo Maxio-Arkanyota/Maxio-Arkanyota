@@ -584,4 +584,4 @@ class MineSweeperCell:
 		self.font_color = (0, 0, 0)
 		self.marked = False
 		self.explosion = False
-		self.img_flag = pygame.image.load('./resource
+		self.img_flag = pygame.image.load('./resources
