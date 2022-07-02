@@ -587,4 +587,4 @@ class MineSweeperCell:
 		self.img_flag = pygame.image.load('./resources/minesweeper/cell-flagged.png')
 		self.img_flag = pygame.transform.scale(self.img_flag, (self.size, self.size))
 		self.img_explode = pygame.image.load('./resources/minesweeper/mine-exploded.png')
-		self.img_explode = pyg
+		self.img_explode = pyga
