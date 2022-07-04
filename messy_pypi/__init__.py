@@ -595,4 +595,4 @@ class MineSweeperCell:
 			_img = pygame.image.load(f'./resources/minesweeper/cell-{i}.png')
 			_img = pygame.transform.scale(_img, (self.size, self.size))
 			self.img_cell.append(_img)
-	
+	d
