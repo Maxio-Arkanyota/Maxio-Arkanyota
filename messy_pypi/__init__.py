@@ -600,4 +600,4 @@ class MineSweeperCell:
 			surface.blit(self.img_cell[0], (self.pos[0], self.pos[1]))
 		elif self.label:
 			self.show_label(surface, self.mine_counter, self.pos)
-		
+		e
