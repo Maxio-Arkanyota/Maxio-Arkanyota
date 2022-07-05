@@ -599,4 +599,4 @@ class MineSweeperCell:
 		if self.visible and not self.label and not (self.show_mine and self.mine):
 			surface.blit(self.img_cell[0], (self.pos[0], self.pos[1]))
 		elif self.label:
-			self.show_lab
+			self.show_labe
