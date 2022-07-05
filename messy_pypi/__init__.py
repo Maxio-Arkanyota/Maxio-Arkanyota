@@ -597,4 +597,4 @@ class MineSweeperCell:
 			self.img_cell.append(_img)
 	def draw(self, surface):
 		if self.visible and not self.label and not (self.show_mine and self.mine):
-			surface.
+			surface.b
