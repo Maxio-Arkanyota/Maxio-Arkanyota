@@ -601,4 +601,4 @@ class MineSweeperCell:
 		elif self.label:
 			self.show_label(surface, self.mine_counter, self.pos)
 		elif self.marked:
-			surface.blit(self.img_flag, (self.pos[0], se
+			surface.blit(self.img_flag, (self.pos[0], sel
