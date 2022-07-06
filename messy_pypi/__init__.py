@@ -601,4 +601,4 @@ class MineSweeperCell:
 		elif self.label:
 			self.show_label(surface, self.mine_counter, self.pos)
 		elif self.marked:
-			surfac
+			surface
