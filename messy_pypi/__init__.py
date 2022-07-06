@@ -603,4 +603,4 @@ class MineSweeperCell:
 		elif self.marked:
 			surface.blit(self.img_flag, (self.pos[0], self.pos[1]))
 		elif self.show_mine and self.mine:
-			surface.blit(self.img_mine, (s
+			surface.blit(self.img_mine, (se
