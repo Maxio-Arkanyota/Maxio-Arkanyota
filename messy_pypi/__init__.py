@@ -607,4 +607,4 @@ class MineSweeperCell:
 		elif self.explosion:
 			surface.blit(self.img_explode, (self.pos[0], self.pos[1]))
 		else:
-			pygame.draw.rect(surface, (50, 50, 50), (se
+			pygame.draw.rect(surface, (50, 50, 50), (sel
