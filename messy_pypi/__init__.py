@@ -605,4 +605,4 @@ class MineSweeperCell:
 		elif self.show_mine and self.mine:
 			surface.blit(self.img_mine, (self.pos[0], self.pos[1]))
 		elif self.explosion:
-			surface.blit(self.img_explode, (s
+			surface.blit(self.img_explode, (se
