@@ -610,4 +610,4 @@ class MineSweeperCell:
 			pygame.draw.rect(surface, (50, 50, 50), (self.pos[0], self.pos[1], self.size, self.size))
 	def show_label(self, surface, label, pos):
 		# textsurface = pygame.font.SysFont('Comic Sans MS', 18).render(label, False, self.font_color)
-		# surface.blit(textsurfac
+		# surface.blit(textsurface
