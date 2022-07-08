@@ -609,4 +609,4 @@ class MineSweeperCell:
 		else:
 			pygame.draw.rect(surface, (50, 50, 50), (self.pos[0], self.pos[1], self.size, self.size))
 	def show_label(self, surface, label, pos):
-		# textsurface = pygame.fo
+		# textsurface = pygame.fon
