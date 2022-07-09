@@ -612,4 +612,4 @@ class MineSweeperCell:
 		# textsurface = pygame.font.SysFont('Comic Sans MS', 18).render(label, False, self.font_color)
 		# surface.blit(textsurface, (pos[0] + 10, pos[1] + 4))
 		surface.blit(self.img_cell[int(label)], (pos[0], pos[1]))
-class MineSweepe
+class MineSweeper
