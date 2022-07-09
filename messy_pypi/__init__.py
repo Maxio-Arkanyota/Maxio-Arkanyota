@@ -615,4 +615,4 @@ class MineSweeperCell:
 class MineSweeperGrid:
 	def __init__(self, player):
 		self.player = player
-		self.c
+		self.ce
