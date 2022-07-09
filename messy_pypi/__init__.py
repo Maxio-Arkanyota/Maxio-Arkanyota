@@ -614,4 +614,4 @@ class MineSweeperCell:
 		surface.blit(self.img_cell[int(label)], (pos[0], pos[1]))
 class MineSweeperGrid:
 	def __init__(self, player):
-		self.play
+		self.playe
