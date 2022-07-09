@@ -616,4 +616,4 @@ class MineSweeperGrid:
 	def __init__(self, player):
 		self.player = player
 		self.cells = []
-		self.search_dirs = [(0, -1), (-1, -1), (-1,
+		self.search_dirs = [(0, -1), (-1, -1), (-1, 
