@@ -613,4 +613,4 @@ class MineSweeperCell:
 		# surface.blit(textsurface, (pos[0] + 10, pos[1] + 4))
 		surface.blit(self.img_cell[int(label)], (pos[0], pos[1]))
 class MineSweeperGrid:
-	def
+	def 
