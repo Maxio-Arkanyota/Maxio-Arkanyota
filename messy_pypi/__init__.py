@@ -620,4 +620,4 @@ class MineSweeperGrid:
 		for y in range(30):
 			self.cells.append([])
 			for x in range(30):
-				self.cells[y].ap
+				self.cells[y].app
