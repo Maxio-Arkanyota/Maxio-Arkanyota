@@ -618,4 +618,4 @@ class MineSweeperGrid:
 		self.cells = []
 		self.search_dirs = [(0, -1), (-1, -1), (-1, 0), (-1, 1), (0, 1), (1, 1), (1, 0), (1, -1)]
 		for y in range(30):
-			self.cells.ap
+			self.cells.app
