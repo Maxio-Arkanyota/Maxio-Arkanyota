@@ -625,4 +625,4 @@ class MineSweeperGrid:
 		for y in range(1, 31, 1):
 			temp = []
 			temp.append((0, y * 30))
-	
+		
