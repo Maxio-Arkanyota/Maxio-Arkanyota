@@ -624,4 +624,4 @@ class MineSweeperGrid:
 		self.lines = []
 		for y in range(1, 31, 1):
 			temp = []
-			temp.
+			temp.a
