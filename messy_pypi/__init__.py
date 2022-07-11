@@ -623,4 +623,4 @@ class MineSweeperGrid:
 				self.cells[y].append(MineSweeperCell((x * 30, y * 30), self.random_mines()))
 		self.lines = []
 		for y in range(1, 31, 1):
-			temp 
+			temp =
