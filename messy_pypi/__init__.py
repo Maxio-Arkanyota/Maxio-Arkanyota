@@ -629,4 +629,4 @@ class MineSweeperGrid:
 			self.lines.append(temp)
 		for x in range(1, 31, 1):
 			temp = []
-			temp.append((x *
+			temp.append((x * 
