@@ -633,4 +633,4 @@ class MineSweeperGrid:
 			temp.append((x * 30, 900))
 			self.lines.append(temp)
 	def random_mines(self):
-		r = randint(0, 1
+		r = randint(0, 10
