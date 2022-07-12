@@ -638,3 +638,4 @@ class MineSweeperGrid:
 			return True
 		else:
 			return False
+	
