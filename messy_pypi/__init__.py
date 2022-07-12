@@ -638,4 +638,4 @@ class MineSweeperGrid:
 			return True
 		else:
 			return False
-	def d
+	def dr
