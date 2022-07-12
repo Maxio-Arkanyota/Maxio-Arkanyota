@@ -636,3 +636,4 @@ class MineSweeperGrid:
 		r = randint(0, 10)
 		if r > 9:
 			return True
+	
