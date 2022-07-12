@@ -635,4 +635,4 @@ class MineSweeperGrid:
 	def random_mines(self):
 		r = randint(0, 10)
 		if r > 9:
-			return Tr
+			return Tru
