@@ -637,4 +637,4 @@ class MineSweeperGrid:
 		if r > 9:
 			return True
 		else:
-			
+			r
