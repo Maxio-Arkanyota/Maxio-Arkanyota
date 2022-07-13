@@ -643,4 +643,4 @@ class MineSweeperGrid:
 			for cell in row:
 				cell.draw(surface)
 		for line in self.lines:
-			pygame.draw.line(su
+			pygame.draw.line(sur
