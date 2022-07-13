@@ -642,3 +642,4 @@ class MineSweeperGrid:
 		for row in self.cells:
 			for cell in row:
 				cell.draw(surface)
+	
