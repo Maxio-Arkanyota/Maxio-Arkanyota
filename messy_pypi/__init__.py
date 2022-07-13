@@ -640,4 +640,4 @@ class MineSweeperGrid:
 			return False
 	def draw(self, surface):
 		for row in self.cells:
-			for cell in row
+			for cell in row:
