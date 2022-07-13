@@ -641,4 +641,4 @@ class MineSweeperGrid:
 	def draw(self, surface):
 		for row in self.cells:
 			for cell in row:
-				cell.draw(sur
+				cell.draw(surf
