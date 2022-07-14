@@ -648,4 +648,4 @@ class MineSweeperGrid:
 		return x >= 0 and x < 30 and y >= 0 and y < 30
 	def search(self, x, y):
 		if not self.is_within_bounds(x, y):
-			retur
+			return
