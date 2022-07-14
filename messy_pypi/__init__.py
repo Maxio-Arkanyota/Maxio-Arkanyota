@@ -649,4 +649,4 @@ class MineSweeperGrid:
 	def search(self, x, y):
 		if not self.is_within_bounds(x, y):
 			return
-		cell = self
+		cell = self.
