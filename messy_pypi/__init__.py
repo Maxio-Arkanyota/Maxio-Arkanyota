@@ -650,4 +650,4 @@ class MineSweeperGrid:
 		if not self.is_within_bounds(x, y):
 			return
 		cell = self.cells[y][x]
-		if cell.visibl
+		if cell.visible
