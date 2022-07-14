@@ -645,4 +645,4 @@ class MineSweeperGrid:
 		for line in self.lines:
 			pygame.draw.line(surface, (0, 125, 0), line[0], line[1])
 	def is_within_bounds(self, x, y):
-		return x >= 0 and x < 30 and y >= 
+		return x >= 0 and x < 30 and y >= 0
