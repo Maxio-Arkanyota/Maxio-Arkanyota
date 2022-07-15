@@ -656,4 +656,4 @@ class MineSweeperGrid:
 			cell.explosion = True
 			self.player.sub_health()
 			return
-		cell.visi
+		cell.visib
