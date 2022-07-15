@@ -653,4 +653,4 @@ class MineSweeperGrid:
 		if cell.visible:
 			return
 		if cell.mine:
-			cell.explosio
+			cell.explosion
