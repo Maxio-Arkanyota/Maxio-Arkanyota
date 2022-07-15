@@ -659,4 +659,4 @@ class MineSweeperGrid:
 		cell.visible = True
 		num_mines = self.num_of_mines(x, y)
 		if num_mines > 0:
-			c
+			ce
