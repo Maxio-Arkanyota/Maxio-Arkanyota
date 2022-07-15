@@ -660,4 +660,4 @@ class MineSweeperGrid:
 		num_mines = self.num_of_mines(x, y)
 		if num_mines > 0:
 			cell.label = True
-			cell.m
+			cell.mi
