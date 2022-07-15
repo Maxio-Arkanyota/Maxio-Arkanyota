@@ -655,3 +655,4 @@ class MineSweeperGrid:
 		if cell.mine:
 			cell.explosion = True
 			self.player.sub_health()
+	
