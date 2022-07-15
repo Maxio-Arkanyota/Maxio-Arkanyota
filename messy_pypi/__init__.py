@@ -657,4 +657,4 @@ class MineSweeperGrid:
 			self.player.sub_health()
 			return
 		cell.visible = True
-		num_mines = self.num_of_
+		num_mines = self.num_of_m
