@@ -652,4 +652,4 @@ class MineSweeperGrid:
 		cell = self.cells[y][x]
 		if cell.visible:
 			return
-		if cell.mine
+		if cell.mine:
