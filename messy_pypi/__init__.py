@@ -654,4 +654,4 @@ class MineSweeperGrid:
 			return
 		if cell.mine:
 			cell.explosion = True
-			self.player.sub_he
+			self.player.sub_hea
