@@ -661,4 +661,4 @@ class MineSweeperGrid:
 		if num_mines > 0:
 			cell.label = True
 			cell.mine_counter = str(num_mines)
-			re
+			ret
