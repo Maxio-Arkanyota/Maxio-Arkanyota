@@ -666,4 +666,4 @@ class MineSweeperGrid:
 			self.search(x + xx, y + yy)
 	def num_of_mines(self, x, y):
 		counter = 0
-		
+		f
