@@ -663,3 +663,4 @@ class MineSweeperGrid:
 			cell.mine_counter = str(num_mines)
 			return
 		for xx, yy in self.search_dirs:
+	
