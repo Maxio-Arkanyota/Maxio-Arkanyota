@@ -662,4 +662,4 @@ class MineSweeperGrid:
 			cell.label = True
 			cell.mine_counter = str(num_mines)
 			return
-		for xx, yy in 
+		for xx, yy in s
