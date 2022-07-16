@@ -664,4 +664,4 @@ class MineSweeperGrid:
 			return
 		for xx, yy in self.search_dirs:
 			self.search(x + xx, y + yy)
-	def num_
+	def num_o
