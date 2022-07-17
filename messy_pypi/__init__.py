@@ -668,4 +668,4 @@ class MineSweeperGrid:
 		counter = 0
 		for xx, yy in self.search_dirs:
 			if self.is_within_bounds(x + xx, y + yy) and self.cells[y + yy][x + xx].mine:
-				c
+				co
