@@ -670,4 +670,4 @@ class MineSweeperGrid:
 			if self.is_within_bounds(x + xx, y + yy) and self.cells[y + yy][x + xx].mine:
 				counter += 1
 		return counter
-	
+	d
