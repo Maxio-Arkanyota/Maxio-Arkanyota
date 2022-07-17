@@ -673,4 +673,4 @@ class MineSweeperGrid:
 	def click(self, x, y):
 		grid_x, grid_y = x // 30, y // 30
 		self.search(grid_x, grid_y)
-	de
+	def
