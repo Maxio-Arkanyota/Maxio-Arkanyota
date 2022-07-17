@@ -671,3 +671,4 @@ class MineSweeperGrid:
 				counter += 1
 		return counter
 	def click(self, x, y):
+	
