@@ -667,4 +667,4 @@ class MineSweeperGrid:
 	def num_of_mines(self, x, y):
 		counter = 0
 		for xx, yy in self.search_dirs:
-			if self.is_within_bounds(x + xx, y 
+			if self.is_within_bounds(x + xx, y +
