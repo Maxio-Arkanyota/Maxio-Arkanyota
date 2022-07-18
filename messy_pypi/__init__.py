@@ -676,4 +676,4 @@ class MineSweeperGrid:
 	def reload(self):
 		self.player.health = 5
 		for row in self.cells:
-			fo
+			for
