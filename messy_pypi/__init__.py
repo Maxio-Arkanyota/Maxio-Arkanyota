@@ -680,3 +680,4 @@ class MineSweeperGrid:
 				cell.visible = False
 				cell.label = False
 				cell.marked = False
+	
