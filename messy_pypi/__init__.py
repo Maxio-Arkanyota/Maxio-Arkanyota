@@ -674,4 +674,4 @@ class MineSweeperGrid:
 		grid_x, grid_y = x // 30, y // 30
 		self.search(grid_x, grid_y)
 	def reload(self):
-		self.player.hea
+		self.player.heal
