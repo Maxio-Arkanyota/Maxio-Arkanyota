@@ -677,4 +677,4 @@ class MineSweeperGrid:
 		self.player.health = 5
 		for row in self.cells:
 			for cell in row:
-				cell.vi
+				cell.vis
