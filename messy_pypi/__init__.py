@@ -679,4 +679,4 @@ class MineSweeperGrid:
 			for cell in row:
 				cell.visible = False
 				cell.label = False
-				cel
+				cell
