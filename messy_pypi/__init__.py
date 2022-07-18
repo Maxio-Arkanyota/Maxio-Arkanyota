@@ -675,4 +675,4 @@ class MineSweeperGrid:
 		self.search(grid_x, grid_y)
 	def reload(self):
 		self.player.health = 5
-		for row in se
+		for row in sel
