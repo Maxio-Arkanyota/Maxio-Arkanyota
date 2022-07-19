@@ -682,4 +682,4 @@ class MineSweeperGrid:
 				cell.marked = False
 				cell.show_mine = False
 				cell.explosion = False
-				cell.mine = self
+				cell.mine = self.
