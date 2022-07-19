@@ -684,3 +684,4 @@ class MineSweeperGrid:
 				cell.explosion = False
 				cell.mine = self.random_mines()
 	def check_if_win(self):
+	
