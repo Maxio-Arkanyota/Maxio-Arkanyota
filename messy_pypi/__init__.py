@@ -689,3 +689,4 @@ class MineSweeperGrid:
 		for row in self.cells:
 			for cell in row:
 				if not cell.visible and not cell.mine:
+	
