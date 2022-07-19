@@ -687,4 +687,4 @@ class MineSweeperGrid:
 		if self.player.health < 1:
 			return False
 		for row in self.cells:
-			for cell in ro
+			for cell in row
