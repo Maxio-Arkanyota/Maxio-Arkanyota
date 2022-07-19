@@ -686,3 +686,4 @@ class MineSweeperGrid:
 	def check_if_win(self):
 		if self.player.health < 1:
 			return False
+	
