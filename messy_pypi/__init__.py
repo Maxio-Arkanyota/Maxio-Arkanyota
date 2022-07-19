@@ -685,4 +685,4 @@ class MineSweeperGrid:
 				cell.mine = self.random_mines()
 	def check_if_win(self):
 		if self.player.health < 1:
-			re
+			ret
