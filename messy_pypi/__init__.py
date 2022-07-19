@@ -688,4 +688,4 @@ class MineSweeperGrid:
 			return False
 		for row in self.cells:
 			for cell in row:
-				i
+				if
