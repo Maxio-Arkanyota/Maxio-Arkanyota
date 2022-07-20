@@ -695,4 +695,4 @@ class MineSweeperGrid:
 		for row in self.cells:
 			for cell in row:
 				if not cell.show_mine:
-					cell.show_min
+					cell.show_mine
