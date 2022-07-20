@@ -693,4 +693,4 @@ class MineSweeperGrid:
 		return True
 	def show_mines(self):
 		for row in self.cells:
-		
+			
