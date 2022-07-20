@@ -692,4 +692,4 @@ class MineSweeperGrid:
 					return False
 		return True
 	def show_mines(self):
-		for r
+		for ro
