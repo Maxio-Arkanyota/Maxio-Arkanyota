@@ -694,3 +694,4 @@ class MineSweeperGrid:
 	def show_mines(self):
 		for row in self.cells:
 			for cell in row:
+	
