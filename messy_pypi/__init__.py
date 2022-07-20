@@ -697,4 +697,4 @@ class MineSweeperGrid:
 				if not cell.show_mine:
 					cell.show_mine = True
 				else:
-					cell.show_min
+					cell.show_mine
