@@ -698,4 +698,4 @@ class MineSweeperGrid:
 					cell.show_mine = True
 				else:
 					cell.show_mine = False
-	def mark_min
+	def mark_mine
