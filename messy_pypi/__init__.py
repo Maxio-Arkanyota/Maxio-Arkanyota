@@ -691,4 +691,4 @@ class MineSweeperGrid:
 				if not cell.visible and not cell.mine:
 					return False
 		return True
-	def show_mi
+	def show_min
