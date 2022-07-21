@@ -701,4 +701,4 @@ class MineSweeperGrid:
 	def mark_mine(self, x, y):
 		self.cells[y][x].marked = True
 # Snake Terminal {{{3
-Themes 
+Themes =
