@@ -703,4 +703,4 @@ class MineSweeperGrid:
 # Snake Terminal {{{3
 Themes = {
 	"Normal": ["\u2588", ['←', '↑', '→', '↓'], "X", "\u00B7"],
-	"Full":
+	"Full": 
