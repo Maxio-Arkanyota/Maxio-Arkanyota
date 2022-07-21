@@ -702,4 +702,4 @@ class MineSweeperGrid:
 		self.cells[y][x].marked = True
 # Snake Terminal {{{3
 Themes = {
-	"Normal": ["\u2588", ['←', '↑'
+	"Normal": ["\u2588", ['←', '↑',
