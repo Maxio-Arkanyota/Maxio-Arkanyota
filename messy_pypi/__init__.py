@@ -707,4 +707,4 @@ Themes = {
 	"Custom": ["\u2588", ['←', '↑', '→', '↓'], "X", "\u00B7"],
 	"WindowsCompatibility": ["X", ['<', '^', '>', '!'], "*", "?"]
 }
-def sigint
+def sigint_
