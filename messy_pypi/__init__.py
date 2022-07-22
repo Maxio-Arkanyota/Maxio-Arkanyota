@@ -708,3 +708,4 @@ Themes = {
 	"WindowsCompatibility": ["X", ['<', '^', '>', '!'], "*", "?"]
 }
 def sigint_quit(s, f):
+	
