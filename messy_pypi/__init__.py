@@ -709,4 +709,4 @@ Themes = {
 }
 def sigint_quit(s, f):
 	exit_event.set()
-def clean
+def clean_
