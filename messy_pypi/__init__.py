@@ -705,4 +705,4 @@ Themes = {
 	"Normal": ["\u2588", ['←', '↑', '→', '↓'], "X", "\u00B7"],
 	"Full": ["=", ["\u2588", "\u2588", "\u2588", "\u2588"], "\u2600", "?"],
 	"Custom": ["\u2588", ['←', '↑', '→', '↓'], "X", "\u00B7"],
-	"WindowsCompatibil
+	"WindowsCompatibili
