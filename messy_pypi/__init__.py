@@ -714,4 +714,4 @@ def clean_quit(errcode: int = 0):
 	print("Fin du programme")
 	SnakeKey.stop()
 	SnakeDraw.stop()
-	raise Sys
+	raise Syst
