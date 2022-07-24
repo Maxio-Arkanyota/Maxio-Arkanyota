@@ -716,4 +716,4 @@ def clean_quit(errcode: int = 0):
 	SnakeDraw.stop()
 	raise SystemExit(errcode)
 class SnakeActions:
-	# mouse_pos=mouse_pos,			 click_state=click_state, clean_
+	# mouse_pos=mouse_pos,			 click_state=click_state, clean_k
