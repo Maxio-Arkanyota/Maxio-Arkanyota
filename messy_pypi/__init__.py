@@ -712,4 +712,4 @@ def sigint_quit(s, f):
 def clean_quit(errcode: int = 0):
 	exit_event.set()
 	print("Fin du programme")
-	Sna
+	Snak
