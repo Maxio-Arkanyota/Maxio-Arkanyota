@@ -715,4 +715,4 @@ def clean_quit(errcode: int = 0):
 	SnakeKey.stop()
 	SnakeDraw.stop()
 	raise SystemExit(errcode)
-cla
+clas
