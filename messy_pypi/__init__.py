@@ -713,4 +713,4 @@ def clean_quit(errcode: int = 0):
 	exit_event.set()
 	print("Fin du programme")
 	SnakeKey.stop()
-	SnakeDraw.stop(
+	SnakeDraw.stop()
