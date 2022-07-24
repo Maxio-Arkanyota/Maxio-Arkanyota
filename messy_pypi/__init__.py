@@ -711,4 +711,4 @@ def sigint_quit(s, f):
 	exit_event.set()
 def clean_quit(errcode: int = 0):
 	exit_event.set()
-	print("Fin du program
+	print("Fin du programm
