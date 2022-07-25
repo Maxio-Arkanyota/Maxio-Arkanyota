@@ -718,3 +718,4 @@ def clean_quit(errcode: int = 0):
 class SnakeActions:
 	# mouse_pos=mouse_pos,			 click_state=click_state, clean_key=clean_key			 ,input_save=input_save
 	# Pos mouse type: (x, y), up or down			, key du type: escape ou mouse_..., key du type: \033[..
+	
