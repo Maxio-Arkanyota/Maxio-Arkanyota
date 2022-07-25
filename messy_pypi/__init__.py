@@ -717,4 +717,4 @@ def clean_quit(errcode: int = 0):
 	raise SystemExit(errcode)
 class SnakeActions:
 	# mouse_pos=mouse_pos,			 click_state=click_state, clean_key=clean_key			 ,input_save=input_save
-	# Pos mouse type: (x, y), up or down			, key du type: 
+	# Pos mouse type: (x, y), up or down			, key du type: e
