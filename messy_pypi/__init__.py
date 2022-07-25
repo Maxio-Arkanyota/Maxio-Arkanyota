@@ -720,4 +720,4 @@ class SnakeActions:
 	# Pos mouse type: (x, y), up or down			, key du type: escape ou mouse_..., key du type: \033[..
 	dico_actions = {}
 	@classmethod
-	def set_action(c
+	def set_action(cl
