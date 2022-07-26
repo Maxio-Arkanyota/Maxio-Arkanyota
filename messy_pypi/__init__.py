@@ -727,3 +727,4 @@ class SnakeActions:
 			"d": cls.change_direction,
 			"q": cls.change_direction,
 			"\x1b[A": cls.change_direction,
+	
