@@ -725,4 +725,4 @@ class SnakeActions:
 			"z": cls.change_direction,
 			"s": cls.change_direction,
 			"d": cls.change_direction,
-			"q": cls.change_di
+			"q": cls.change_dir
