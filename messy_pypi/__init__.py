@@ -723,4 +723,4 @@ class SnakeActions:
 	def set_action(cls):
 		cls.dico_actions = {
 			"z": cls.change_direction,
-			"s
+			"s"
