@@ -722,4 +722,4 @@ class SnakeActions:
 	@classmethod
 	def set_action(cls):
 		cls.dico_actions = {
-			"z": cls.change_
+			"z": cls.change_d
