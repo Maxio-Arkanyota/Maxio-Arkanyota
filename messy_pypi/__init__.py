@@ -734,3 +734,4 @@ class SnakeActions:
 			"escape": SnakeDraw.show_menu,
 			"r": SnakeDraw.restart,
 		}
+	
