@@ -735,4 +735,4 @@ class SnakeActions:
 			"r": SnakeDraw.restart,
 		}
 	@classmethod
-	def change_option_dead(cls, **k
+	def change_option_dead(cls, **kw
