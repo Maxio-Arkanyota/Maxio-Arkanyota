@@ -736,4 +736,4 @@ class SnakeActions:
 		}
 	@classmethod
 	def change_option_dead(cls, **kwargs):
-		if kwargs["cl
+		if kwargs["cle
