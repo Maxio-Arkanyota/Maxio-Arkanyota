@@ -729,4 +729,4 @@ class SnakeActions:
 			"\x1b[A": cls.change_direction,
 			"\x1b[B": cls.change_direction,
 			"\x1b[C": cls.change_direction,
-			"\x1b[D
+			"\x1b[D"
