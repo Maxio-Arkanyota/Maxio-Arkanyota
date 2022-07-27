@@ -735,4 +735,4 @@ class SnakeActions:
 			"r": SnakeDraw.restart,
 		}
 	@classmethod
-	def chang
+	def change
