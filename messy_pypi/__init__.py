@@ -732,4 +732,4 @@ class SnakeActions:
 			"\x1b[D": cls.change_direction,
 			"m": SnakeDraw.show_menu,
 			"escape": SnakeDraw.show_menu,
-			"r": Sn
+			"r": Sna
