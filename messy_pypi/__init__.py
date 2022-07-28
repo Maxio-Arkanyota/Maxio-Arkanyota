@@ -737,4 +737,4 @@ class SnakeActions:
 	@classmethod
 	def change_option_dead(cls, **kwargs):
 		if kwargs["clean_key"] in ["z", "\x1b[A"]:
-			SnakeDraw.dead_option_number = (SnakeDraw.dead_option_number 
+			SnakeDraw.dead_option_number = (SnakeDraw.dead_option_number -
