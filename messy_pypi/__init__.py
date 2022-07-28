@@ -736,4 +736,4 @@ class SnakeActions:
 		}
 	@classmethod
 	def change_option_dead(cls, **kwargs):
-		if kwargs["clean_key"] in ["z", "
+		if kwargs["clean_key"] in ["z", "\
