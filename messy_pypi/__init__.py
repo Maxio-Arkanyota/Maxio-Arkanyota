@@ -739,4 +739,4 @@ class SnakeActions:
 		if kwargs["clean_key"] in ["z", "\x1b[A"]:
 			SnakeDraw.dead_option_number = (SnakeDraw.dead_option_number - 1)
 		if kwargs["clean_key"] in ["s", "\x1b[B"]:
-			SnakeDraw.dead_option_number = (SnakeDraw.dead_option_number + 1
+			SnakeDraw.dead_option_number = (SnakeDraw.dead_option_number + 1)
