@@ -744,4 +744,4 @@ class SnakeActions:
 		SnakeDraw.draw_dead_options()
 	@classmethod
 	def set_dead_action(cls):
-		c
+		cl
