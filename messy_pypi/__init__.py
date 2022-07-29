@@ -745,4 +745,4 @@ class SnakeActions:
 	@classmethod
 	def set_dead_action(cls):
 		cls.dico_actions = {
-			"r": SnakeDraw.restart,  # resta
+			"r": SnakeDraw.restart,  # restar
