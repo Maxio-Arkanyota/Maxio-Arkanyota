@@ -743,3 +743,4 @@ class SnakeActions:
 		SnakeDraw.dead_option_number %= 2  # CAR y a 2 options Quit, Restart
 		SnakeDraw.draw_dead_options()
 	@classmethod
+	
