@@ -748,4 +748,4 @@ class SnakeActions:
 			"r": SnakeDraw.restart,  # restart
 			"escape": SnakeDraw.show_menu,  # restart
 			"z": cls.change_option_dead,
-			"\x1b[A": cls
+			"\x1b[A": cls.
