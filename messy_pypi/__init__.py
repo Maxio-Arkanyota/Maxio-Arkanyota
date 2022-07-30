@@ -746,4 +746,4 @@ class SnakeActions:
 	def set_dead_action(cls):
 		cls.dico_actions = {
 			"r": SnakeDraw.restart,  # restart
-			"escape": SnakeDraw.show_menu, 
+			"escape": SnakeDraw.show_menu,  
