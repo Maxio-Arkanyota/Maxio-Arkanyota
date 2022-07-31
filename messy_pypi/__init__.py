@@ -751,4 +751,4 @@ class SnakeActions:
 			"\x1b[A": cls.change_option_dead,
 			"s": cls.change_option_dead,
 			"\x1b[B": cls.change_option_dead,
-			"\n": cls.do_dead_option_acti
+			"\n": cls.do_dead_option_actio
