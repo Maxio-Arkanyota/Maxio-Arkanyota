@@ -759,4 +759,4 @@ class SnakeActions:
 			SnakeDraw.restart()
 		if SnakeDraw.dead_option_number == 1:
 			sigint_quit(0, None)
-	@
+	@c
