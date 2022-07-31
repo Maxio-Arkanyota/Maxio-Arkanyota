@@ -754,4 +754,4 @@ class SnakeActions:
 			"\n": cls.do_dead_option_action,
 		}
 	@classmethod
-	def do_dead_option_a
+	def do_dead_option_ac
