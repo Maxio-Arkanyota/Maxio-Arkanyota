@@ -757,4 +757,4 @@ class SnakeActions:
 	def do_dead_option_action(cls, **kwargs):
 		if SnakeDraw.dead_option_number == 0:
 			SnakeDraw.restart()
-		if SnakeDraw.dead_option_nu
+		if SnakeDraw.dead_option_num
