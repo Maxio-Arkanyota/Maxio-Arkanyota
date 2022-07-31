@@ -755,4 +755,4 @@ class SnakeActions:
 		}
 	@classmethod
 	def do_dead_option_action(cls, **kwargs):
-		if SnakeDraw.dead_option_number == 0
+		if SnakeDraw.dead_option_number == 0:
