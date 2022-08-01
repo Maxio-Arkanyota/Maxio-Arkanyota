@@ -763,4 +763,4 @@ class SnakeActions:
 	def set_menu_action(cls):
 		cls.dico_actions = {
 			"r": SnakeDraw.restart,
-			"m": SnakeDra
+			"m": SnakeDraw
