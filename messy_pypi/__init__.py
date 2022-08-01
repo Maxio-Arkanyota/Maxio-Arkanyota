@@ -765,4 +765,4 @@ class SnakeActions:
 			"r": SnakeDraw.restart,
 			"m": SnakeDraw.show_menu,
 			"escape": SnakeDraw.show_menu,
-			"z": cls.change_opt
+			"z": cls.change_opti
