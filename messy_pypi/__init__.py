@@ -764,4 +764,4 @@ class SnakeActions:
 		cls.dico_actions = {
 			"r": SnakeDraw.restart,
 			"m": SnakeDraw.show_menu,
-			"escape": Sna
+			"escape": Snak
