@@ -762,3 +762,4 @@ class SnakeActions:
 	@classmethod
 	def set_menu_action(cls):
 		cls.dico_actions = {
+	
