@@ -760,4 +760,4 @@ class SnakeActions:
 		if SnakeDraw.dead_option_number == 1:
 			sigint_quit(0, None)
 	@classmethod
-	def set_menu_action
+	def set_menu_action(
