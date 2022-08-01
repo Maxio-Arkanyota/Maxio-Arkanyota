@@ -761,4 +761,4 @@ class SnakeActions:
 			sigint_quit(0, None)
 	@classmethod
 	def set_menu_action(cls):
-		cl
+		cls
