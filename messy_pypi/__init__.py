@@ -767,4 +767,4 @@ class SnakeActions:
 			"escape": SnakeDraw.show_menu,
 			"z": cls.change_option_menu,
 			"\x1b[A": cls.change_option_menu,
-			"s": cls.change_option_
+			"s": cls.change_option_m
