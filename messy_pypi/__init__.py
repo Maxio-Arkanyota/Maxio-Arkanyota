@@ -770,3 +770,4 @@ class SnakeActions:
 			"s": cls.change_option_menu,
 			"\x1b[B": cls.change_option_menu,
 			"\n": cls.do_option_action,
+	
