@@ -768,4 +768,4 @@ class SnakeActions:
 			"z": cls.change_option_menu,
 			"\x1b[A": cls.change_option_menu,
 			"s": cls.change_option_menu,
-			"\x1b[B": cls.change_opt
+			"\x1b[B": cls.change_opti
