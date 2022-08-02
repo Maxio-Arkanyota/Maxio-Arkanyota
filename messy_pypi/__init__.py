@@ -773,4 +773,4 @@ class SnakeActions:
 			"q": cls.do_option_action,
 			"\x1b[D": cls.do_option_action,
 			"d": cls.do_option_action,
-			"\x1b[C"
+			"\x1b[C":
