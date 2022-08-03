@@ -775,4 +775,4 @@ class SnakeActions:
 			"d": cls.do_option_action,
 			"\x1b[C": cls.do_option_action,
 		}
-	@class
+	@classm
