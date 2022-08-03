@@ -784,4 +784,4 @@ class SnakeActions:
 			"\x1b[D": 0,
 			"d": 2,
 			"\x1b[C": 2,
-	
+		
