@@ -787,4 +787,4 @@ class SnakeActions:
 			"s": 3,
 			"\x1b[B": 3,
 		}
-		if not Sn
+		if not Sna
