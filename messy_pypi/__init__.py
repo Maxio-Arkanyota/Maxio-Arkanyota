@@ -779,4 +779,4 @@ class SnakeActions:
 	def change_direction(cls, **kwargs):
 		directions = {
 			"z": 1,
-			"\x1b[A": 1
+			"\x1b[A": 1,
