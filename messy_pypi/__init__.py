@@ -776,4 +776,4 @@ class SnakeActions:
 			"\x1b[C": cls.do_option_action,
 		}
 	@classmethod
-	def change_direction(cls, **kwargs)
+	def change_direction(cls, **kwargs):
