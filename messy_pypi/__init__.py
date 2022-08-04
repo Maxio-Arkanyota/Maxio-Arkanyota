@@ -792,4 +792,4 @@ class SnakeActions:
 				SnakeDraw.facing = directions[kwargs["clean_key"]]
 				SnakeDraw.lock = True
 	@classmethod
-	def change_option_menu(
+	def change_option_menu(c
