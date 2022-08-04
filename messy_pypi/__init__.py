@@ -792,4 +792,4 @@ class SnakeActions:
 				SnakeDraw.facing = directions[kwargs["clean_key"]]
 				SnakeDraw.lock = True
 	@classmethod
-	de
+	def
