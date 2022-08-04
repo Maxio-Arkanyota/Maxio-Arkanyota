@@ -791,4 +791,4 @@ class SnakeActions:
 			if directions[kwargs["clean_key"]] % 2 != SnakeDraw.facing % 2:
 				SnakeDraw.facing = directions[kwargs["clean_key"]]
 				SnakeDraw.lock = True
-	@classmetho
+	@classmethod
