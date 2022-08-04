@@ -788,4 +788,4 @@ class SnakeActions:
 			"\x1b[B": 3,
 		}
 		if not SnakeDraw.lock:
-			if directions[kwargs["clean_key"]] % 2 != SnakeDraw.f
+			if directions[kwargs["clean_key"]] % 2 != SnakeDraw.fa
