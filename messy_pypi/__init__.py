@@ -788,4 +788,4 @@ class SnakeActions:
 			"\x1b[B": 3,
 		}
 		if not SnakeDraw.lock:
-			if directions[k
+			if directions[kw
