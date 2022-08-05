@@ -795,3 +795,4 @@ class SnakeActions:
 	def change_option_menu(cls, **kwargs):
 		if kwargs["clean_key"] in ["z", "\x1b[A"]:
 			SnakeDraw.option_number = (SnakeDraw.option_number - 1)
+	
