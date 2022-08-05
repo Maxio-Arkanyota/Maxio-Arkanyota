@@ -793,4 +793,4 @@ class SnakeActions:
 				SnakeDraw.lock = True
 	@classmethod
 	def change_option_menu(cls, **kwargs):
-		if kwargs["clean_
+		if kwargs["clean_k
