@@ -799,4 +799,4 @@ class SnakeActions:
 			SnakeDraw.option_number = (SnakeDraw.option_number + 1)
 		SnakeDraw.option_number %= len(SnakeDraw.menu_options)
 		SnakeDraw.draw_options()
-	@class
+	@classm
