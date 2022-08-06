@@ -800,4 +800,4 @@ class SnakeActions:
 		SnakeDraw.option_number %= len(SnakeDraw.menu_options)
 		SnakeDraw.draw_options()
 	@classmethod
-	def do_
+	def do_o
