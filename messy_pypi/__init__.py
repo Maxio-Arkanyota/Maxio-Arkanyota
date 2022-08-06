@@ -797,4 +797,4 @@ class SnakeActions:
 			SnakeDraw.option_number = (SnakeDraw.option_number - 1)
 		if kwargs["clean_key"] in ["s", "\x1b[B"]:
 			SnakeDraw.option_number = (SnakeDraw.option_number + 1)
-		SnakeDraw.option_number %= len(SnakeDraw.m
+		SnakeDraw.option_number %= len(SnakeDraw.me
