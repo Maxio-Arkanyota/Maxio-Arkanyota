@@ -801,4 +801,4 @@ class SnakeActions:
 		SnakeDraw.draw_options()
 	@classmethod
 	def do_option_action(cls, **kwargs):
-		option = tuple(SnakeDraw.menu_optio
+		option = tuple(SnakeDraw.menu_option
