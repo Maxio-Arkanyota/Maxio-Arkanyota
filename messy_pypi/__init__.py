@@ -802,4 +802,4 @@ class SnakeActions:
 	@classmethod
 	def do_option_action(cls, **kwargs):
 		option = tuple(SnakeDraw.menu_options.keys())[SnakeDraw.option_number]
-		func = SnakeD
+		func = SnakeDr
