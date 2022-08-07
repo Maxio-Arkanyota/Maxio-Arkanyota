@@ -808,4 +808,4 @@ class SnakeActions:
 				func(0, None)
 			else:
 				func()
-		elif isinstance(func, l
+		elif isinstance(func, li
