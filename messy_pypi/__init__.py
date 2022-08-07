@@ -807,4 +807,4 @@ class SnakeActions:
 			if option == "Quit":
 				func(0, None)
 			else:
-				func
+				func(
