@@ -804,4 +804,4 @@ class SnakeActions:
 		option = tuple(SnakeDraw.menu_options.keys())[SnakeDraw.option_number]
 		func = SnakeDraw.menu_options[option]
 		if isinstance(func, types.FunctionType) and kwargs["clean_key"] == "\n":
-			if
+			if 
