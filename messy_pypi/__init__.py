@@ -803,4 +803,4 @@ class SnakeActions:
 	def do_option_action(cls, **kwargs):
 		option = tuple(SnakeDraw.menu_options.keys())[SnakeDraw.option_number]
 		func = SnakeDraw.menu_options[option]
-		if isinsta
+		if isinstan
