@@ -805,4 +805,4 @@ class SnakeActions:
 		func = SnakeDraw.menu_options[option]
 		if isinstance(func, types.FunctionType) and kwargs["clean_key"] == "\n":
 			if option == "Quit":
-				func(0, None
+				func(0, None)
