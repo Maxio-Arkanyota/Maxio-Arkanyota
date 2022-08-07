@@ -806,4 +806,4 @@ class SnakeActions:
 		if isinstance(func, types.FunctionType) and kwargs["clean_key"] == "\n":
 			if option == "Quit":
 				func(0, None)
-			else
+			else:
