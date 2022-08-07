@@ -809,4 +809,4 @@ class SnakeActions:
 			else:
 				func()
 		elif isinstance(func, list):
-			if kwargs["clean_key"] in ["q", "\x1
+			if kwargs["clean_key"] in ["q", "\x1b
