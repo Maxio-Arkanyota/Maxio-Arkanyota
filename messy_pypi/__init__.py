@@ -814,4 +814,4 @@ class SnakeActions:
 			elif kwargs["clean_key"] in ["d", "\x1b[D"]:
 				func[0] -= 1
 			func[0] = func[0] % len(func[1])
-			# TODO Actualiser la vale
+			# TODO Actualiser la valeu
