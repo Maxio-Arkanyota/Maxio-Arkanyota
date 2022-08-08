@@ -810,4 +810,4 @@ class SnakeActions:
 				func()
 		elif isinstance(func, list):
 			if kwargs["clean_key"] in ["q", "\x1b[C", "\n"]:
-				func[0] +
+				func[0] +=
