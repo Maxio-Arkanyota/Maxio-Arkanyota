@@ -812,4 +812,4 @@ class SnakeActions:
 			if kwargs["clean_key"] in ["q", "\x1b[C", "\n"]:
 				func[0] += 1
 			elif kwargs["clean_key"] in ["d", "\x1b[D"]:
-	
+		
