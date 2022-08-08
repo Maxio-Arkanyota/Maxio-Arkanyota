@@ -815,4 +815,4 @@ class SnakeActions:
 				func[0] -= 1
 			func[0] = func[0] % len(func[1])
 			# TODO Actualiser la valeur
-			# Avec FPS = func[1][fu
+			# Avec FPS = func[1][fun
