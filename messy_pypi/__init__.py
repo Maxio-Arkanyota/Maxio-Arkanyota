@@ -822,4 +822,4 @@ def game_restart(**kwargs):
 	SnakeDraw.snake_pos = [(SnakeDraw.size // 2, SnakeDraw.size // 2)]
 	SnakeDraw.facing = 0  # 0 right, 1: up, 2: left 3: down
 	SnakeDraw.snake_long = 10
-	# back position 
+	# back position -
