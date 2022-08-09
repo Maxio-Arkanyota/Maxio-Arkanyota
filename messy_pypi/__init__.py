@@ -819,4 +819,4 @@ class SnakeActions:
 			SnakeDraw.draw_options()
 def game_restart(**kwargs):
 	SnakeDraw.menu = False
-	SnakeDraw.snake_pos = [(SnakeDr
+	SnakeDraw.snake_pos = [(SnakeDra
