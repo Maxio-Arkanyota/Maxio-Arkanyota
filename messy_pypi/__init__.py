@@ -819,3 +819,4 @@ class SnakeActions:
 			SnakeDraw.draw_options()
 def game_restart(**kwargs):
 	SnakeDraw.menu = False
+	
