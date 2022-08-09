@@ -817,4 +817,4 @@ class SnakeActions:
 			# TODO Actualiser la valeur
 			# Avec FPS = func[1][func[0]
 			SnakeDraw.draw_options()
-def game_res
+def game_rest
