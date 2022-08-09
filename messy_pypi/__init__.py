@@ -818,4 +818,4 @@ class SnakeActions:
 			# Avec FPS = func[1][func[0]
 			SnakeDraw.draw_options()
 def game_restart(**kwargs):
-	SnakeDraw.menu = Fa
+	SnakeDraw.menu = Fal
