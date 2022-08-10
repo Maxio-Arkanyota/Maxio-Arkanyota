@@ -830,4 +830,4 @@ def game_restart(**kwargs):
 	SnakeActions.set_action()
 def show_shortcuts():  # TODO ou a remove
 	pass
-def 
+def q
