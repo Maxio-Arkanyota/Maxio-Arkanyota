@@ -824,4 +824,4 @@ def game_restart(**kwargs):
 	SnakeDraw.snake_long = 10
 	# back position -> Head
 	SnakeDraw.points = 0
-	Sna
+	Snak
