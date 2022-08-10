@@ -831,4 +831,4 @@ def game_restart(**kwargs):
 def show_shortcuts():  # TODO ou a remove
 	pass
 def quit_menu():
-	SnakeDraw.show_
+	SnakeDraw.show_m
