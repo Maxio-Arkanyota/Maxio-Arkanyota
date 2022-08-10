@@ -829,4 +829,4 @@ def game_restart(**kwargs):
 	SnakeDraw.dead = False
 	SnakeActions.set_action()
 def show_shortcuts():  # TODO ou a remove
-	pas
+	pass
