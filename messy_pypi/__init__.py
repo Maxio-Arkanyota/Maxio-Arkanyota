@@ -828,4 +828,4 @@ def game_restart(**kwargs):
 	SnakeDraw.set_a_apple()
 	SnakeDraw.dead = False
 	SnakeActions.set_action()
-def show_shortcuts():  # TO
+def show_shortcuts():  # TOD
