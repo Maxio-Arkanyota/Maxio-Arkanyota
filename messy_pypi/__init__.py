@@ -826,4 +826,4 @@ def game_restart(**kwargs):
 	SnakeDraw.points = 0
 	SnakeDraw.draw_box()
 	SnakeDraw.set_a_apple()
-	SnakeDraw.dead = 
+	SnakeDraw.dead = F
