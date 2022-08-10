@@ -832,4 +832,4 @@ def show_shortcuts():  # TODO ou a remove
 	pass
 def quit_menu():
 	SnakeDraw.show_menu()
-cla
+clas
