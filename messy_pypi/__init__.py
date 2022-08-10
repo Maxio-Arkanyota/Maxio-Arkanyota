@@ -825,4 +825,4 @@ def game_restart(**kwargs):
 	# back position -> Head
 	SnakeDraw.points = 0
 	SnakeDraw.draw_box()
-	SnakeDraw.
+	SnakeDraw.s
