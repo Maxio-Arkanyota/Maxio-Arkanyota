@@ -835,4 +835,4 @@ def quit_menu():
 class SnakeDraw:
 	lock = False  # Pour éviter le double action sur la meme frame
 	menu = False
-	d
+	de
