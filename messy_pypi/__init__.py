@@ -836,4 +836,4 @@ class SnakeDraw:
 	lock = False  # Pour éviter le double action sur la meme frame
 	menu = False
 	dead = False
-	size = 32 + 2  # 2 
+	size = 32 + 2  # 2 p
