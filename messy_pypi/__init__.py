@@ -833,4 +833,4 @@ def show_shortcuts():  # TODO ou a remove
 def quit_menu():
 	SnakeDraw.show_menu()
 class SnakeDraw:
-	lock = False  
+	lock = False  #
