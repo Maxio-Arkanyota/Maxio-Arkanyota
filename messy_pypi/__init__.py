@@ -837,3 +837,4 @@ class SnakeDraw:
 	menu = False
 	dead = False
 	size = 32 + 2  # 2 pour les bordures
+	
