@@ -838,4 +838,4 @@ class SnakeDraw:
 	dead = False
 	size = 32 + 2  # 2 pour les bordures
 	facing = 0  # 0 right, 1: up, 2: left 3: down
-	s
+	sn
