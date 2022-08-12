@@ -843,4 +843,4 @@ class SnakeDraw:
 	snake_pos = [(size // 2, size // 2)]
 	random_pos = ()
 	points = 0
-	logo_men
+	logo_menu
