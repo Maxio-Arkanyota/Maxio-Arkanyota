@@ -840,4 +840,4 @@ class SnakeDraw:
 	facing = 0  # 0 right, 1: up, 2: left 3: down
 	snake_long = 10
 	# back position -> Head
-	snake_pos = [
+	snake_pos = [(
