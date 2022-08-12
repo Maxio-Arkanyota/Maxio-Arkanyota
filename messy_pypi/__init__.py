@@ -845,3 +845,4 @@ class SnakeDraw:
 	points = 0
 	logo_menu = (
 		"███ █   █ ████ █  █ ████",
+	
