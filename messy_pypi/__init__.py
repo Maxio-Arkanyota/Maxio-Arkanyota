@@ -841,4 +841,4 @@ class SnakeDraw:
 	snake_long = 10
 	# back position -> Head
 	snake_pos = [(size // 2, size // 2)]
-	random_p
+	random_po
