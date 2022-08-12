@@ -842,4 +842,4 @@ class SnakeDraw:
 	# back position -> Head
 	snake_pos = [(size // 2, size // 2)]
 	random_pos = ()
-	p
+	po
