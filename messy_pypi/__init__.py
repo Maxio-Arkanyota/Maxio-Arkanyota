@@ -844,3 +844,4 @@ class SnakeDraw:
 	random_pos = ()
 	points = 0
 	logo_menu = (
+	
