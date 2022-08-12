@@ -839,4 +839,4 @@ class SnakeDraw:
 	size = 32 + 2  # 2 pour les bordures
 	facing = 0  # 0 right, 1: up, 2: left 3: down
 	snake_long = 10
-	# back position -> Hea
+	# back position -> Head
