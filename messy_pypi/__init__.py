@@ -854,4 +854,4 @@ class SnakeDraw:
 	def restart(cls, **kwargs):
 		cls.menu = False
 		cls.snake_pos = [(cls.size // 2, cls.size // 2)]
-		cls.facing = 
+		cls.facing = 0
