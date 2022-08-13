@@ -851,4 +851,4 @@ class SnakeDraw:
 		"███ █   █ █  █ █  █ ████",
 	)
 	@classmethod
-	def restart(cls, **kwar
+	def restart(cls, **kwarg
