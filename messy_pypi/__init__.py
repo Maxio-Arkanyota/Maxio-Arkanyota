@@ -852,4 +852,4 @@ class SnakeDraw:
 	)
 	@classmethod
 	def restart(cls, **kwargs):
-		cl
+		cls
