@@ -850,4 +850,4 @@ class SnakeDraw:
 		"  █ █  ██ █  █ █ █  █   ",
 		"███ █   █ █  █ █  █ ████",
 	)
-	@class
+	@classm
