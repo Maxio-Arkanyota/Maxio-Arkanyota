@@ -853,4 +853,4 @@ class SnakeDraw:
 	@classmethod
 	def restart(cls, **kwargs):
 		cls.menu = False
-		cls.snake_pos = [(cls.size // 2, c
+		cls.snake_pos = [(cls.size // 2, cl
