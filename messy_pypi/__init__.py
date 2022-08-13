@@ -853,4 +853,4 @@ class SnakeDraw:
 	@classmethod
 	def restart(cls, **kwargs):
 		cls.menu = False
-		
+		c
