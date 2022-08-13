@@ -855,4 +855,4 @@ class SnakeDraw:
 		cls.menu = False
 		cls.snake_pos = [(cls.size // 2, cls.size // 2)]
 		cls.facing = 0  # 0 right, 1: up, 2: left 3: down
-		cls.snake_long
+		cls.snake_long 
