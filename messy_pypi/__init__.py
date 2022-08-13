@@ -851,4 +851,4 @@ class SnakeDraw:
 		"███ █   █ █  █ █  █ ████",
 	)
 	@classmethod
-	def
+	def 
