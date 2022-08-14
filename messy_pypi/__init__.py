@@ -864,4 +864,4 @@ class SnakeDraw:
 		cls.set_a_apple()
 	@classmethod
 	def show_menu(cls, **kwargs):
-	
+		
