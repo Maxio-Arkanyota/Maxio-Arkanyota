@@ -860,4 +860,4 @@ class SnakeDraw:
 		cls.points = 0
 		cls.draw_box()
 		cls.dead = False
-		Snak
+		Snake
