@@ -866,4 +866,4 @@ class SnakeDraw:
 	def show_menu(cls, **kwargs):
 		if cls.menu:
 			cls.menu = False
-			SnakeActions.set_actio
+			SnakeActions.set_action
