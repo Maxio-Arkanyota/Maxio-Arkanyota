@@ -861,4 +861,4 @@ class SnakeDraw:
 		cls.draw_box()
 		cls.dead = False
 		SnakeActions.set_action()
-		cls.set_a_app
+		cls.set_a_appl
