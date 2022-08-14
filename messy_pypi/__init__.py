@@ -862,4 +862,4 @@ class SnakeDraw:
 		cls.dead = False
 		SnakeActions.set_action()
 		cls.set_a_apple()
-	@c
+	@cl
