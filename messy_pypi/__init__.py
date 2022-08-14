@@ -858,4 +858,4 @@ class SnakeDraw:
 		cls.snake_long = 10
 		# back position -> Head
 		cls.points = 0
-		cls.draw_box(
+		cls.draw_box()
