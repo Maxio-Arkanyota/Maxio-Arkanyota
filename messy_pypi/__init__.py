@@ -865,3 +865,4 @@ class SnakeDraw:
 	@classmethod
 	def show_menu(cls, **kwargs):
 		if cls.menu:
+	
