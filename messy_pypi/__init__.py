@@ -857,4 +857,4 @@ class SnakeDraw:
 		cls.facing = 0  # 0 right, 1: up, 2: left 3: down
 		cls.snake_long = 10
 		# back position -> Head
-		cl
+		cls
