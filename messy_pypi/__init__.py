@@ -863,4 +863,4 @@ class SnakeDraw:
 		SnakeActions.set_action()
 		cls.set_a_apple()
 	@classmethod
-	def s
+	def sh
