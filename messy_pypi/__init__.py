@@ -859,4 +859,4 @@ class SnakeDraw:
 		# back position -> Head
 		cls.points = 0
 		cls.draw_box()
-		cls.dead = Fals
+		cls.dead = False
