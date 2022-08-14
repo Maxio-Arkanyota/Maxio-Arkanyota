@@ -861,3 +861,4 @@ class SnakeDraw:
 		cls.draw_box()
 		cls.dead = False
 		SnakeActions.set_action()
+	
