@@ -869,4 +869,4 @@ class SnakeDraw:
 			SnakeActions.set_action()
 			# print("\033[2J\033[1;1H")  # CLEAR SCREEN
 			cls.draw_box()
-			print(f"\033[{cls.ra
+			print(f"\033[{cls.ran
