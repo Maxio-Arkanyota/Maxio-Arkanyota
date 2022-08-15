@@ -871,3 +871,4 @@ class SnakeDraw:
 			cls.draw_box()
 			print(f"\033[{cls.random_pos[1] + 1};{cls.random_pos[0] + 1}H{Themes[cls.current_theme][2]}")
 			cls.redraw_queue()
+	
