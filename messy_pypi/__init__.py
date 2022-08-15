@@ -868,4 +868,4 @@ class SnakeDraw:
 			cls.menu = False
 			SnakeActions.set_action()
 			# print("\033[2J\033[1;1H")  # CLEAR SCREEN
-			cls
+			cls.
