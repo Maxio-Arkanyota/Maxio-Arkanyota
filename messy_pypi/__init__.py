@@ -870,4 +870,4 @@ class SnakeDraw:
 			# print("\033[2J\033[1;1H")  # CLEAR SCREEN
 			cls.draw_box()
 			print(f"\033[{cls.random_pos[1] + 1};{cls.random_pos[0] + 1}H{Themes[cls.current_theme][2]}")
-			cls.redraw_que
+			cls.redraw_queu
