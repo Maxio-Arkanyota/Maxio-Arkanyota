@@ -867,4 +867,4 @@ class SnakeDraw:
 		if cls.menu:
 			cls.menu = False
 			SnakeActions.set_action()
-			# print("\033[2J\033[1;1H")  # CLEAR SCR
+			# print("\033[2J\033[1;1H")  # CLEAR SCRE
