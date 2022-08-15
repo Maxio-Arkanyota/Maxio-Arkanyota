@@ -873,4 +873,4 @@ class SnakeDraw:
 			cls.redraw_queue()
 		else:
 			cls.menu = True
-			SnakeActions.set_menu_a
+			SnakeActions.set_menu_ac
