@@ -875,4 +875,4 @@ class SnakeDraw:
 			cls.menu = True
 			SnakeActions.set_menu_action()
 			for i in range(len(cls.logo_menu)):
-				print(f"
+				print(f"\
