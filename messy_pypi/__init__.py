@@ -874,4 +874,4 @@ class SnakeDraw:
 		else:
 			cls.menu = True
 			SnakeActions.set_menu_action()
-			for i in range(len(c
+			for i in range(len(cl
