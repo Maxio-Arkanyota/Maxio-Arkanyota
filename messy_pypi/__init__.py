@@ -878,4 +878,4 @@ class SnakeDraw:
 				print(f"\033[{i + 5};5H{cls.logo_menu[i]}")
 			cls.option_number = 0
 			cls.draw_options()
-	menu_opt
+	menu_opti
