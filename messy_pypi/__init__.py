@@ -876,4 +876,4 @@ class SnakeDraw:
 			SnakeActions.set_menu_action()
 			for i in range(len(cls.logo_menu)):
 				print(f"\033[{i + 5};5H{cls.logo_menu[i]}")
-			cls.option_number
+			cls.option_number 
