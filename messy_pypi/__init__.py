@@ -879,4 +879,4 @@ class SnakeDraw:
 			cls.option_number = 0
 			cls.draw_options()
 	menu_options = {
-		# OPTION: [Curent_option(Default_option), [sele
+		# OPTION: [Curent_option(Default_option), [selec
