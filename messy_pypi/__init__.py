@@ -881,4 +881,4 @@ class SnakeDraw:
 	menu_options = {
 		# OPTION: [Curent_option(Default_option), [selectable options]]
 		# "FPS": [0, [10, 15, 24, 30, 60, 120]],
-		"Speed": [1, 
+		"Speed": [1, [
