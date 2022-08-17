@@ -882,4 +882,4 @@ class SnakeDraw:
 		# OPTION: [Curent_option(Default_option), [selectable options]]
 		# "FPS": [0, [10, 15, 24, 30, 60, 120]],
 		"Speed": [1, [.03, .05, .1, .3, .5, 1]],
-		"Size": [1, [16 + 2, 32 + 2, 64 + 2]],  # 
+		"Size": [1, [16 + 2, 32 + 2, 64 + 2]],  # N
