@@ -884,4 +884,4 @@ class SnakeDraw:
 		"Speed": [1, [.03, .05, .1, .3, .5, 1]],
 		"Size": [1, [16 + 2, 32 + 2, 64 + 2]],  # NEED TO RESTART
 		"Themes": [0, ["Normal", "Full", "Custom", "WindowsCompatibility"]],
-		# "Show Shor
+		# "Show Short
