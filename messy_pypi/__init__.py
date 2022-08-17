@@ -880,4 +880,4 @@ class SnakeDraw:
 			cls.draw_options()
 	menu_options = {
 		# OPTION: [Curent_option(Default_option), [selectable options]]
-		# "FPS": [0, [10, 15, 24, 3
+		# "FPS": [0, [10, 15, 24, 30
