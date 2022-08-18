@@ -887,4 +887,4 @@ class SnakeDraw:
 		# "Show Shortcut": show_shortcuts,
 		"Continue": quit_menu,
 		"Restart": game_restart,
-		"Quit": s
+		"Quit": si
