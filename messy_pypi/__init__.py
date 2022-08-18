@@ -891,4 +891,4 @@ class SnakeDraw:
 	}
 	option_number: int = 0
 	dead_option_number: int = 0
-	speed: float 
+	speed: float =
