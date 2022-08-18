@@ -890,4 +890,4 @@ class SnakeDraw:
 		"Quit": sigint_quit,
 	}
 	option_number: int = 0
-	dead
+	dead_
