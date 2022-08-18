@@ -891,4 +891,4 @@ class SnakeDraw:
 	}
 	option_number: int = 0
 	dead_option_number: int = 0
-	speed: float = menu_options["Speed"][1][menu_o
+	speed: float = menu_options["Speed"][1][menu_op
