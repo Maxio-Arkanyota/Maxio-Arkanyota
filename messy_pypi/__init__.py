@@ -889,4 +889,4 @@ class SnakeDraw:
 		"Restart": game_restart,
 		"Quit": sigint_quit,
 	}
-	option_number: i
+	option_number: in
