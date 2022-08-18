@@ -888,3 +888,4 @@ class SnakeDraw:
 		"Continue": quit_menu,
 		"Restart": game_restart,
 		"Quit": sigint_quit,
+	
