@@ -886,4 +886,4 @@ class SnakeDraw:
 		"Themes": [0, ["Normal", "Full", "Custom", "WindowsCompatibility"]],
 		# "Show Shortcut": show_shortcuts,
 		"Continue": quit_menu,
-		"Restart": game_restart
+		"Restart": game_restart,
