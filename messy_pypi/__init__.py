@@ -885,4 +885,4 @@ class SnakeDraw:
 		"Size": [1, [16 + 2, 32 + 2, 64 + 2]],  # NEED TO RESTART
 		"Themes": [0, ["Normal", "Full", "Custom", "WindowsCompatibility"]],
 		# "Show Shortcut": show_shortcuts,
-		"Continue": quit_me
+		"Continue": quit_men
