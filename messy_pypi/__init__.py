@@ -896,4 +896,4 @@ class SnakeDraw:
 	dead_options: tuple = ("Restart", "Quit")
 	@classmethod
 	def set_a_apple(cls):
-		pos_of_point = randint(1, (cls.size - 2) ** 2 - cls.snake
+		pos_of_point = randint(1, (cls.size - 2) ** 2 - cls.snake_
