@@ -894,4 +894,4 @@ class SnakeDraw:
 	speed: float = menu_options["Speed"][1][menu_options["Speed"][0]]
 	current_theme: str = str(menu_options["Themes"][1][menu_options["Themes"][0]])
 	dead_options: tuple = ("Restart", "Quit")
-	@c
+	@cl
