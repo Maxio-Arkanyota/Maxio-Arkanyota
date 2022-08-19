@@ -892,4 +892,4 @@ class SnakeDraw:
 	option_number: int = 0
 	dead_option_number: int = 0
 	speed: float = menu_options["Speed"][1][menu_options["Speed"][0]]
-	current_theme: str = str(menu_options["Themes"][1][menu_options["Them
+	current_theme: str = str(menu_options["Themes"][1][menu_options["Theme
