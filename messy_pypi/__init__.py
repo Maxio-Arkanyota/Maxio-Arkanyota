@@ -896,4 +896,4 @@ class SnakeDraw:
 	dead_options: tuple = ("Restart", "Quit")
 	@classmethod
 	def set_a_apple(cls):
-		pos_of_point 
+		pos_of_point =
