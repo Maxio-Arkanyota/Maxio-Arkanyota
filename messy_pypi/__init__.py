@@ -895,4 +895,4 @@ class SnakeDraw:
 	current_theme: str = str(menu_options["Themes"][1][menu_options["Themes"][0]])
 	dead_options: tuple = ("Restart", "Quit")
 	@classmethod
-	def
+	def 
