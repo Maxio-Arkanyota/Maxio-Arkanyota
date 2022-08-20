@@ -905,4 +905,4 @@ class SnakeDraw:
 				else:
 					current_point += 1
 				if current_point == pos_of_point:
-					cls.random_p
+					cls.random_po
