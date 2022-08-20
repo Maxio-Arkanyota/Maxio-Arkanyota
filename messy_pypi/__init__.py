@@ -903,4 +903,4 @@ class SnakeDraw:
 				if (i, j) in cls.snake_pos:
 					pass
 				else:
-					current_poi
+					current_poin
