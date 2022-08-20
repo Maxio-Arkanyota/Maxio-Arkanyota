@@ -904,4 +904,4 @@ class SnakeDraw:
 					pass
 				else:
 					current_point += 1
-				if current_point == pos_of_p
+				if current_point == pos_of_po
