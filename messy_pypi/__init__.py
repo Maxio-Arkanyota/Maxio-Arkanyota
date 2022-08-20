@@ -904,4 +904,4 @@ class SnakeDraw:
 					pass
 				else:
 					current_point += 1
-				if current_poin
+				if current_point
