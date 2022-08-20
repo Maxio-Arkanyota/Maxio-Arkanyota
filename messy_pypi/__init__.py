@@ -898,4 +898,4 @@ class SnakeDraw:
 	def set_a_apple(cls):
 		pos_of_point = randint(1, (cls.size - 2) ** 2 - cls.snake_long)
 		current_point = 0
-		for i in range(1, cls.size 
+		for i in range(1, cls.size -
