@@ -902,4 +902,4 @@ class SnakeDraw:
 			for j in range(1, cls.size - 1):
 				if (i, j) in cls.snake_pos:
 					pass
-				els
+				else
