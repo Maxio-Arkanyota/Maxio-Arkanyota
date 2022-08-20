@@ -900,4 +900,4 @@ class SnakeDraw:
 		current_point = 0
 		for i in range(1, cls.size - 1):
 			for j in range(1, cls.size - 1):
-				if (i, j) in cls
+				if (i, j) in cls.
