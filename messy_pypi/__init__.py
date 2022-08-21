@@ -909,4 +909,4 @@ class SnakeDraw:
 					print(f"\033[{cls.random_pos[1] + 1};{cls.random_pos[0] + 1}H{Themes[cls.current_theme][2]}")
 	@classmethod
 	def draw_options(cls):
-		for i in ra
+		for i in ran
