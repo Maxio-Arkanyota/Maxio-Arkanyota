@@ -906,4 +906,4 @@ class SnakeDraw:
 					current_point += 1
 				if current_point == pos_of_point:
 					cls.random_pos = (i, j)
-					print(f"\033[{cls.random_pos[1] + 1};{cls.random_pos[0]
+					print(f"\033[{cls.random_pos[1] + 1};{cls.random_pos[0] 
