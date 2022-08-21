@@ -910,4 +910,4 @@ class SnakeDraw:
 	@classmethod
 	def draw_options(cls):
 		for i in range(len(cls.menu_options.keys())):
-			# : ← {func[1][fun
+			# : ← {func[1][func
