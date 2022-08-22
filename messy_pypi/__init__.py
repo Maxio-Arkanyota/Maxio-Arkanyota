@@ -912,4 +912,4 @@ class SnakeDraw:
 		for i in range(len(cls.menu_options.keys())):
 			# : ← {func[1][func[0]]} →
 			if cls.option_number == i:
-				message = 
+				message = f
