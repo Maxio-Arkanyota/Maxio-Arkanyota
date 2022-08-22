@@ -914,4 +914,4 @@ class SnakeDraw:
 			if cls.option_number == i:
 				message = f"\033[33m\033[{i * 2 + 11};8H{tuple(cls.menu_options.keys())[i]}\033[0m"
 			else:
-				message = f"\033[{i * 2 + 11};8H{tuple(cls.menu_options.
+				message = f"\033[{i * 2 + 11};8H{tuple(cls.menu_options.k
