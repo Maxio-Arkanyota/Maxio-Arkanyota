@@ -919,4 +919,4 @@ class SnakeDraw:
 			func = SnakeDraw.menu_options[option]
 			# replace func[1] by menu_option
 			if isinstance(func, list):
-				message += f": ← {func[
+				message += f": ← {func[1
