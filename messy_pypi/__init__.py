@@ -919,3 +919,4 @@ class SnakeDraw:
 			func = SnakeDraw.menu_options[option]
 			# replace func[1] by menu_option
 			if isinstance(func, list):
+	
