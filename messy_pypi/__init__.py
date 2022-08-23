@@ -917,4 +917,4 @@ class SnakeDraw:
 				message = f"\033[{i * 2 + 11};8H{tuple(cls.menu_options.keys())[i]}"
 			option = tuple(SnakeDraw.menu_options.keys())[i]
 			func = SnakeDraw.menu_options[option]
-			# rep
+			# repl
