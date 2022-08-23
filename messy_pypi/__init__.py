@@ -922,4 +922,4 @@ class SnakeDraw:
 				message += f": ← {func[1][func[0]]} →   "
 			print(message)
 			if option == "Themes":
-				SnakeDraw.current_theme = func[1
+				SnakeDraw.current_theme = func[1]
