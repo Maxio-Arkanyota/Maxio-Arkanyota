@@ -918,4 +918,4 @@ class SnakeDraw:
 			option = tuple(SnakeDraw.menu_options.keys())[i]
 			func = SnakeDraw.menu_options[option]
 			# replace func[1] by menu_option
-			if isinstance(
+			if isinstance(f
