@@ -921,3 +921,4 @@ class SnakeDraw:
 			if isinstance(func, list):
 				message += f": ← {func[1][func[0]]} →   "
 			print(message)
+	
