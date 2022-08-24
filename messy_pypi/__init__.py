@@ -930,4 +930,4 @@ class SnakeDraw:
 				SnakeDraw.speed = func[1][func[0]]
 	@classmethod
 	def draw_dead_options(cls):
-		cls.logo_d
+		cls.logo_de
