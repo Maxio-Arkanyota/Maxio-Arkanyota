@@ -926,4 +926,4 @@ class SnakeDraw:
 			if option == "Size":
 				SnakeDraw.size = func[1][func[0]]
 				# Restart
-			if option == "Spee
+			if option == "Speed
