@@ -929,4 +929,4 @@ class SnakeDraw:
 			if option == "Speed":
 				SnakeDraw.speed = func[1][func[0]]
 	@classmethod
-	def draw_dead_options(
+	def draw_dead_options(c
