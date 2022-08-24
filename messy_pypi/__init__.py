@@ -928,3 +928,4 @@ class SnakeDraw:
 				# Restart
 			if option == "Speed":
 				SnakeDraw.speed = func[1][func[0]]
+	
