@@ -924,4 +924,4 @@ class SnakeDraw:
 			if option == "Themes":
 				SnakeDraw.current_theme = func[1][func[0]]
 			if option == "Size":
-				SnakeDraw.size = func[1][func[0]
+				SnakeDraw.size = func[1][func[0]]
