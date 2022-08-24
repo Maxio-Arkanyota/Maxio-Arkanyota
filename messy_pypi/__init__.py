@@ -923,4 +923,4 @@ class SnakeDraw:
 			print(message)
 			if option == "Themes":
 				SnakeDraw.current_theme = func[1][func[0]]
-			if opt
+			if opti
