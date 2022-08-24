@@ -927,4 +927,4 @@ class SnakeDraw:
 				SnakeDraw.size = func[1][func[0]]
 				# Restart
 			if option == "Speed":
-				SnakeDraw.speed = func[1][fu
+				SnakeDraw.speed = func[1][fun
