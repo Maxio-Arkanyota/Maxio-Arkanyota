@@ -932,4 +932,4 @@ class SnakeDraw:
 	def draw_dead_options(cls):
 		cls.logo_dead = (
 			"████ ████ █   █ ███  ████ █   █ ███ ███  ",
-			"█    █  █ ██ ██ █    █  █ █   █
+			"█    █  █ ██ ██ █    █  █ █   █ 
