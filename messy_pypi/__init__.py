@@ -931,4 +931,4 @@ class SnakeDraw:
 	@classmethod
 	def draw_dead_options(cls):
 		cls.logo_dead = (
-			"████ ████ █   █ ███  ████ █   █ ██
+			"████ ████ █   █ ███  ████ █   █ ███
