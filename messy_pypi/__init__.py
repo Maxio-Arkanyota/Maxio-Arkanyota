@@ -937,4 +937,4 @@ class SnakeDraw:
 			"█  █ █  █ █   █ █    █  █  █ █  █   █ █  ",
 			"████ █  █ █   █ ███  ████   █   ███ █  █ ",
 		)
-		for j in ra
+		for j in ran
