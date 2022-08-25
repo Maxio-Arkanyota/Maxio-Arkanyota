@@ -937,4 +937,4 @@ class SnakeDraw:
 			"█  █ █  █ █   █ █    █  █  █ █  █   █ █  ",
 			"████ █  █ █   █ ███  ████   █   ███ █  █ ",
 		)
-		for j in range(l
+		for j in range(le
