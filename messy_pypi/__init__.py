@@ -941,4 +941,4 @@ class SnakeDraw:
 			print(f"\033[{j + 5};5H{cls.logo_dead[j]}")
 		for i in range(2):
 			# Draw Gameover
-			# : ←
+			# : ← 
