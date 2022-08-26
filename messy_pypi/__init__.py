@@ -942,4 +942,4 @@ class SnakeDraw:
 		for i in range(2):
 			# Draw Gameover
 			# : ← {func[1][func[0]]}
-			if cls.dead_option_n
+			if cls.dead_option_nu
