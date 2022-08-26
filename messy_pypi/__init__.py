@@ -938,4 +938,4 @@ class SnakeDraw:
 			"████ █  █ █   █ ███  ████   █   ███ █  █ ",
 		)
 		for j in range(len(cls.logo_dead)):
-			print(f"\033[{
+			print(f"\033[{j
