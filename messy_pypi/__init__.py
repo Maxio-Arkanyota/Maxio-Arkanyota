@@ -943,4 +943,4 @@ class SnakeDraw:
 			# Draw Gameover
 			# : ← {func[1][func[0]]}
 			if cls.dead_option_number == i:
-				message = f"\033[33m\033[{i * 2 + 11};8H{
+				message = f"\033[33m\033[{i * 2 + 11};8H{c
