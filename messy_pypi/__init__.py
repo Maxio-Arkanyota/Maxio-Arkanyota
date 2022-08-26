@@ -940,4 +940,4 @@ class SnakeDraw:
 		for j in range(len(cls.logo_dead)):
 			print(f"\033[{j + 5};5H{cls.logo_dead[j]}")
 		for i in range(2):
-			# Dra
+			# Draw
