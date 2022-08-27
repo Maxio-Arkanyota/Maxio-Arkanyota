@@ -948,4 +948,4 @@ class SnakeDraw:
 				message = f"\033[{i * 2 + 11};8H{cls.dead_options[i]}"
 			print(message)
 	@classmethod
-	def draw_box(
+	def draw_box(c
