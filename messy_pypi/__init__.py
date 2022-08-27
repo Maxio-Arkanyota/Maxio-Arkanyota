@@ -949,4 +949,4 @@ class SnakeDraw:
 			print(message)
 	@classmethod
 	def draw_box(cls):
-		print("\033[2J\033[1;1H")  # 
+		print("\033[2J\033[1;1H")  # C
