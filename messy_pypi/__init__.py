@@ -950,4 +950,4 @@ class SnakeDraw:
 	@classmethod
 	def draw_box(cls):
 		print("\033[2J\033[1;1H")  # CLEAR SCREEN
-		print(f"\033[1;1H" + Themes[cls.cu
+		print(f"\033[1;1H" + Themes[cls.cur
