@@ -949,4 +949,4 @@ class SnakeDraw:
 			print(message)
 	@classmethod
 	def draw_box(cls):
-		print("\03
+		print("\033
