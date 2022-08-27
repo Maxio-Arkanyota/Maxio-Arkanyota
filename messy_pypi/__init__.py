@@ -945,4 +945,4 @@ class SnakeDraw:
 			if cls.dead_option_number == i:
 				message = f"\033[33m\033[{i * 2 + 11};8H{cls.dead_options[i]}\033[0m"
 			else:
-				message = f"
+				message = f"\
