@@ -952,4 +952,4 @@ class SnakeDraw:
 		print("\033[2J\033[1;1H")  # CLEAR SCREEN
 		print(f"\033[1;1H" + Themes[cls.current_theme][0] * cls.size)
 		print(f"\033[{cls.size};1H" + Themes[cls.current_theme][0] * cls.size)
-		for i in range(2, cls.si
+		for i in range(2, cls.siz
