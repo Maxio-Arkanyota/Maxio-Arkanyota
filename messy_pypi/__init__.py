@@ -954,4 +954,4 @@ class SnakeDraw:
 		print(f"\033[{cls.size};1H" + Themes[cls.current_theme][0] * cls.size)
 		for i in range(2, cls.size):
 			print(f"\033[{i};1H{Themes[cls.current_theme][0]}")
-			print(f"\033[{i};{cls.size}H{Themes[cls.curr
+			print(f"\033[{i};{cls.size}H{Themes[cls.curre
