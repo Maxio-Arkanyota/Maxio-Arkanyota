@@ -956,4 +956,4 @@ class SnakeDraw:
 			print(f"\033[{i};1H{Themes[cls.current_theme][0]}")
 			print(f"\033[{i};{cls.size}H{Themes[cls.current_theme][0]}")
 	@classmethod
-	def
+	def 
