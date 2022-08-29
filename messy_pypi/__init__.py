@@ -962,4 +962,4 @@ class SnakeDraw:
 	@classmethod
 	def set_dead(cls):
 		# Set dead menu option
-		
+		#
