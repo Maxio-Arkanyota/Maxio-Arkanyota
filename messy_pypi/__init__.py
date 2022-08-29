@@ -960,4 +960,4 @@ class SnakeDraw:
 		for i, j in cls.snake_pos:
 			print(f"\033[{j};{i}H{Themes[cls.current_theme][3]}")
 	@classmethod
-	def s
+	def se
