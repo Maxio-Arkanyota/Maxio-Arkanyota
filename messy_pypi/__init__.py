@@ -964,4 +964,4 @@ class SnakeDraw:
 		# Set dead menu option
 		# Reset points
 		cls.dead = True
-		cls.draw_dead_op
+		cls.draw_dead_opt
