@@ -961,3 +961,4 @@ class SnakeDraw:
 			print(f"\033[{j};{i}H{Themes[cls.current_theme][3]}")
 	@classmethod
 	def set_dead(cls):
+	
