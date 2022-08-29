@@ -965,4 +965,4 @@ class SnakeDraw:
 		# Reset points
 		cls.dead = True
 		cls.draw_dead_options()
-		SnakeActions.set_dead_
+		SnakeActions.set_dead_a
