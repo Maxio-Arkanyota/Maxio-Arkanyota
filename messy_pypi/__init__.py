@@ -959,4 +959,4 @@ class SnakeDraw:
 	def redraw_queue(cls):
 		for i, j in cls.snake_pos:
 			print(f"\033[{j};{i}H{Themes[cls.current_theme][3]}")
-	@
+	@c
