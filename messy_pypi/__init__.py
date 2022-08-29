@@ -963,4 +963,4 @@ class SnakeDraw:
 	def set_dead(cls):
 		# Set dead menu option
 		# Reset points
-		cls.
+		cls.d
