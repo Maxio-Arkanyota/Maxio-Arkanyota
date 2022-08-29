@@ -957,4 +957,4 @@ class SnakeDraw:
 			print(f"\033[{i};{cls.size}H{Themes[cls.current_theme][0]}")
 	@classmethod
 	def redraw_queue(cls):
-		for i, j i
+		for i, j in
