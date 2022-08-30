@@ -973,4 +973,4 @@ class SnakeDraw:
 		cls.set_a_apple()
 		while not cls.stopping:
 			if exit_event.is_set():
-	
+		
