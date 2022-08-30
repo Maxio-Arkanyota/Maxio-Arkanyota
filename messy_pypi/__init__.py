@@ -967,3 +967,4 @@ class SnakeDraw:
 		cls.draw_dead_options()
 		SnakeActions.set_dead_action()
 		pass
+	
