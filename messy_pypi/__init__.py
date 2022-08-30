@@ -970,4 +970,4 @@ class SnakeDraw:
 	@classmethod
 	def _do_draw(cls):
 		cls.draw_box()
-		cls.set_a_appl
+		cls.set_a_apple
