@@ -969,4 +969,4 @@ class SnakeDraw:
 		pass
 	@classmethod
 	def _do_draw(cls):
-		
+		c
