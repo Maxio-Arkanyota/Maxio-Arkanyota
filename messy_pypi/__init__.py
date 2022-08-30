@@ -976,4 +976,4 @@ class SnakeDraw:
 				break
 			if cls.menu or cls.dead:
 				pass
-			else
+			else:
