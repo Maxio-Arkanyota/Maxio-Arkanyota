@@ -968,4 +968,4 @@ class SnakeDraw:
 		SnakeActions.set_dead_action()
 		pass
 	@classmethod
-	def _do_dra
+	def _do_draw
