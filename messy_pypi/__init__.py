@@ -971,4 +971,4 @@ class SnakeDraw:
 	def _do_draw(cls):
 		cls.draw_box()
 		cls.set_a_apple()
-		while not cls.stop
+		while not cls.stopp
