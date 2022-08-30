@@ -972,4 +972,4 @@ class SnakeDraw:
 		cls.draw_box()
 		cls.set_a_apple()
 		while not cls.stopping:
-			if exit_eve
+			if exit_even
