@@ -977,4 +977,4 @@ class SnakeDraw:
 			if cls.menu or cls.dead:
 				pass
 			else:
-				# SET CODE HERE: n
+				# SET CODE HERE: ne
