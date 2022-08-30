@@ -974,4 +974,4 @@ class SnakeDraw:
 		while not cls.stopping:
 			if exit_event.is_set():
 				break
-	
+		
