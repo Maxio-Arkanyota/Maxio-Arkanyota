@@ -975,4 +975,4 @@ class SnakeDraw:
 			if exit_event.is_set():
 				break
 			if cls.menu or cls.dead:
-				pas
+				pass
