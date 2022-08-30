@@ -968,3 +968,4 @@ class SnakeDraw:
 		SnakeActions.set_dead_action()
 		pass
 	@classmethod
+	
