@@ -979,4 +979,4 @@ class SnakeDraw:
 			else:
 				# SET CODE HERE: ne pas metre de code bloquant: code qui nécessite une action de l'utilisateur
 				# Affiche la tête du snake
-				print(f"\033[{cls.snake_pos[-1][1]};{cls.snake_pos[-1][0]}H{Themes[c
+				print(f"\033[{cls.snake_pos[-1][1]};{cls.snake_pos[-1][0]}H{Themes[cl
