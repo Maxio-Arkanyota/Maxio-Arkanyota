@@ -977,4 +977,4 @@ class SnakeDraw:
 			if cls.menu or cls.dead:
 				pass
 			else:
-				# SET CODE HERE: ne pas metre de code bloquant: code qui nécessite une action de l'utilisat
+				# SET CODE HERE: ne pas metre de code bloquant: code qui nécessite une action de l'utilisate
