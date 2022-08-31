@@ -979,3 +979,4 @@ class SnakeDraw:
 			else:
 				# SET CODE HERE: ne pas metre de code bloquant: code qui nécessite une action de l'utilisateur
 				# Affiche la tête du snake
+	
