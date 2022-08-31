@@ -981,4 +981,4 @@ class SnakeDraw:
 				# Affiche la tête du snake
 				print(f"\033[{cls.snake_pos[-1][1]};{cls.snake_pos[-1][0]}H{Themes[cls.current_theme][1][cls.facing]}")
 				# Déplacement f(facing)
-				i
+				if
