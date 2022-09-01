@@ -986,4 +986,4 @@ class SnakeDraw:
 				elif cls.facing == 1:
 					cls.snake_pos += [(cls.snake_pos[-1][0], cls.snake_pos[-1][1] - 1)]
 				elif cls.facing == 2:
-					cls.snake_pos += [(cls.snake_pos[-1][0] + 
+					cls.snake_pos += [(cls.snake_pos[-1][0] + 1
