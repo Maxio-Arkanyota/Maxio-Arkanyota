@@ -993,4 +993,4 @@ class SnakeDraw:
 					if 1 < cls.snake_pos[-1][0] <= cls.size - 1 and 1 < cls.snake_pos[-1][1] <= cls.size - 1:
 						pass
 					else:
-						# Si bord et
+						# Si bord et 
