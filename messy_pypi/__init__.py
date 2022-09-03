@@ -997,4 +997,4 @@ class SnakeDraw:
 						cls.set_dead()
 					if (cls.snake_pos[-1][0], cls.snake_pos[-1][1]) in cls.snake_pos[:-1]:
 						# Vérifier si il se touche la queue
-				
+					
