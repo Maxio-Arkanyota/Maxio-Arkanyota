@@ -991,4 +991,4 @@ class SnakeDraw:
 					cls.snake_pos += [(cls.snake_pos[-1][0], cls.snake_pos[-1][1] + 1)]
 				if True:  # A remove Condition gameover
 					if 1 < cls.snake_pos[-1][0] <= cls.size - 1 and 1 < cls.snake_pos[-1][1] <= cls.size - 1:
-						pas
+						pass
