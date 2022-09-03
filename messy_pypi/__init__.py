@@ -994,4 +994,4 @@ class SnakeDraw:
 						pass
 					else:
 						# Si bord et touché
-						cls.set_dead(
+						cls.set_dead()
