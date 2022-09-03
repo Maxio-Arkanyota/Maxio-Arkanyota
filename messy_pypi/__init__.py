@@ -996,4 +996,4 @@ class SnakeDraw:
 						# Si bord et touché
 						cls.set_dead()
 					if (cls.snake_pos[-1][0], cls.snake_pos[-1][1]) in cls.snake_pos[:-1]:
-						# Vérifier 
+						# Vérifier s
