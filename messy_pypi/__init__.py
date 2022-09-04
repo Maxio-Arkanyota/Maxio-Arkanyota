@@ -1000,4 +1000,4 @@ class SnakeDraw:
 						# tuple((cls.snake_pos[i][0], cls.snake_pos[i][1]) for i in range(len(cls.snake_pos)-1)):
 						cls.set_dead()
 				if True:  # Si la tête du serpent touche une pomme
-					if (cls.random_pos[0] + 1, cls.random_pos[1] + 1) == cls.s
+					if (cls.random_pos[0] + 1, cls.random_pos[1] + 1) == cls.sn
