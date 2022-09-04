@@ -1002,4 +1002,4 @@ class SnakeDraw:
 				if True:  # Si la tête du serpent touche une pomme
 					if (cls.random_pos[0] + 1, cls.random_pos[1] + 1) == cls.snake_pos[-1]:
 						cls.set_a_apple()
-						cls.snake_lo
+						cls.snake_lon
