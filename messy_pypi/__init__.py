@@ -999,4 +999,4 @@ class SnakeDraw:
 						# Vérifier si il se touche la queue
 						# tuple((cls.snake_pos[i][0], cls.snake_pos[i][1]) for i in range(len(cls.snake_pos)-1)):
 						cls.set_dead()
-				if True:  # Si la tête du serpent touche une pom
+				if True:  # Si la tête du serpent touche une pomm
