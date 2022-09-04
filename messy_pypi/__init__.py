@@ -1001,4 +1001,4 @@ class SnakeDraw:
 						cls.set_dead()
 				if True:  # Si la tête du serpent touche une pomme
 					if (cls.random_pos[0] + 1, cls.random_pos[1] + 1) == cls.snake_pos[-1]:
-						cls.se
+						cls.set
