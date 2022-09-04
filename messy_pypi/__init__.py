@@ -998,4 +998,4 @@ class SnakeDraw:
 					if (cls.snake_pos[-1][0], cls.snake_pos[-1][1]) in cls.snake_pos[:-1]:
 						# Vérifier si il se touche la queue
 						# tuple((cls.snake_pos[i][0], cls.snake_pos[i][1]) for i in range(len(cls.snake_pos)-1)):
-						cls.set_de
+						cls.set_dea
