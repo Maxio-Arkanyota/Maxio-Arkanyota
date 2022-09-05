@@ -1008,4 +1008,4 @@ class SnakeDraw:
 				if len(cls.snake_pos) > cls.snake_long:
 					print(f"\033[{cls.snake_pos[0][1]};{cls.snake_pos[0][0]}H ")
 					cls.snake_pos.pop(0)
-			if "--debug" in sys.argv:  
+			if "--debug" in sys.argv:  #
