@@ -1003,4 +1003,4 @@ class SnakeDraw:
 					if (cls.random_pos[0] + 1, cls.random_pos[1] + 1) == cls.snake_pos[-1]:
 						cls.set_a_apple()
 						cls.snake_long += 1
-						cl
+						cls
