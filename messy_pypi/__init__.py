@@ -1005,4 +1005,4 @@ class SnakeDraw:
 						cls.snake_long += 1
 						cls.points += 1
 				# Supprime le queue qui disparait
-				if len(cls.snake_pos) > cls.snake_
+				if len(cls.snake_pos) > cls.snake_l
