@@ -1007,4 +1007,4 @@ class SnakeDraw:
 				# Supprime le queue qui disparait
 				if len(cls.snake_pos) > cls.snake_long:
 					print(f"\033[{cls.snake_pos[0][1]};{cls.snake_pos[0][0]}H ")
-					
+					c
