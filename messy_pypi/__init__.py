@@ -1004,4 +1004,4 @@ class SnakeDraw:
 						cls.set_a_apple()
 						cls.snake_long += 1
 						cls.points += 1
-				# Su
+				# Sup
