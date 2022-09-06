@@ -1011,4 +1011,4 @@ class SnakeDraw:
 			if "--debug" in sys.argv:  # DEBUG VAR
 				# print(f"\033[40;1HSnake = {cls.snake_pos}")
 				print(f"\033[2;35HRandom Apple= {cls.random_pos}")
-				print(f"\033[3;35HPoints= {cls.point
+				print(f"\033[3;35HPoints= {cls.points
