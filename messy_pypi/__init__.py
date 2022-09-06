@@ -1010,4 +1010,4 @@ class SnakeDraw:
 					cls.snake_pos.pop(0)
 			if "--debug" in sys.argv:  # DEBUG VAR
 				# print(f"\033[40;1HSnake = {cls.snake_pos}")
-				print(f"\033[2;35HRandom 
+				print(f"\033[2;35HRandom A
