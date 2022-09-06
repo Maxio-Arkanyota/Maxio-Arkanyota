@@ -1014,4 +1014,4 @@ class SnakeDraw:
 				print(f"\033[3;35HPoints= {cls.points}")
 				print(f"\033[4;35H{cls.current_theme=}")
 			cls.lock = False
-			ti
+			tim
