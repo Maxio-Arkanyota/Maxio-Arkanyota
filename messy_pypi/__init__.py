@@ -1009,4 +1009,4 @@ class SnakeDraw:
 					print(f"\033[{cls.snake_pos[0][1]};{cls.snake_pos[0][0]}H ")
 					cls.snake_pos.pop(0)
 			if "--debug" in sys.argv:  # DEBUG VAR
-				# print(f"\033[40;1HSnak
+				# print(f"\033[40;1HSnake
