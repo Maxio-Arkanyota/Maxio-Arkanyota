@@ -1013,4 +1013,4 @@ class SnakeDraw:
 				print(f"\033[2;35HRandom Apple= {cls.random_pos}")
 				print(f"\033[3;35HPoints= {cls.points}")
 				print(f"\033[4;35H{cls.current_theme=}")
-			cls.lock
+			cls.lock 
