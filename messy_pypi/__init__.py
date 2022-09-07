@@ -1021,4 +1021,4 @@ class SnakeDraw:
 	reader: threading.Thread
 	@classmethod
 	def start(cls):
-		c
+		cl
