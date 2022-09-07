@@ -1015,4 +1015,4 @@ class SnakeDraw:
 				print(f"\033[4;35H{cls.current_theme=}")
 			cls.lock = False
 			time.sleep(cls.speed)
-	# ----------------------------------
+	# -----------------------------------
