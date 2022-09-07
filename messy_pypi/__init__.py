@@ -1018,4 +1018,4 @@ class SnakeDraw:
 	# ---------------------------------------
 	stopping: bool = False
 	started: bool = False
-	reader: threa
+	reader: thread
