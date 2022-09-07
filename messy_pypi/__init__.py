@@ -1022,4 +1022,4 @@ class SnakeDraw:
 	@classmethod
 	def start(cls):
 		cls.stopping = False
-		cls.reader = threading.Thread(t
+		cls.reader = threading.Thread(ta
