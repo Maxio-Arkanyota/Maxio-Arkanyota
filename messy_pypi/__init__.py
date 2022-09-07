@@ -1023,4 +1023,4 @@ class SnakeDraw:
 	def start(cls):
 		cls.stopping = False
 		cls.reader = threading.Thread(target=cls._do_draw)
-		cls.reader.st
+		cls.reader.sta
