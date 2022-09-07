@@ -1020,4 +1020,4 @@ class SnakeDraw:
 	started: bool = False
 	reader: threading.Thread
 	@classmethod
-	def
+	def 
