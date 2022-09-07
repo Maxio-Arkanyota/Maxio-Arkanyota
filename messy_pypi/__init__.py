@@ -1017,4 +1017,4 @@ class SnakeDraw:
 			time.sleep(cls.speed)
 	# ---------------------------------------
 	stopping: bool = False
-	started: bool = Fa
+	started: bool = Fal
