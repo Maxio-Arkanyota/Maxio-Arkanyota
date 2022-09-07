@@ -1022,3 +1022,4 @@ class SnakeDraw:
 	@classmethod
 	def start(cls):
 		cls.stopping = False
+	
