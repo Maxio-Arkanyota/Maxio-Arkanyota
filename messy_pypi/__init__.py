@@ -1016,4 +1016,4 @@ class SnakeDraw:
 			cls.lock = False
 			time.sleep(cls.speed)
 	# ---------------------------------------
-	stopping: bool = F
+	stopping: bool = Fa
