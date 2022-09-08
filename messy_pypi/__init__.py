@@ -1034,4 +1034,4 @@ class SnakeDraw:
 			except RuntimeError:
 				pass
 class SnakeKey:
-	list = Non
+	list = None
