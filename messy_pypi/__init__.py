@@ -1035,4 +1035,4 @@ class SnakeDraw:
 				pass
 class SnakeKey:
 	list = None
-	stopping: bo
+	stopping: boo
