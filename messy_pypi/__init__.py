@@ -1036,3 +1036,4 @@ class SnakeDraw:
 class SnakeKey:
 	list = None
 	stopping: bool = False
+	
