@@ -1033,4 +1033,4 @@ class SnakeDraw:
 				cls.reader.join()
 			except RuntimeError:
 				pass
-class Sna
+class Snak
