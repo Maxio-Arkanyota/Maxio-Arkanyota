@@ -1026,4 +1026,4 @@ class SnakeDraw:
 		cls.reader.start()
 		cls.started = True
 	@classmethod
-	def stop(cls)
+	def stop(cls):
