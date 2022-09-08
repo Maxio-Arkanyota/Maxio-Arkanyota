@@ -1033,3 +1033,4 @@ class SnakeDraw:
 				cls.reader.join()
 			except RuntimeError:
 				pass
+c
