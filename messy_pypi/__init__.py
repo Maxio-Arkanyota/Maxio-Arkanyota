@@ -1031,3 +1031,4 @@ class SnakeDraw:
 			cls.stopping = True
 			try:
 				cls.reader.join()
+	
