@@ -1035,3 +1035,4 @@ class SnakeDraw:
 				pass
 class SnakeKey:
 	list = None
+	
