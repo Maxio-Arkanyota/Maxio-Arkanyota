@@ -1034,3 +1034,4 @@ class SnakeDraw:
 			except RuntimeError:
 				pass
 class SnakeKey:
+	
