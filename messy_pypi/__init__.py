@@ -1025,3 +1025,4 @@ class SnakeDraw:
 		cls.reader = threading.Thread(target=cls._do_draw)
 		cls.reader.start()
 		cls.started = True
+	
