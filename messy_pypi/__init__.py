@@ -1027,4 +1027,4 @@ class SnakeDraw:
 		cls.started = True
 	@classmethod
 	def stop(cls):
-		if cls.started and cl
+		if cls.started and cls
