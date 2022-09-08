@@ -1029,4 +1029,4 @@ class SnakeDraw:
 	def stop(cls):
 		if cls.started and cls.reader.is_alive():
 			cls.stopping = True
-	
+		
