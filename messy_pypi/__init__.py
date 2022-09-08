@@ -1030,4 +1030,4 @@ class SnakeDraw:
 		if cls.started and cls.reader.is_alive():
 			cls.stopping = True
 			try:
-				cls.r
+				cls.re
