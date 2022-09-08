@@ -1032,4 +1032,4 @@ class SnakeDraw:
 			try:
 				cls.reader.join()
 			except RuntimeError:
-		
+			
