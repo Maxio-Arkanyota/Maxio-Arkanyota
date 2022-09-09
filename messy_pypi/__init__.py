@@ -1037,4 +1037,4 @@ class SnakeKey:
 	list = None
 	stopping: bool = False
 	started: bool = False
-	reader: threading
+	reader: threading.
