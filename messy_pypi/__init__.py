@@ -1039,4 +1039,4 @@ class SnakeKey:
 	started: bool = False
 	reader: threading.Thread
 	@classmethod
-	de
+	def
