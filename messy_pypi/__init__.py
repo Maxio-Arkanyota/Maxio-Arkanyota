@@ -1041,4 +1041,4 @@ class SnakeKey:
 	@classmethod
 	def start(cls):
 		cls.stopping = False
-		cls.reader = threading.Thread(ta
+		cls.reader = threading.Thread(tar
