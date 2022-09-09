@@ -1042,4 +1042,4 @@ class SnakeKey:
 	def start(cls):
 		cls.stopping = False
 		cls.reader = threading.Thread(target=cls._get_key)
-		c
+		cl
