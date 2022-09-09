@@ -1039,4 +1039,4 @@ class SnakeKey:
 	started: bool = False
 	reader: threading.Thread
 	@classmethod
-	def start(c
+	def start(cl
