@@ -1045,4 +1045,4 @@ class SnakeKey:
 		cls.reader.start()
 		cls.started = True
 	@classmethod
-	def stop(c
+	def stop(cl
