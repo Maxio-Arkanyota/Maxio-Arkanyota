@@ -1040,4 +1040,4 @@ class SnakeKey:
 	reader: threading.Thread
 	@classmethod
 	def start(cls):
-		cls.stopping = Fal
+		cls.stopping = Fals
