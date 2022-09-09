@@ -1044,4 +1044,4 @@ class SnakeKey:
 		cls.reader = threading.Thread(target=cls._get_key)
 		cls.reader.start()
 		cls.started = True
-	@classme
+	@classmet
