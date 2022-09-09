@@ -1046,4 +1046,4 @@ class SnakeKey:
 		cls.started = True
 	@classmethod
 	def stop(cls):
-		if cls.started and cls.reader.is_aliv
+		if cls.started and cls.reader.is_alive
