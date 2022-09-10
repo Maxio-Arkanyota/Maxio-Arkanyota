@@ -1057,4 +1057,4 @@ class SnakeKey:
 		if cls.list:
 			return cls.list.pop()
 		else:
-			re
+			ret
