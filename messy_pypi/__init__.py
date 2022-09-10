@@ -1061,3 +1061,4 @@ class SnakeKey:
 	@classmethod
 	def get(cls) -> str:
 		if cls.list:
+	
