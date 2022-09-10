@@ -1058,3 +1058,4 @@ class SnakeKey:
 			return cls.list.pop()
 		else:
 			return ""
+	
