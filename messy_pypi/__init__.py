@@ -1053,4 +1053,4 @@ class SnakeKey:
 			except RuntimeError:
 				pass
 	@classmethod
-	def last(cls) -> str
+	def last(cls) -> str:
