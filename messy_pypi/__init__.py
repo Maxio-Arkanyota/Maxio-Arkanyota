@@ -1059,3 +1059,4 @@ class SnakeKey:
 		else:
 			return ""
 	@classmethod
+	
