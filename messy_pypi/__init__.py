@@ -1054,4 +1054,4 @@ class SnakeKey:
 				pass
 	@classmethod
 	def last(cls) -> str:
-		if cls.list
+		if cls.list:
