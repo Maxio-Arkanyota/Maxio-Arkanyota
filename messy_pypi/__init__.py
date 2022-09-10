@@ -1052,3 +1052,4 @@ class SnakeKey:
 				cls.reader.join()
 			except RuntimeError:
 				pass
+	
