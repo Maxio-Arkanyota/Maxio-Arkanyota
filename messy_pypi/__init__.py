@@ -1059,4 +1059,4 @@ class SnakeKey:
 		else:
 			return ""
 	@classmethod
-	def get(
+	def get(c
