@@ -1050,4 +1050,4 @@ class SnakeKey:
 			cls.stopping = True
 			try:
 				cls.reader.join()
-	
+		
