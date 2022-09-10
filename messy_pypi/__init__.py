@@ -1056,4 +1056,4 @@ class SnakeKey:
 	def last(cls) -> str:
 		if cls.list:
 			return cls.list.pop()
-		el
+		els
