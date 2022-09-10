@@ -1049,4 +1049,4 @@ class SnakeKey:
 		if cls.started and cls.reader.is_alive():
 			cls.stopping = True
 			try:
-				cls.reader.j
+				cls.reader.jo
