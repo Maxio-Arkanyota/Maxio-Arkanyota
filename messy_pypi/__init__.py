@@ -1055,4 +1055,4 @@ class SnakeKey:
 	@classmethod
 	def last(cls) -> str:
 		if cls.list:
-			return c
+			return cl
