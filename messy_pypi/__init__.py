@@ -1062,4 +1062,4 @@ class SnakeKey:
 	def get(cls) -> str:
 		if cls.list:
 			return cls.list.pop(0)
-		els
+		else
