@@ -1069,4 +1069,4 @@ class SnakeKey:
 		return bool(cls.list)
 	@classmethod
 	def clear(cls):
-		cls
+		cls.
