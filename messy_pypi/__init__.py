@@ -1073,4 +1073,4 @@ class SnakeKey:
 	@classmethod
 	def _get_key(cls):
 		input_key = ""
-		mouse_po
+		mouse_pos
