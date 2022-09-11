@@ -1075,4 +1075,4 @@ class SnakeKey:
 		input_key = ""
 		mouse_pos = None
 		while not cls.stopping:
-			with 
+			with R
