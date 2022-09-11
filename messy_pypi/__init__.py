@@ -1066,4 +1066,4 @@ class SnakeKey:
 			return ""
 	@classmethod
 	def has_key(cls) -> bool:
-		return bool(cls.li
+		return bool(cls.lis
