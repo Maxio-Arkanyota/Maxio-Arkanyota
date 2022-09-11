@@ -1065,4 +1065,4 @@ class SnakeKey:
 		else:
 			return ""
 	@classmethod
-	def ha
+	def has
