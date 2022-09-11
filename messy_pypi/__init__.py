@@ -1072,4 +1072,4 @@ class SnakeKey:
 		cls.list = []
 	@classmethod
 	def _get_key(cls):
-		input_ke
+		input_key
