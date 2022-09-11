@@ -1073,3 +1073,4 @@ class SnakeKey:
 	@classmethod
 	def _get_key(cls):
 		input_key = ""
+	
