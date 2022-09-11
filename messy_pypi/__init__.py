@@ -1068,3 +1068,4 @@ class SnakeKey:
 	def has_key(cls) -> bool:
 		return bool(cls.list)
 	@classmethod
+	
