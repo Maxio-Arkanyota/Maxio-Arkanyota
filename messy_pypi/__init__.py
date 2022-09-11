@@ -1071,3 +1071,4 @@ class SnakeKey:
 	def clear(cls):
 		cls.list = []
 	@classmethod
+	
