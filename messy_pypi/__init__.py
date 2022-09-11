@@ -1074,4 +1074,4 @@ class SnakeKey:
 	def _get_key(cls):
 		input_key = ""
 		mouse_pos = None
-		while not cls.
+		while not cls.s
