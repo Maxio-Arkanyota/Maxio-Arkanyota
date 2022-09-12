@@ -1080,3 +1080,4 @@ class SnakeKey:
 					break
 				if not select([sys.stdin], [], [], 0.1)[0]:
 					continue
+	
