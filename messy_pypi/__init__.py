@@ -1080,4 +1080,4 @@ class SnakeKey:
 					break
 				if not select([sys.stdin], [], [], 0.1)[0]:
 					continue
-				input_key += sys.stdin.read(1
+				input_key += sys.stdin.read(1)
