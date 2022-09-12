@@ -1083,4 +1083,4 @@ class SnakeKey:
 				input_key += sys.stdin.read(1)
 				if input_key == "\033":
 					with Nonblocking(sys.stdin):
-						input_key += sys.stdin.
+						input_key += sys.stdin.r
