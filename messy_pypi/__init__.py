@@ -1077,4 +1077,4 @@ class SnakeKey:
 		while not cls.stopping:
 			with Raw(sys.stdin):
 				if exit_event.is_set():
-		
+			
