@@ -1076,4 +1076,4 @@ class SnakeKey:
 		mouse_pos = None
 		while not cls.stopping:
 			with Raw(sys.stdin):
-				if e
+				if ex
