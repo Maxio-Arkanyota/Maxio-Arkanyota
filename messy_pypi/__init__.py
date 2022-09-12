@@ -1082,4 +1082,4 @@ class SnakeKey:
 					continue
 				input_key += sys.stdin.read(1)
 				if input_key == "\033":
-					with Nonblock
+					with Nonblocki
