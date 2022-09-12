@@ -1078,4 +1078,4 @@ class SnakeKey:
 			with Raw(sys.stdin):
 				if exit_event.is_set():
 					break
-				if not select([sy
+				if not select([sys
