@@ -1093,4 +1093,4 @@ class SnakeKey:
 					clean_key = "\\"
 				else:
 					clean_key = input_key
-				input_save = 
+				input_save = i
