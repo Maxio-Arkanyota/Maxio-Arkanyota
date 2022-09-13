@@ -1091,3 +1091,4 @@ class SnakeKey:
 					clean_key = "escape"
 				elif input_key == "\\":
 					clean_key = "\\"
+	
