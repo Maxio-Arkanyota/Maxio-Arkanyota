@@ -1090,4 +1090,4 @@ class SnakeKey:
 				if input_key == "\033":
 					clean_key = "escape"
 				elif input_key == "\\":
-			
+				
