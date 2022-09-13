@@ -1085,4 +1085,4 @@ class SnakeKey:
 					with Nonblocking(sys.stdin):
 						input_key += sys.stdin.read(20)
 						if input_key.startswith("\033[<"):
-					
+						
