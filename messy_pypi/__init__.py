@@ -1092,4 +1092,4 @@ class SnakeKey:
 				elif input_key == "\\":
 					clean_key = "\\"
 				else:
-					clean_ke
+					clean_key
