@@ -1086,4 +1086,4 @@ class SnakeKey:
 						input_key += sys.stdin.read(20)
 						if input_key.startswith("\033[<"):
 							_ = sys.stdin.read(1000)
-				click_stat
+				click_state
