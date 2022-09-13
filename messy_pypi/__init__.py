@@ -1089,4 +1089,4 @@ class SnakeKey:
 				click_state = ""
 				if input_key == "\033":
 					clean_key = "escape"
-				elif i
+				elif in
