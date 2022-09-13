@@ -1088,4 +1088,4 @@ class SnakeKey:
 							_ = sys.stdin.read(1000)
 				click_state = ""
 				if input_key == "\033":
-		
+			
