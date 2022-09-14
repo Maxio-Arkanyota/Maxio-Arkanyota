@@ -1100,3 +1100,4 @@ class SnakeKey:
 		clean_quit()
 def SnakeMain():
 	if "--debug" in sys.argv:
+	
