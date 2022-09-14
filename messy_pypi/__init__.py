@@ -1099,4 +1099,4 @@ class SnakeKey:
 				SnakeActions.dico_actions[clean_key](clean_key=clean_key, input_save=input_save)
 		clean_quit()
 def SnakeMain():
-	if "--debug" in s
+	if "--debug" in sy
