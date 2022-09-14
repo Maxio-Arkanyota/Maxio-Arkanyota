@@ -1103,3 +1103,4 @@ def SnakeMain():
 		debug = True
 	else:
 		debug = False
+	
