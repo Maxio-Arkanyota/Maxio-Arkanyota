@@ -1098,3 +1098,4 @@ class SnakeKey:
 			if clean_key in SnakeActions.dico_actions.keys():
 				SnakeActions.dico_actions[clean_key](clean_key=clean_key, input_save=input_save)
 		clean_quit()
+d
