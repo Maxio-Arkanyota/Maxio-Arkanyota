@@ -1096,4 +1096,4 @@ class SnakeKey:
 				input_save = input_key
 				input_key = ""
 			if clean_key in SnakeActions.dico_actions.keys():
-				SnakeActions.dico_actions[clean_key](clean_key=clean_key
+				SnakeActions.dico_actions[clean_key](clean_key=clean_key,
