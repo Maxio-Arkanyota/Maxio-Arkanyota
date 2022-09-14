@@ -1095,4 +1095,4 @@ class SnakeKey:
 					clean_key = input_key
 				input_save = input_key
 				input_key = ""
-			if clean_key 
+			if clean_key i
