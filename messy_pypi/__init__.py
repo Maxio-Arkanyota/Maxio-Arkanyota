@@ -1096,3 +1096,4 @@ class SnakeKey:
 				input_save = input_key
 				input_key = ""
 			if clean_key in SnakeActions.dico_actions.keys():
+	
