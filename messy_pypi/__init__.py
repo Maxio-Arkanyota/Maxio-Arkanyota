@@ -1103,4 +1103,4 @@ def SnakeMain():
 		debug = True
 	else:
 		debug = False
-	# https://blog.miguelgrinberg.com/pos
+	# https://blog.miguelgrinberg.com/post
