@@ -1108,4 +1108,4 @@ def SnakeMain():
 	exit_event = threading.Event()
 	# Signaux Events
 	signal.signal(signal.SIGINT, sigint_quit)
-	#
+	# 
