@@ -1107,4 +1107,4 @@ def SnakeMain():
 	global exit_event
 	exit_event = threading.Event()
 	# Signaux Events
-	signal.signal(signal.SIGINT, sigint
+	signal.signal(signal.SIGINT, sigint_
