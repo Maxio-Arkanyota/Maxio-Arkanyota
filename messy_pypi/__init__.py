@@ -1104,4 +1104,4 @@ def SnakeMain():
 	else:
 		debug = False
 	# https://blog.miguelgrinberg.com/post/how-to-kill-a-python-thread
-	global exi
+	global exit
