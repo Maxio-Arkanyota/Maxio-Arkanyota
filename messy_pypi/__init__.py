@@ -1112,4 +1112,4 @@ def SnakeMain():
 	SnakeActions.set_action()
 	# Set config
 	# Start Program
-	def run(
+	def run()
