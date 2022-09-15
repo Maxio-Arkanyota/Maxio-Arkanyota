@@ -1109,4 +1109,4 @@ def SnakeMain():
 	# Signaux Events
 	signal.signal(signal.SIGINT, sigint_quit)
 	# Define Initial Actions:
-	SnakeAc
+	SnakeAct
