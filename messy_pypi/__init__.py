@@ -1103,4 +1103,4 @@ def SnakeMain():
 		debug = True
 	else:
 		debug = False
-	# https://blog.miguelgrinberg.com/post/how-to-kill-a-py
+	# https://blog.miguelgrinberg.com/post/how-to-kill-a-pyt
