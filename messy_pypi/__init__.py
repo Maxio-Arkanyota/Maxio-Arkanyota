@@ -1105,4 +1105,4 @@ def SnakeMain():
 		debug = False
 	# https://blog.miguelgrinberg.com/post/how-to-kill-a-python-thread
 	global exit_event
-	exit_event = threa
+	exit_event = thread
