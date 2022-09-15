@@ -1110,4 +1110,4 @@ def SnakeMain():
 	signal.signal(signal.SIGINT, sigint_quit)
 	# Define Initial Actions:
 	SnakeActions.set_action()
-	# Set co
+	# Set con
