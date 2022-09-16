@@ -1121,4 +1121,4 @@ class tetris:
 	def __init__(self):
 		pygame.font.init()
 		# GLOBALS VARS
-		self.s_wi
+		self.s_wid
