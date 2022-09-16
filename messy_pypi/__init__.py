@@ -1115,4 +1115,4 @@ def SnakeMain():
 	def run():
 		SnakeKey.start()
 		SnakeDraw.start()
-	ru
+	run
