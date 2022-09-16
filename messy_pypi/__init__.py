@@ -1113,4 +1113,4 @@ def SnakeMain():
 	# Set config
 	# Start Program
 	def run():
-		SnakeKey.star
+		SnakeKey.start
