@@ -1118,4 +1118,4 @@ def SnakeMain():
 	run()
 # Tetris Pygame{{{3
 class tetris:
-	def __in
+	def __ini
