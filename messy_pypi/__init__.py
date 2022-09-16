@@ -1123,4 +1123,4 @@ class tetris:
 		# GLOBALS VARS
 		self.s_width = 800
 		self.s_height = 700
-		self.play_width = 300  # meaning 300 // 10 = 30 width
+		self.play_width = 300  # meaning 300 // 10 = 30 width 
