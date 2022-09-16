@@ -1122,4 +1122,4 @@ class tetris:
 		pygame.font.init()
 		# GLOBALS VARS
 		self.s_width = 800
-		self.s_heig
+		self.s_heigh
