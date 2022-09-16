@@ -1120,3 +1120,4 @@ def SnakeMain():
 class tetris:
 	def __init__(self):
 		pygame.font.init()
+	
