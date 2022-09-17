@@ -1127,4 +1127,4 @@ class tetris:
 		self.play_height = 600  # meaning 600 // 20 = 30 height per block
 		self.block_size = 30
 		self.top_left_x = (self.s_width - self.play_width) // 2
-		self.top_left_y = self.s_height - self.pla
+		self.top_left_y = self.s_height - self.play
