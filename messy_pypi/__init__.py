@@ -1131,4 +1131,4 @@ class tetris:
 		# SHAPE FORMATS
 		S = [['.....',
 			  '.....',
-			  '.
+			  '..
