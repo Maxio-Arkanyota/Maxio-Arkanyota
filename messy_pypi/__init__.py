@@ -1129,4 +1129,4 @@ class tetris:
 		self.top_left_x = (self.s_width - self.play_width) // 2
 		self.top_left_y = self.s_height - self.play_height
 		# SHAPE FORMATS
-		S = [['.....'
+		S = [['.....',
