@@ -1224,4 +1224,4 @@ class tetris:
 			  '.00..',
 			  '..0..',
 			  '.....']]
-		self.shapes = [S, Z, I, O, J, L
+		self.shapes = [S, Z, I, O, J, L,
