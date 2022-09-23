@@ -1224,4 +1224,4 @@ class tetris:
 			  '.00..',
 			  '..0..',
 			  '.....']]
-		self.shape
+		self.shapes
