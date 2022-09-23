@@ -1228,3 +1228,4 @@ class tetris:
 		self.shape_colors = [(0, 255, 0),
 							 (255, 0, 0),
 							 (0, 255, 255),
+	
