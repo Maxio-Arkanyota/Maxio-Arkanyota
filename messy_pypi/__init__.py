@@ -1225,4 +1225,4 @@ class tetris:
 			  '..0..',
 			  '.....']]
 		self.shapes = [S, Z, I, O, J, L, T]
-		self.shape_col
+		self.shape_colo
