@@ -1232,4 +1232,4 @@ class tetris:
 							 (255, 165, 0),
 							 (0, 0, 255),
 							 (128, 0, 128)]
-		self.win = pygame.display.set_mode((self.s_width, self.s_he
+		self.win = pygame.display.set_mode((self.s_width, self.s_hei
