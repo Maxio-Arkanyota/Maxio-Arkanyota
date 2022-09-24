@@ -1238,4 +1238,4 @@ class tetris:
 		grid = [[(0, 0, 0) for _ in range(10)] for _ in range(20)]
 		for i in range(len(grid)):
 			for j in range(len(grid[i])):
-				i
+				if
