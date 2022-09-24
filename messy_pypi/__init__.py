@@ -1236,4 +1236,4 @@ class tetris:
 		pygame.display.set_caption('Tetris')
 	def create_grid(self, locked_pos={}):  # *
 		grid = [[(0, 0, 0) for _ in range(10)] for _ in range(20)]
-		for i in range(len(g
+		for i in range(len(gr
