@@ -1234,4 +1234,4 @@ class tetris:
 							 (128, 0, 128)]
 		self.win = pygame.display.set_mode((self.s_width, self.s_height))
 		pygame.display.set_caption('Tetris')
-	def create_grid(self, locked_pos={}):  #
+	def create_grid(self, locked_pos={}):  # 
