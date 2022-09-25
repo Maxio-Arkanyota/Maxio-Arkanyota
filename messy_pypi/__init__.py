@@ -1241,4 +1241,4 @@ class tetris:
 				if (j, i) in locked_pos:
 					c = locked_pos[(j, i)]
 					grid[i][j] = c
-		r
+		re
