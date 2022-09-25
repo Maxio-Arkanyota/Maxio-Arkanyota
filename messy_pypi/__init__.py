@@ -1243,3 +1243,4 @@ class tetris:
 					grid[i][j] = c
 		return grid
 	def convert_shape_format(self, shape):
+	
