@@ -1244,4 +1244,4 @@ class tetris:
 		return grid
 	def convert_shape_format(self, shape):
 		positions = []
-		format = shape.shape[shape
+		format = shape.shape[shape.
