@@ -1245,4 +1245,4 @@ class tetris:
 	def convert_shape_format(self, shape):
 		positions = []
 		format = shape.shape[shape.rotation % len(shape.shape)]
-	
+		
