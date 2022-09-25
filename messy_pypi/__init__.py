@@ -1242,4 +1242,4 @@ class tetris:
 					c = locked_pos[(j, i)]
 					grid[i][j] = c
 		return grid
-	def convert_shape_for
+	def convert_shape_form
