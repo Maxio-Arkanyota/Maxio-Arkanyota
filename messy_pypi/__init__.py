@@ -1240,4 +1240,4 @@ class tetris:
 			for j in range(len(grid[i])):
 				if (j, i) in locked_pos:
 					c = locked_pos[(j, i)]
-					grid[i][j
+					grid[i][j]
