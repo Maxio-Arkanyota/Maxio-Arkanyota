@@ -1250,4 +1250,4 @@ class tetris:
 			for j, column in enumerate(row):
 				if column == '0':
 					positions.append((shape.x + j, shape.y + i))
-		for i, pos in enumerate(positio
+		for i, pos in enumerate(position
