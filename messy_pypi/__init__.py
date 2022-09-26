@@ -1249,4 +1249,4 @@ class tetris:
 			row = list(line)
 			for j, column in enumerate(row):
 				if column == '0':
-					positions.append((shape.x + j, shape.y 
+					positions.append((shape.x + j, shape.y +
