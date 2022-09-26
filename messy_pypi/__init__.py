@@ -1249,3 +1249,4 @@ class tetris:
 			row = list(line)
 			for j, column in enumerate(row):
 				if column == '0':
+	
