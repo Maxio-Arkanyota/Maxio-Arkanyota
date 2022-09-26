@@ -1254,4 +1254,4 @@ class tetris:
 			positions[i] = (pos[0] - 2, pos[1] - 4)
 		return positions
 	def valid_space(self, shape, grid):
-		
+		a
