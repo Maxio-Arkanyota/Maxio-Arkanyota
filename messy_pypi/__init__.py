@@ -1262,4 +1262,4 @@ class tetris:
 				if pos[1] > -1:
 					return False
 		return True
-	def check_lost(se
+	def check_lost(sel
