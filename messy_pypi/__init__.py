@@ -1259,4 +1259,4 @@ class tetris:
 		formatted = self.convert_shape_format(shape)
 		for pos in formatted:
 			if pos not in accepted_pos:
-				if po
+				if pos
