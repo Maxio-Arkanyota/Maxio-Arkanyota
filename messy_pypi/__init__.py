@@ -1255,4 +1255,4 @@ class tetris:
 		return positions
 	def valid_space(self, shape, grid):
 		accepted_pos = [[(j, i) for j in range(10) if grid[i][j] == (0, 0, 0)] for i in range(20)]
-		accepted_pos = 
+		accepted_pos = [
