@@ -1261,4 +1261,4 @@ class tetris:
 			if pos not in accepted_pos:
 				if pos[1] > -1:
 					return False
-		return Tr
+		return Tru
