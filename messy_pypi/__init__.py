@@ -1260,4 +1260,4 @@ class tetris:
 		for pos in formatted:
 			if pos not in accepted_pos:
 				if pos[1] > -1:
-					re
+					ret
