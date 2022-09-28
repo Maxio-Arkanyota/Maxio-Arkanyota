@@ -1267,4 +1267,4 @@ class tetris:
 			x, y = pos
 			if y < 1:
 				return True
-		re
+		ret
