@@ -1271,4 +1271,4 @@ class tetris:
 	def get_shape(self):
 		return Piece(5, 0, random.choice(self.shapes), self.shapes, self.shape_colors)
 	def draw_text_middle(self, surface, text, size, color):
-		font = pygame.font.SysFont("
+		font = pygame.font.SysFont("c
