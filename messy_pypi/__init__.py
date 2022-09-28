@@ -1265,4 +1265,4 @@ class tetris:
 	def check_lost(self, positions):
 		for pos in positions:
 			x, y = pos
-			
+			i
