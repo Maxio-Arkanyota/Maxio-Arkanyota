@@ -1270,4 +1270,4 @@ class tetris:
 		return False
 	def get_shape(self):
 		return Piece(5, 0, random.choice(self.shapes), self.shapes, self.shape_colors)
-	def draw_text_middle(self, surface, text, size, colo
+	def draw_text_middle(self, surface, text, size, color
