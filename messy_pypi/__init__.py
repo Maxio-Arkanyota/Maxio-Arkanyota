@@ -1263,4 +1263,4 @@ class tetris:
 					return False
 		return True
 	def check_lost(self, positions):
-		for pos in positions
+		for pos in positions:
