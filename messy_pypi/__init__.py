@@ -1266,4 +1266,4 @@ class tetris:
 		for pos in positions:
 			x, y = pos
 			if y < 1:
-				return T
+				return Tr
