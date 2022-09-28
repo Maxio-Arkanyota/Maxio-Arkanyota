@@ -1268,4 +1268,4 @@ class tetris:
 			if y < 1:
 				return True
 		return False
-	def 
+	def g
