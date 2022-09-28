@@ -1269,4 +1269,4 @@ class tetris:
 				return True
 		return False
 	def get_shape(self):
-		return Piece(5, 0, random.choice(self.shapes), self.shapes, self.shape
+		return Piece(5, 0, random.choice(self.shapes), self.shapes, self.shape_
