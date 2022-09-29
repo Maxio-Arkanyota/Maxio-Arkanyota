@@ -1275,4 +1275,4 @@ class tetris:
 		label = font.render(text, 1, color)
 		surface.blit(label, (
 			self.top_left_x + self.play_width / 2 - (label.get_width() / 2),
-			self.top_left_y + self.play_height / 2 - label.get_height() / 2
+			self.top_left_y + self.play_height / 2 - label.get_height() / 2)
