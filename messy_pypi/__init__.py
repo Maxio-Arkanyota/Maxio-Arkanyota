@@ -1272,4 +1272,4 @@ class tetris:
 		return Piece(5, 0, random.choice(self.shapes), self.shapes, self.shape_colors)
 	def draw_text_middle(self, surface, text, size, color):
 		font = pygame.font.SysFont("comicsans", size, bold=True)
-		label = font.render(te
+		label = font.render(tex
