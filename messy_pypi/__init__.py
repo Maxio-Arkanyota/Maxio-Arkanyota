@@ -1277,4 +1277,4 @@ class tetris:
 			self.top_left_x + self.play_width / 2 - (label.get_width() / 2),
 			self.top_left_y + self.play_height / 2 - label.get_height() / 2))
 	def draw_grid(self, surface, grid):
-	
+		
