@@ -1274,4 +1274,4 @@ class tetris:
 		font = pygame.font.SysFont("comicsans", size, bold=True)
 		label = font.render(text, 1, color)
 		surface.blit(label, (
-			self.top_left_x + self.play_width / 2 - (
+			self.top_left_x + self.play_width / 2 - (l
