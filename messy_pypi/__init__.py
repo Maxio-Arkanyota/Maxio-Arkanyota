@@ -1280,4 +1280,4 @@ class tetris:
 		sx = self.top_left_x
 		sy = self.top_left_y
 		for i in range(len(grid)):
-			p
+			py
