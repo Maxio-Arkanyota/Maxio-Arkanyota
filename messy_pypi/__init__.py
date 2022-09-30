@@ -1279,4 +1279,4 @@ class tetris:
 	def draw_grid(self, surface, grid):
 		sx = self.top_left_x
 		sy = self.top_left_y
-		for i 
+		for i i
