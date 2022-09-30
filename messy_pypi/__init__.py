@@ -1280,4 +1280,4 @@ class tetris:
 		sx = self.top_left_x
 		sy = self.top_left_y
 		for i in range(len(grid)):
-			pygame.draw.line(surface, (128, 128, 128), (sx
+			pygame.draw.line(surface, (128, 128, 128), (sx,
