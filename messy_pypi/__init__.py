@@ -1291,4 +1291,4 @@ class tetris:
 			row = grid[i]
 			if (0, 0, 0) not in row:
 				inc += 1
-		
+			
