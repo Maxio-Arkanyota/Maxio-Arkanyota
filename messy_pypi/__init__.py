@@ -1286,4 +1286,4 @@ class tetris:
 				pygame.draw.line(surface, (128, 128, 128), (sx + j * self.block_size, sy),
 								 (sx + j * self.block_size, sy + self.play_height))
 	def clear_rows(self, grid, locked):
-		inc = 
+		inc = 0
