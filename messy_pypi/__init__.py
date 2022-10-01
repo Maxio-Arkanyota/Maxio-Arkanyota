@@ -1288,4 +1288,4 @@ class tetris:
 	def clear_rows(self, grid, locked):
 		inc = 0
 		for i in range(len(grid) - 1, -1, -1):
-			row = g
+			row = gr
