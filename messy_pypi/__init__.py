@@ -1289,4 +1289,4 @@ class tetris:
 		inc = 0
 		for i in range(len(grid) - 1, -1, -1):
 			row = grid[i]
-			if (0, 0, 0) n
+			if (0, 0, 0) no
