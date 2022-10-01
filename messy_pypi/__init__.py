@@ -1287,4 +1287,4 @@ class tetris:
 								 (sx + j * self.block_size, sy + self.play_height))
 	def clear_rows(self, grid, locked):
 		inc = 0
-		f
+		fo
