@@ -1285,4 +1285,4 @@ class tetris:
 			for j in range(len(grid[i])):
 				pygame.draw.line(surface, (128, 128, 128), (sx + j * self.block_size, sy),
 								 (sx + j * self.block_size, sy + self.play_height))
-	def
+	def 
