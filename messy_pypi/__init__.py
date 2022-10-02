@@ -1292,4 +1292,4 @@ class tetris:
 			if (0, 0, 0) not in row:
 				inc += 1
 				ind = i
-				for j in range(len(row)
+				for j in range(len(row))
