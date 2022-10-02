@@ -1301,4 +1301,4 @@ class tetris:
 			for key in sorted(list(locked), key=lambda x: x[1])[::-1]:
 				x, y = key
 				if y < ind:
-			
+				
