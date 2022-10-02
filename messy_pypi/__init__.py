@@ -1294,3 +1294,4 @@ class tetris:
 				ind = i
 				for j in range(len(row)):
 					try:
+	
