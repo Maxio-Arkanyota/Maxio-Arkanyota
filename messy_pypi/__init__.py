@@ -1302,4 +1302,4 @@ class tetris:
 				x, y = key
 				if y < ind:
 					newKey = (x, y + inc)
-					locked[new
+					locked[newK
