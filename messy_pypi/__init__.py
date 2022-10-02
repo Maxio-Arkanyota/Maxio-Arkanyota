@@ -1298,4 +1298,4 @@ class tetris:
 					except:
 						continue
 		if inc > 0:
-			for key 
+			for key i
