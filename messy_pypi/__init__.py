@@ -1297,4 +1297,4 @@ class tetris:
 						del locked[(j, i)]
 					except:
 						continue
-		if inc > 0
+		if inc > 0:
