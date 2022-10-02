@@ -1299,4 +1299,4 @@ class tetris:
 						continue
 		if inc > 0:
 			for key in sorted(list(locked), key=lambda x: x[1])[::-1]:
-	
+		
