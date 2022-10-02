@@ -1295,3 +1295,4 @@ class tetris:
 				for j in range(len(row)):
 					try:
 						del locked[(j, i)]
+	
