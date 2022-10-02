@@ -1304,4 +1304,4 @@ class tetris:
 					newKey = (x, y + inc)
 					locked[newKey] = locked.pop(key)
 		return inc
-	def 
+	def d
