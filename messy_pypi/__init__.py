@@ -1298,4 +1298,4 @@ class tetris:
 					except:
 						continue
 		if inc > 0:
-			for key in sorted(list(locked), key=l
+			for key in sorted(list(locked), key=la
