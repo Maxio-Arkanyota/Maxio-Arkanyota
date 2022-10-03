@@ -1304,4 +1304,4 @@ class tetris:
 					newKey = (x, y + inc)
 					locked[newKey] = locked.pop(key)
 		return inc
-	def draw_next_shape(self, shape, surf
+	def draw_next_shape(self, shape, surfa
