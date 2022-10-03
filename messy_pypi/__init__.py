@@ -1307,4 +1307,4 @@ class tetris:
 	def draw_next_shape(self, shape, surface):
 		font = pygame.font.SysFont('comicsans', 30)
 		label = font.render('Next Shape', 1, (255, 255, 255))
-		sx = self.top_left_
+		sx = self.top_left_x
