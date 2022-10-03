@@ -1305,4 +1305,4 @@ class tetris:
 					locked[newKey] = locked.pop(key)
 		return inc
 	def draw_next_shape(self, shape, surface):
-		fo
+		fon
