@@ -1314,4 +1314,4 @@ class tetris:
 			row = list(line)
 			for j, column in enumerate(row):
 				if column == '0':
-					pygame.draw.rect(surface, shape.color, (sx + j * self.block
+					pygame.draw.rect(surface, shape.color, (sx + j * self.block_
