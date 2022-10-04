@@ -1313,4 +1313,4 @@ class tetris:
 		for i, line in enumerate(format):
 			row = list(line)
 			for j, column in enumerate(row):
-				if column == '0
+				if column == '0'
