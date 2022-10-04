@@ -1315,4 +1315,4 @@ class tetris:
 			for j, column in enumerate(row):
 				if column == '0':
 					pygame.draw.rect(surface, shape.color, (sx + j * self.block_size, sy + i * self.block_size, self.block_size, self.block_size), 0)
-		surface.blit(l
+		surface.blit(la
