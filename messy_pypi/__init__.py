@@ -1311,4 +1311,4 @@ class tetris:
 		sy = self.top_left_y + self.play_height / 2 - 100
 		format = shape.shape[shape.rotation % len(shape.shape)]
 		for i, line in enumerate(format):
-			row = l
+			row = li
