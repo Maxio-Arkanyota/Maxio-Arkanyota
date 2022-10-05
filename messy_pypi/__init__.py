@@ -1321,4 +1321,4 @@ class tetris:
 		with open('resources/tetris/scores.txt', 'w') as f:
 			if int(score) > nscore:
 				f.write(str(score))
-		
+			
