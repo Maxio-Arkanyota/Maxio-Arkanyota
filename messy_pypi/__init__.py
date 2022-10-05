@@ -1323,4 +1323,4 @@ class tetris:
 				f.write(str(score))
 			else:
 				f.write(str(nscore))
-	def max_score(s
+	def max_score(se
