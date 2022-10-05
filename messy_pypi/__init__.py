@@ -1320,4 +1320,4 @@ class tetris:
 		score = self.max_score()
 		with open('resources/tetris/scores.txt', 'w') as f:
 			if int(score) > nscore:
-			
+				
