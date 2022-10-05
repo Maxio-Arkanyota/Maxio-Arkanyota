@@ -1318,4 +1318,4 @@ class tetris:
 		surface.blit(label, (sx + 10, sy - 30))
 	def update_score(self, nscore):
 		score = self.max_score()
-		w
+		wi
