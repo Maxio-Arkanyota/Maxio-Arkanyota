@@ -1324,4 +1324,4 @@ class tetris:
 			else:
 				f.write(str(nscore))
 	def max_score(self):
-		if os.path.exists('r
+		if os.path.exists('re
