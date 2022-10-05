@@ -1322,4 +1322,4 @@ class tetris:
 			if int(score) > nscore:
 				f.write(str(score))
 			else:
-				f.write(str(ns
+				f.write(str(nsc
