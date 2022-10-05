@@ -1319,3 +1319,4 @@ class tetris:
 	def update_score(self, nscore):
 		score = self.max_score()
 		with open('resources/tetris/scores.txt', 'w') as f:
+	
