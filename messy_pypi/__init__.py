@@ -1317,4 +1317,4 @@ class tetris:
 					pygame.draw.rect(surface, shape.color, (sx + j * self.block_size, sy + i * self.block_size, self.block_size, self.block_size), 0)
 		surface.blit(label, (sx + 10, sy - 30))
 	def update_score(self, nscore):
-	
+		
