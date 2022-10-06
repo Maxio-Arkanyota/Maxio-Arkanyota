@@ -1328,4 +1328,4 @@ class tetris:
 			with open('resources/tetris/scores.txt', 'r') as f:
 				lines = f.readlines()
 				score = lines[0].strip()
-		else
+		else:
