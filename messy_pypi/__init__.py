@@ -1327,4 +1327,4 @@ class tetris:
 		if os.path.exists('resources/tetris/scores.txt'):
 			with open('resources/tetris/scores.txt', 'r') as f:
 				lines = f.readlines()
-				score = lines[0].st
+				score = lines[0].str
