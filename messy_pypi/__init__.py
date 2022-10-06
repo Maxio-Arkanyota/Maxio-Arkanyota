@@ -1330,4 +1330,4 @@ class tetris:
 				score = lines[0].strip()
 		else:
 			score = '0'
-		
+		r
