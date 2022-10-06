@@ -1326,3 +1326,4 @@ class tetris:
 	def max_score(self):
 		if os.path.exists('resources/tetris/scores.txt'):
 			with open('resources/tetris/scores.txt', 'r') as f:
+	
