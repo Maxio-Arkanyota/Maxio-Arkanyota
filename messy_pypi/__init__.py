@@ -1331,3 +1331,4 @@ class tetris:
 		else:
 			score = '0'
 		return score
+	
