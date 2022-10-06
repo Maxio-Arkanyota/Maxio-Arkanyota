@@ -1331,4 +1331,4 @@ class tetris:
 		else:
 			score = '0'
 		return score
-	def draw_window(self, surface, grid, sc
+	def draw_window(self, surface, grid, sco
