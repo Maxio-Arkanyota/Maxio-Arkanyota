@@ -1329,3 +1329,4 @@ class tetris:
 				lines = f.readlines()
 				score = lines[0].strip()
 		else:
+	
