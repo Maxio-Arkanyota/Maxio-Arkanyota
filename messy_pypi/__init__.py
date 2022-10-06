@@ -1334,4 +1334,4 @@ class tetris:
 	def draw_window(self, surface, grid, score=0, last_score=0):
 		surface.fill((0, 0, 0))
 		pygame.font.init()
-		font
+		font 
