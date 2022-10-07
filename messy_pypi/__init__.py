@@ -1338,4 +1338,4 @@ class tetris:
 		label = font.render('Tetris', 1, (255, 255, 255))
 		surface.blit(label, (self.top_left_x + self.play_width / 2 - (label.get_width() / 2), 30))
 		# current score
-		font = pygame.fon
+		font = pygame.font
