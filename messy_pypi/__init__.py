@@ -1335,3 +1335,4 @@ class tetris:
 		surface.fill((0, 0, 0))
 		pygame.font.init()
 		font = pygame.font.SysFont('comicsans', 60)
+	
