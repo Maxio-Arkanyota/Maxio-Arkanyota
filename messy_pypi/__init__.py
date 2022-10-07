@@ -1336,4 +1336,4 @@ class tetris:
 		pygame.font.init()
 		font = pygame.font.SysFont('comicsans', 60)
 		label = font.render('Tetris', 1, (255, 255, 255))
-		su
+		sur
