@@ -1336,4 +1336,4 @@ class tetris:
 		pygame.font.init()
 		font = pygame.font.SysFont('comicsans', 60)
 		label = font.render('Tetris', 1, (255, 255, 255))
-		surface.blit(label, (self.top_left_x + self.
+		surface.blit(label, (self.top_left_x + self.p
