@@ -1344,4 +1344,4 @@ class tetris:
 		sy = self.top_left_y + self.play_height / 2 - 100
 		surface.blit(label, (sx + 20, sy + 160))
 		# last score
-		label = font.render('Hig
+		label = font.render('High
