@@ -1345,4 +1345,4 @@ class tetris:
 		surface.blit(label, (sx + 20, sy + 160))
 		# last score
 		label = font.render('High Score: ' + last_score, 1, (255, 255, 255))
-		sx = 
+		sx = s
