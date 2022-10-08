@@ -1340,4 +1340,4 @@ class tetris:
 		# current score
 		font = pygame.font.SysFont('comicsans', 30)
 		label = font.render('Score: ' + str(score), 1, (255, 255, 255))
-		sx = self.top_left_x + self.play_wi
+		sx = self.top_left_x + self.play_wid
