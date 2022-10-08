@@ -1343,4 +1343,4 @@ class tetris:
 		sx = self.top_left_x + self.play_width + 50
 		sy = self.top_left_y + self.play_height / 2 - 100
 		surface.blit(label, (sx + 20, sy + 160))
-		# l
+		# la
