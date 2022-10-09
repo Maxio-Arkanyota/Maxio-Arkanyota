@@ -1350,4 +1350,4 @@ class tetris:
 		surface.blit(label, (sx + 20, sy + 160))
 		for i in range(len(grid)):
 			for j in range(len(grid[i])):
-				p
+				py
