@@ -1346,4 +1346,4 @@ class tetris:
 		# last score
 		label = font.render('High Score: ' + last_score, 1, (255, 255, 255))
 		sx = self.top_left_x - 200
-		s
+		sy
