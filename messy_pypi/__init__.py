@@ -1351,4 +1351,4 @@ class tetris:
 		for i in range(len(grid)):
 			for j in range(len(grid[i])):
 				pygame.draw.rect(surface, grid[i][j],
-								 (self.top_left_x + j * self.b
+								 (self.top_left_x + j * self.bl
