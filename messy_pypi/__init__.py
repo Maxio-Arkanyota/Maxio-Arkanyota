@@ -1348,4 +1348,4 @@ class tetris:
 		sx = self.top_left_x - 200
 		sy = self.top_left_y + 200
 		surface.blit(label, (sx + 20, sy + 160))
-		for i in range(len(g
+		for i in range(len(gr
