@@ -1357,4 +1357,4 @@ class tetris:
 		self.draw_grid(surface, grid)
 		# pygame.display.update()
 	def main(self):  # *
-		last_score = self.max_sco
+		last_score = self.max_scor
