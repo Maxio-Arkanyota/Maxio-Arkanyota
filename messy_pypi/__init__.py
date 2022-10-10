@@ -1358,4 +1358,4 @@ class tetris:
 		# pygame.display.update()
 	def main(self):  # *
 		last_score = self.max_score()
-		locked
+		locked_
