@@ -1355,4 +1355,4 @@ class tetris:
 								  self.block_size, self.block_size), 0)
 		pygame.draw.rect(surface, (255, 0, 0), (self.top_left_x, self.top_left_y, self.play_width, self.play_height), 5)
 		self.draw_grid(surface, grid)
-		# pygame.display.
+		# pygame.display.u
