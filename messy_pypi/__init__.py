@@ -1366,4 +1366,4 @@ class tetris:
 		next_piece = self.get_shape()
 		clock = pygame.time.Clock()
 		fall_time = 0
-		fall_s
+		fall_sp
