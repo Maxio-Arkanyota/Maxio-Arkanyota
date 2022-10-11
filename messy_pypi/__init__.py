@@ -1368,4 +1368,4 @@ class tetris:
 		fall_time = 0
 		fall_speed = 0.27
 		level_time = 0
-		scor
+		score
