@@ -1359,4 +1359,4 @@ class tetris:
 	def main(self):  # *
 		last_score = self.max_score()
 		locked_positions = {}
-		grid = self.create_grid(locked
+		grid = self.create_grid(locked_
