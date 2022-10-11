@@ -1364,4 +1364,4 @@ class tetris:
 		run = True
 		current_piece = self.get_shape()
 		next_piece = self.get_shape()
-		clock = pygame.tim
+		clock = pygame.time
