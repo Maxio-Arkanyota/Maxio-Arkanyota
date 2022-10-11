@@ -1360,4 +1360,4 @@ class tetris:
 		last_score = self.max_score()
 		locked_positions = {}
 		grid = self.create_grid(locked_positions)
-		change_piece = 
+		change_piece = F
