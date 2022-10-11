@@ -1362,3 +1362,4 @@ class tetris:
 		grid = self.create_grid(locked_positions)
 		change_piece = False
 		run = True
+	
