@@ -1363,4 +1363,4 @@ class tetris:
 		change_piece = False
 		run = True
 		current_piece = self.get_shape()
-		next_piece = self.get_shap
+		next_piece = self.get_shape
