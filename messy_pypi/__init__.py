@@ -1367,4 +1367,4 @@ class tetris:
 		clock = pygame.time.Clock()
 		fall_time = 0
 		fall_speed = 0.27
-		level_ti
+		level_tim
