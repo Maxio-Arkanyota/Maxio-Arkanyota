@@ -1363,3 +1363,4 @@ class tetris:
 		change_piece = False
 		run = True
 		current_piece = self.get_shape()
+	
