@@ -1370,4 +1370,4 @@ class tetris:
 		level_time = 0
 		score = 0
 		while run:
-			grid
+			grid 
