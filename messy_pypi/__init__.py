@@ -1378,4 +1378,4 @@ class tetris:
 				level_time = 0
 				if level_time > 0.12:
 					level_time -= 0.005
-			if fall_t
+			if fall_ti
