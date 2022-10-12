@@ -1375,3 +1375,4 @@ class tetris:
 			level_time += clock.get_rawtime()
 			clock.tick()
 			if level_time / 1000 > 5:
+	
