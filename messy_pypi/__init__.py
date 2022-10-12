@@ -1371,4 +1371,4 @@ class tetris:
 		score = 0
 		while run:
 			grid = self.create_grid(locked_positions)
-			fall_
+			fall_t
