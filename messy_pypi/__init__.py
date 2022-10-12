@@ -1376,4 +1376,4 @@ class tetris:
 			clock.tick()
 			if level_time / 1000 > 5:
 				level_time = 0
-				if level_time > 0
+				if level_time > 0.
