@@ -1370,4 +1370,4 @@ class tetris:
 		level_time = 0
 		score = 0
 		while run:
-			grid = self.create_grid(locked_
+			grid = self.create_grid(locked_p
