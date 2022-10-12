@@ -1373,4 +1373,4 @@ class tetris:
 			grid = self.create_grid(locked_positions)
 			fall_time += clock.get_rawtime()
 			level_time += clock.get_rawtime()
-			
+			c
