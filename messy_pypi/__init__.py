@@ -1374,4 +1374,4 @@ class tetris:
 			fall_time += clock.get_rawtime()
 			level_time += clock.get_rawtime()
 			clock.tick()
-			if
+			if 
