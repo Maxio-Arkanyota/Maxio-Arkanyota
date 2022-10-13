@@ -1384,4 +1384,4 @@ class tetris:
 				if not (self.valid_space(current_piece, grid)) and current_piece.y > 0:
 					current_piece.y -= 1
 					change_piece = True
-			for event in py
+			for event in pyg
