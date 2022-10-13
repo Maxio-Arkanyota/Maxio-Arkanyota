@@ -1385,4 +1385,4 @@ class tetris:
 					current_piece.y -= 1
 					change_piece = True
 			for event in pygame.event.get():
-				if event.t
+				if event.ty
