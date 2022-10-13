@@ -1381,4 +1381,4 @@ class tetris:
 			if fall_time / 1000 > fall_speed:
 				fall_time = 0
 				current_piece.y += 1
-				if not (self.valid_space(current_piece, grid)) an
+				if not (self.valid_space(current_piece, grid)) and
