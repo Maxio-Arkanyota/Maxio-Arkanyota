@@ -1382,3 +1382,4 @@ class tetris:
 				fall_time = 0
 				current_piece.y += 1
 				if not (self.valid_space(current_piece, grid)) and current_piece.y > 0:
+	
