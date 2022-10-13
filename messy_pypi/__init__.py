@@ -1388,4 +1388,4 @@ class tetris:
 				if event.type == pygame.QUIT:
 					run = False
 					pygame.display.quit()
-				if event.typ
+				if event.type
