@@ -1389,4 +1389,4 @@ class tetris:
 					run = False
 					pygame.display.quit()
 				if event.type == pygame.KEYDOWN:
-					if event.key == pyga
+					if event.key == pygam
