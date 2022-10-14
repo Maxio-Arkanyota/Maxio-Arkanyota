@@ -1393,4 +1393,4 @@ class tetris:
 						current_piece.x -= 1
 						if not (self.valid_space(current_piece, grid)):
 							current_piece.x += 1
-					if 
+					if e
