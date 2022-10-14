@@ -1390,4 +1390,4 @@ class tetris:
 					pygame.display.quit()
 				if event.type == pygame.KEYDOWN:
 					if event.key == pygame.K_LEFT:
-	
+		
