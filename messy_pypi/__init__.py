@@ -1394,4 +1394,4 @@ class tetris:
 						if not (self.valid_space(current_piece, grid)):
 							current_piece.x += 1
 					if event.key == pygame.K_RIGHT:
-						current_piece.x += 
+						current_piece.x += 1
