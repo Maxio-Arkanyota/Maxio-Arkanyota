@@ -1391,4 +1391,4 @@ class tetris:
 				if event.type == pygame.KEYDOWN:
 					if event.key == pygame.K_LEFT:
 						current_piece.x -= 1
-						if not (self.valid_space(current_p
+						if not (self.valid_space(current_pi
