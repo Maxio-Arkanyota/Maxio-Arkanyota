@@ -1399,4 +1399,4 @@ class tetris:
 							current_piece.x -= 1
 					if event.key == pygame.K_DOWN:
 						current_piece.y += 1
-						if not (self.valid_space(cur
+						if not (self.valid_space(curr
