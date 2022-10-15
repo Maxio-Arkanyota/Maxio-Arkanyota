@@ -1403,3 +1403,4 @@ class tetris:
 							current_piece.y -= 1
 					if event.key == pygame.K_UP:
 						current_piece.rotation += 1
+	
