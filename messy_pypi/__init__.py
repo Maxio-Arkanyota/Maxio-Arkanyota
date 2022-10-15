@@ -1401,4 +1401,4 @@ class tetris:
 						current_piece.y += 1
 						if not (self.valid_space(current_piece, grid)):
 							current_piece.y -= 1
-					if event.key == pygame.
+					if event.key == pygame.K
