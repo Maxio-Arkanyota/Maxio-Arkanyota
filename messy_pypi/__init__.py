@@ -1404,4 +1404,4 @@ class tetris:
 					if event.key == pygame.K_UP:
 						current_piece.rotation += 1
 						if not (self.valid_space(current_piece, grid)):
-	
+		
