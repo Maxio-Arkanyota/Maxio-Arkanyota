@@ -1407,4 +1407,4 @@ class tetris:
 							current_piece.rotation -= 1
 			shape_pos = self.convert_shape_format(current_piece)
 			for i in range(len(shape_pos)):
-				x, y = sha
+				x, y = shap
