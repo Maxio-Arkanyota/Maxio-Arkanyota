@@ -1409,4 +1409,4 @@ class tetris:
 			for i in range(len(shape_pos)):
 				x, y = shape_pos[i]
 				if y > -1:
-					gr
+					gri
