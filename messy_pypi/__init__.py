@@ -1413,4 +1413,4 @@ class tetris:
 			if change_piece:
 				for pos in shape_pos:
 					p = (pos[0], pos[1])
-					lock
+					locke
