@@ -1405,4 +1405,4 @@ class tetris:
 						current_piece.rotation += 1
 						if not (self.valid_space(current_piece, grid)):
 							current_piece.rotation -= 1
-			shape_po
+			shape_pos
