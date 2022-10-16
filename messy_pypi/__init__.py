@@ -1408,4 +1408,4 @@ class tetris:
 			shape_pos = self.convert_shape_format(current_piece)
 			for i in range(len(shape_pos)):
 				x, y = shape_pos[i]
-			
+				
