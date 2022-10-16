@@ -1410,4 +1410,4 @@ class tetris:
 				x, y = shape_pos[i]
 				if y > -1:
 					grid[y][x] = current_piece.color
-			
+			i
