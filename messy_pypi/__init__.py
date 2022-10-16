@@ -1411,4 +1411,4 @@ class tetris:
 				if y > -1:
 					grid[y][x] = current_piece.color
 			if change_piece:
-				for 
+				for p
