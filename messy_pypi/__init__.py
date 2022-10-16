@@ -1412,4 +1412,4 @@ class tetris:
 					grid[y][x] = current_piece.color
 			if change_piece:
 				for pos in shape_pos:
-					p = (pos[0], pos
+					p = (pos[0], pos[
