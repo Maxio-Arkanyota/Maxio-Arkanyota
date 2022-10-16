@@ -1406,4 +1406,4 @@ class tetris:
 						if not (self.valid_space(current_piece, grid)):
 							current_piece.rotation -= 1
 			shape_pos = self.convert_shape_format(current_piece)
-			for i in range(len(s
+			for i in range(len(sh
