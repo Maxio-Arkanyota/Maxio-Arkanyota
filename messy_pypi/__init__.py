@@ -1416,4 +1416,4 @@ class tetris:
 					locked_positions[p] = current_piece.color
 				current_piece = next_piece
 				next_piece = self.get_shape()
-				
+				c
