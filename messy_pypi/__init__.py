@@ -1415,4 +1415,4 @@ class tetris:
 					p = (pos[0], pos[1])
 					locked_positions[p] = current_piece.color
 				current_piece = next_piece
-				next_piece = self.get_sh
+				next_piece = self.get_sha
