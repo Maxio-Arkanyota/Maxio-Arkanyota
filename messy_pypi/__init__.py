@@ -1418,4 +1418,4 @@ class tetris:
 				next_piece = self.get_shape()
 				change_piece = False
 				score += self.clear_rows(grid, locked_positions) * 10
-			s
+			se
