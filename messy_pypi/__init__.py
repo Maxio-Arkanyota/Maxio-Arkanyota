@@ -1417,3 +1417,4 @@ class tetris:
 				current_piece = next_piece
 				next_piece = self.get_shape()
 				change_piece = False
+	
