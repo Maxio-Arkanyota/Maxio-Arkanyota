@@ -1420,4 +1420,4 @@ class tetris:
 				score += self.clear_rows(grid, locked_positions) * 10
 			self.draw_window(self.win, grid, score, last_score)
 			self.draw_next_shape(next_piece, self.win)
-			pygame.display.update
+			pygame.display.update(
