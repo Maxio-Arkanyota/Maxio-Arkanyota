@@ -1419,4 +1419,4 @@ class tetris:
 				change_piece = False
 				score += self.clear_rows(grid, locked_positions) * 10
 			self.draw_window(self.win, grid, score, last_score)
-			self.draw_next_sh
+			self.draw_next_sha
