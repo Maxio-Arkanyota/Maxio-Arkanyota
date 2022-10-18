@@ -1430,4 +1430,4 @@ class tetris:
 	def main_menu(self):  # *
 		run = True
 		while run:
-			self.win.fill((
+			self.win.fill((0
