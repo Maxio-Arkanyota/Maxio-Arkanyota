@@ -1425,4 +1425,4 @@ class tetris:
 				self.draw_text_middle(self.win, "YOU LOST!", 80, (255, 255, 255))
 				pygame.display.update()
 				pygame.time.delay(1500)
-				run = Fals
+				run = False
