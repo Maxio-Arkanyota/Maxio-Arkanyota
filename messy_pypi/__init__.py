@@ -1421,4 +1421,4 @@ class tetris:
 			self.draw_window(self.win, grid, score, last_score)
 			self.draw_next_shape(next_piece, self.win)
 			pygame.display.update()
-			if se
+			if sel
