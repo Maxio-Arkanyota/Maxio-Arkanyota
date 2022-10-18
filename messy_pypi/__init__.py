@@ -1427,4 +1427,4 @@ class tetris:
 				pygame.time.delay(1500)
 				run = False
 				self.update_score(score)
-	def main_m
+	def main_me
