@@ -1426,4 +1426,4 @@ class tetris:
 				pygame.display.update()
 				pygame.time.delay(1500)
 				run = False
-				self.update_s
+				self.update_sc
