@@ -1428,3 +1428,4 @@ class tetris:
 				run = False
 				self.update_score(score)
 	def main_menu(self):  # *
+	
