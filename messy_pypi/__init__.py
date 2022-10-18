@@ -1422,4 +1422,4 @@ class tetris:
 			self.draw_next_shape(next_piece, self.win)
 			pygame.display.update()
 			if self.check_lost(locked_positions):
-				self.draw_text_middle(self.win, "YOU LOST!", 80,
+				self.draw_text_middle(self.win, "YOU LOST!", 80, 
