@@ -1429,4 +1429,4 @@ class tetris:
 				self.update_score(score)
 	def main_menu(self):  # *
 		run = True
-		while run
+		while run:
