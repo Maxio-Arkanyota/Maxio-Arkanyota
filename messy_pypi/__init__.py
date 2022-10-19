@@ -1431,4 +1431,4 @@ class tetris:
 		run = True
 		while run:
 			self.win.fill((0, 0, 0))
-			self.draw_text_middle(self.w
+			self.draw_text_middle(self.wi
