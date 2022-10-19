@@ -1433,4 +1433,4 @@ class tetris:
 			self.win.fill((0, 0, 0))
 			self.draw_text_middle(self.win, 'Press Any Key To Play', 60, (255, 255, 255))
 			pygame.display.update()
-			for event in
+			for event in 
