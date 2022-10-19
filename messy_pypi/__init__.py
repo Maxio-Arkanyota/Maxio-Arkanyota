@@ -1438,4 +1438,4 @@ class tetris:
 					run = False
 				if event.type == pygame.KEYDOWN:
 					self.main()
-		pygame.display.q
+		pygame.display.qu
