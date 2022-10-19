@@ -1431,4 +1431,4 @@ class tetris:
 		run = True
 		while run:
 			self.win.fill((0, 0, 0))
-			self.draw_text_middle(self.win, 'Press Any Key To Play', 60, (255, 2
+			self.draw_text_middle(self.win, 'Press Any Key To Play', 60, (255, 25
