@@ -1444,4 +1444,4 @@ class Piece(object):  # *
 		self.x = x
 		self.y = y
 		self.shape = shape
-		self.color = shape_colors[s
+		self.color = shape_colors[sh
