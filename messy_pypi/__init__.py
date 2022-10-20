@@ -1440,4 +1440,4 @@ class tetris:
 					self.main()
 		pygame.display.quit()
 class Piece(object):  # *
-	def __init__(self, 
+	def __init__(self, x
