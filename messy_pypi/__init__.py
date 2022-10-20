@@ -1446,4 +1446,4 @@ class Piece(object):  # *
 		self.shape = shape
 		self.color = shape_colors[shapes.index(shape)]
 		self.rotation = 0
-def LaunchTet
+def LaunchTetr
