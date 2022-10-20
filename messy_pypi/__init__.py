@@ -1439,4 +1439,4 @@ class tetris:
 				if event.type == pygame.KEYDOWN:
 					self.main()
 		pygame.display.quit()
-class Piece(object):  # 
+class Piece(object):  # *
