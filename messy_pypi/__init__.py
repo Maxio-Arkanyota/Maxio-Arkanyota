@@ -1441,4 +1441,4 @@ class tetris:
 		pygame.display.quit()
 class Piece(object):  # *
 	def __init__(self, x, y, shape, shapes, shape_colors):
-		self.x =
+		self.x = 
