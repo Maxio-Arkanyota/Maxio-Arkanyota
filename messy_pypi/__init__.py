@@ -1450,4 +1450,4 @@ def LaunchTetris():
 	te = tetris()
 	te.main_menu()
 # DuplicateFile {{{3
-def chunk_reader(fob
+def chunk_reader(fobj
