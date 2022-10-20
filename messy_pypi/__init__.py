@@ -1447,3 +1447,4 @@ class Piece(object):  # *
 		self.color = shape_colors[shapes.index(shape)]
 		self.rotation = 0
 def LaunchTetris():
+	
