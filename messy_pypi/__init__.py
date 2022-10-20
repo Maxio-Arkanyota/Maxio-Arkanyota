@@ -1449,4 +1449,4 @@ class Piece(object):  # *
 def LaunchTetris():
 	te = tetris()
 	te.main_menu()
-# DuplicateFile {{{
+# DuplicateFile {{{3
