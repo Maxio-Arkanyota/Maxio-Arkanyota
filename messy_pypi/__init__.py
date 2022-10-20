@@ -1448,4 +1448,4 @@ class Piece(object):  # *
 		self.rotation = 0
 def LaunchTetris():
 	te = tetris()
-	te
+	te.
