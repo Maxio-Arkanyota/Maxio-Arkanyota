@@ -1445,3 +1445,4 @@ class Piece(object):  # *
 		self.y = y
 		self.shape = shape
 		self.color = shape_colors[shapes.index(shape)]
+	
