@@ -1452,4 +1452,4 @@ def LaunchTetris():
 # DuplicateFile {{{3
 def chunk_reader(fobj, chunk_size=1024):
 	while True:
-		chunk = fobj.rea
+		chunk = fobj.read
