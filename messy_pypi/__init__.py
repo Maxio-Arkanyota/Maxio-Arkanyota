@@ -1456,3 +1456,4 @@ def chunk_reader(fobj, chunk_size=1024):
 		if not chunk:
 			return
 		yield chunk
+d
