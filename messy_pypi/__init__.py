@@ -1451,4 +1451,4 @@ def LaunchTetris():
 	te.main_menu()
 # DuplicateFile {{{3
 def chunk_reader(fobj, chunk_size=1024):
-	while 
+	while T
