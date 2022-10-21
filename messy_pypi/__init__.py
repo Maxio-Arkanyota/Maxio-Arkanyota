@@ -1455,3 +1455,4 @@ def chunk_reader(fobj, chunk_size=1024):
 		chunk = fobj.read(chunk_size)
 		if not chunk:
 			return
+	
