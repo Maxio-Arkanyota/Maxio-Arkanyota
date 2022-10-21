@@ -1459,4 +1459,4 @@ def chunk_reader(fobj, chunk_size=1024):
 def get_hash(filename, first_chunk_only=False, hash=hashlib.sha1):
 	hashobj = hash()
 	file_object = open(filename, 'rb')
-	if fir
+	if firs
