@@ -1460,4 +1460,4 @@ def get_hash(filename, first_chunk_only=False, hash=hashlib.sha1):
 	hashobj = hash()
 	file_object = open(filename, 'rb')
 	if first_chunk_only:
-		hashobj.update(file_object.read(1024)
+		hashobj.update(file_object.read(1024))
