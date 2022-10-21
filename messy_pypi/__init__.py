@@ -1461,4 +1461,4 @@ def get_hash(filename, first_chunk_only=False, hash=hashlib.sha1):
 	file_object = open(filename, 'rb')
 	if first_chunk_only:
 		hashobj.update(file_object.read(1024))
-	
+	e
