@@ -1456,4 +1456,4 @@ def chunk_reader(fobj, chunk_size=1024):
 		if not chunk:
 			return
 		yield chunk
-def get_hash(filename, fir
+def get_hash(filename, firs
