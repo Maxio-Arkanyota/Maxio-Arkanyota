@@ -1457,4 +1457,4 @@ def chunk_reader(fobj, chunk_size=1024):
 			return
 		yield chunk
 def get_hash(filename, first_chunk_only=False, hash=hashlib.sha1):
-	hashobj
+	hashobj 
