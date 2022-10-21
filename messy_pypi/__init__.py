@@ -1454,4 +1454,4 @@ def chunk_reader(fobj, chunk_size=1024):
 	while True:
 		chunk = fobj.read(chunk_size)
 		if not chunk:
-			retur
+			return
