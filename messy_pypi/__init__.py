@@ -1466,4 +1466,4 @@ def get_hash(filename, first_chunk_only=False, hash=hashlib.sha1):
 			hashobj.update(chunk)
 	hashed = hashobj.digest()
 	file_object.close()
-	return h
+	return ha
