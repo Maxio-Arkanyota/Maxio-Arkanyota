@@ -1465,4 +1465,4 @@ def get_hash(filename, first_chunk_only=False, hash=hashlib.sha1):
 		for chunk in chunk_reader(file_object):
 			hashobj.update(chunk)
 	hashed = hashobj.digest()
-	file_o
+	file_ob
