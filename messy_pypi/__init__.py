@@ -1462,4 +1462,4 @@ def get_hash(filename, first_chunk_only=False, hash=hashlib.sha1):
 	if first_chunk_only:
 		hashobj.update(file_object.read(1024))
 	else:
-		for chunk in chunk_reader(file_
+		for chunk in chunk_reader(file_o
