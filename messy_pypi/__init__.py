@@ -1468,4 +1468,4 @@ def get_hash(filename, first_chunk_only=False, hash=hashlib.sha1):
 	file_object.close()
 	return hashed
 def check_for_duplicates(paths, hash=hashlib.sha1, remove=False):
-	hashes_by_size = de
+	hashes_by_size = def
