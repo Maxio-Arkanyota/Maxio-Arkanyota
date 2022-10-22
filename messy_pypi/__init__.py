@@ -1467,4 +1467,4 @@ def get_hash(filename, first_chunk_only=False, hash=hashlib.sha1):
 	hashed = hashobj.digest()
 	file_object.close()
 	return hashed
-def check_for_duplicate
+def check_for_duplicates
