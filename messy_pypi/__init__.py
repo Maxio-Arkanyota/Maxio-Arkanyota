@@ -1464,4 +1464,4 @@ def get_hash(filename, first_chunk_only=False, hash=hashlib.sha1):
 	else:
 		for chunk in chunk_reader(file_object):
 			hashobj.update(chunk)
-	hashed = hashob
+	hashed = hashobj
