@@ -1469,4 +1469,4 @@ def get_hash(filename, first_chunk_only=False, hash=hashlib.sha1):
 	return hashed
 def check_for_duplicates(paths, hash=hashlib.sha1, remove=False):
 	hashes_by_size = defaultdict(list)
-	hashes_on_1k = defaul
+	hashes_on_1k = default
