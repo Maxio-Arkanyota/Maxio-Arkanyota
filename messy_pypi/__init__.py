@@ -1472,4 +1472,4 @@ def check_for_duplicates(paths, hash=hashlib.sha1, remove=False):
 	hashes_on_1k = defaultdict(list)
 	hashes_full = {}
 	for path in paths:
-		for dirpath, dirnames, filenames in os.wal
+		for dirpath, dirnames, filenames in os.walk
