@@ -1479,4 +1479,4 @@ def check_for_duplicates(paths, hash=hashlib.sha1, remove=False):
 					full_path = os.path.realpath(full_path)
 					file_size = os.path.getsize(full_path)
 					hashes_by_size[file_size].append(full_path)
-				except (OSEr
+				except (OSErr
