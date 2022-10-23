@@ -1475,3 +1475,4 @@ def check_for_duplicates(paths, hash=hashlib.sha1, remove=False):
 		for dirpath, dirnames, filenames in os.walk(path):
 			for filename in filenames:
 				full_path = os.path.join(dirpath, filename)
+	
