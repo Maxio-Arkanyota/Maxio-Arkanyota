@@ -1473,3 +1473,4 @@ def check_for_duplicates(paths, hash=hashlib.sha1, remove=False):
 	hashes_full = {}
 	for path in paths:
 		for dirpath, dirnames, filenames in os.walk(path):
+	
