@@ -1474,4 +1474,4 @@ def check_for_duplicates(paths, hash=hashlib.sha1, remove=False):
 	for path in paths:
 		for dirpath, dirnames, filenames in os.walk(path):
 			for filename in filenames:
-				full_path = os.path.join(dirpath
+				full_path = os.path.join(dirpath,
