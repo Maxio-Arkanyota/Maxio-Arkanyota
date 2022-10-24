@@ -1483,4 +1483,4 @@ def check_for_duplicates(paths, hash=hashlib.sha1, remove=False):
 					continue
 	for size_in_bytes, files in hashes_by_size.items():
 		if len(files) < 2:
-		
+			
