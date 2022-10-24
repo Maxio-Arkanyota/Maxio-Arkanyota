@@ -1482,4 +1482,4 @@ def check_for_duplicates(paths, hash=hashlib.sha1, remove=False):
 				except (OSError,):
 					continue
 	for size_in_bytes, files in hashes_by_size.items():
-		if len(f
+		if len(fi
