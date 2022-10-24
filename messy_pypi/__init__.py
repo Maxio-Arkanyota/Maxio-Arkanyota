@@ -1487,4 +1487,4 @@ def check_for_duplicates(paths, hash=hashlib.sha1, remove=False):
 		for filename in files:
 			try:
 				small_hash = get_hash(filename, first_chunk_only=True)
-				hashes_on_1k[(small_hash, size_in_bytes)].a
+				hashes_on_1k[(small_hash, size_in_bytes)].ap
