@@ -1481,4 +1481,4 @@ def check_for_duplicates(paths, hash=hashlib.sha1, remove=False):
 					hashes_by_size[file_size].append(full_path)
 				except (OSError,):
 					continue
-	for size_in_bytes, file
+	for size_in_bytes, files
