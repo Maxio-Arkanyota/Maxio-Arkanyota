@@ -1495,4 +1495,4 @@ def check_for_duplicates(paths, hash=hashlib.sha1, remove=False):
 			continue
 		for filename in files_list:
 			try:
-	
+		
