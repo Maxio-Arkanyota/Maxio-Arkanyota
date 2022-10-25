@@ -1490,4 +1490,4 @@ def check_for_duplicates(paths, hash=hashlib.sha1, remove=False):
 				hashes_on_1k[(small_hash, size_in_bytes)].append(filename)
 			except (OSError,):
 				continue
-	for __, files_list in hashes
+	for __, files_list in hashes_
