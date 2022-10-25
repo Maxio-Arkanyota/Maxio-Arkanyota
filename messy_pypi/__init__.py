@@ -1496,4 +1496,4 @@ def check_for_duplicates(paths, hash=hashlib.sha1, remove=False):
 		for filename in files_list:
 			try:
 				full_hash = get_hash(filename, first_chunk_only=False)
-				duplicate = ha
+				duplicate = has
