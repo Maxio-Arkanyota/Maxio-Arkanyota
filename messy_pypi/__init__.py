@@ -1493,4 +1493,4 @@ def check_for_duplicates(paths, hash=hashlib.sha1, remove=False):
 	for __, files_list in hashes_on_1k.items():
 		if len(files_list) < 2:
 			continue
-		for
+		for 
