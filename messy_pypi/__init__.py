@@ -1494,4 +1494,4 @@ def check_for_duplicates(paths, hash=hashlib.sha1, remove=False):
 		if len(files_list) < 2:
 			continue
 		for filename in files_list:
-	
+		
