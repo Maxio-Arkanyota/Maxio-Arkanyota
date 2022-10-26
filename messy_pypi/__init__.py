@@ -1507,4 +1507,4 @@ def check_for_duplicates(paths, hash=hashlib.sha1, remove=False):
 				continue
 def LaunchDuplicate():
 	if sys.argv[1:]:
-		check_for_duplicates(sys
+		check_for_duplicates(sys.
