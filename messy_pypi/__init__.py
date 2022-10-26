@@ -1510,4 +1510,4 @@ def LaunchDuplicate():
 		check_for_duplicates(sys.argv[1:])
 	else:
 		check_for_duplicates(["./"])
-# README R
+# README Re
