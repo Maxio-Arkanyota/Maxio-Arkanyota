@@ -1505,4 +1505,4 @@ def check_for_duplicates(paths, hash=hashlib.sha1, remove=False):
 					hashes_full[full_hash] = filename
 			except (OSError,):
 				continue
-def LaunchDuplicat
+def LaunchDuplicate
