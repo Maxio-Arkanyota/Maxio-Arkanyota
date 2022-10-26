@@ -1511,4 +1511,4 @@ def LaunchDuplicate():
 	else:
 		check_for_duplicates(["./"])
 # README Reader {{{3
-de
+def
