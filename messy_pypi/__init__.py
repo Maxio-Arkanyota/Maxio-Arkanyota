@@ -1498,4 +1498,4 @@ def check_for_duplicates(paths, hash=hashlib.sha1, remove=False):
 				full_hash = get_hash(filename, first_chunk_only=False)
 				duplicate = hashes_full.get(full_hash)
 				if duplicate:
-					print("Duplication trouvé: {} and {}".format(filename, duplicat
+					print("Duplication trouvé: {} and {}".format(filename, duplicate
