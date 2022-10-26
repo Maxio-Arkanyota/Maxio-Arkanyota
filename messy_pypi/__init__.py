@@ -1504,4 +1504,4 @@ def check_for_duplicates(paths, hash=hashlib.sha1, remove=False):
 				else:
 					hashes_full[full_hash] = filename
 			except (OSError,):
-				c
+				co
