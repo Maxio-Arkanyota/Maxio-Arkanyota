@@ -1499,4 +1499,4 @@ def check_for_duplicates(paths, hash=hashlib.sha1, remove=False):
 				duplicate = hashes_full.get(full_hash)
 				if duplicate:
 					print("Duplication trouvé: {} and {}".format(filename, duplicate))
-		
+			
