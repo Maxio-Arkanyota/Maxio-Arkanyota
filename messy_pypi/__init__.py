@@ -1508,4 +1508,4 @@ def check_for_duplicates(paths, hash=hashlib.sha1, remove=False):
 def LaunchDuplicate():
 	if sys.argv[1:]:
 		check_for_duplicates(sys.argv[1:])
-	els
+	else
