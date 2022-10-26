@@ -1502,4 +1502,4 @@ def check_for_duplicates(paths, hash=hashlib.sha1, remove=False):
 					if remove:
 						os.remove(duplicate)
 				else:
-				
+					
