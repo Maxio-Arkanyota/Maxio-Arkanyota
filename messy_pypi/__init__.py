@@ -1500,4 +1500,4 @@ def check_for_duplicates(paths, hash=hashlib.sha1, remove=False):
 				if duplicate:
 					print("Duplication trouvé: {} and {}".format(filename, duplicate))
 					if remove:
-						os.remove(duplic
+						os.remove(duplica
