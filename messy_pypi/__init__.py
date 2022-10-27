@@ -1516,4 +1516,4 @@ def readfile(file):
 	#	  0**	1*	 2__	3_	 4~~	5`	 6```   7==
 	etat = [False, False, False, False, False, False, False, False]
 	to_printfile = []
-	with
+	with 
