@@ -1518,4 +1518,4 @@ def readfile(file):
 	to_printfile = []
 	with open(file, "r") as f:
 		a = f.readlines()
-	for i in a
+	for i in a:
