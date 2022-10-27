@@ -1514,4 +1514,4 @@ def LaunchDuplicate():
 def readfile(file):
 	#	   Gras, Italique,			 Strike, code, Mcode, Hilight
 	#	  0**	1*	 2__	3_	 4~~	5`	 6```   7==
-	etat = [False, False,
+	etat = [False, False, 
