@@ -1519,4 +1519,4 @@ def readfile(file):
 	with open(file, "r") as f:
 		a = f.readlines()
 	for i in a:
-		current_ligne = i.rstrip()  # Fro k
+		current_ligne = i.rstrip()  # Fro ke
