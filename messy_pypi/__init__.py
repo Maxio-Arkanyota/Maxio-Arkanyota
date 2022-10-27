@@ -1512,4 +1512,4 @@ def LaunchDuplicate():
 		check_for_duplicates(["./"])
 # README Reader {{{3
 def readfile(file):
-	#	   Gras, Italique
+	#	   Gras, Italique,
