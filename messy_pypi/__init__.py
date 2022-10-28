@@ -1524,4 +1524,4 @@ def readfile(file):
 			current_ligne = os.get_terminal_size()[0] * "─"
 		elif current_ligne[0:6] == "######":
 			current_ligne = "\033[33mh6\u2588\u2588\u2588\u2588" + current_ligne[6:] + "\033[0m"
-		elif current
+		elif current_
