@@ -1520,4 +1520,4 @@ def readfile(file):
 		a = f.readlines()
 	for i in a:
 		current_ligne = i.rstrip()  # Fro keep \t
-		if current_ligne == "---" or c
+		if current_ligne == "---" or cu
