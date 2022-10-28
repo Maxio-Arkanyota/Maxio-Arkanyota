@@ -1521,4 +1521,4 @@ def readfile(file):
 	for i in a:
 		current_ligne = i.rstrip()  # Fro keep \t
 		if current_ligne == "---" or current_ligne == "___" or current_ligne == "***":
-			current_ligne = os.get_terminal_size()[0]
+			current_ligne = os.get_terminal_size()[0] 
