@@ -1523,4 +1523,4 @@ def readfile(file):
 		if current_ligne == "---" or current_ligne == "___" or current_ligne == "***":
 			current_ligne = os.get_terminal_size()[0] * "─"
 		elif current_ligne[0:6] == "######":
-			current_ligne = 
+			current_ligne = "
