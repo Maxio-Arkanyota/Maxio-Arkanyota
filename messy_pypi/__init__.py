@@ -1527,4 +1527,4 @@ def readfile(file):
 		elif current_ligne[0:5] == "#####":
 			current_ligne = "\033[33mh5\u2588\u2588\u2588" + current_ligne[5:] + "\033[0m"
 		elif current_ligne[0:4] == "####":
-			current_ligne = "\033[33mH4\u2588\u2588" + current_ligne[4:] + "\033
+			current_ligne = "\033[33mH4\u2588\u2588" + current_ligne[4:] + "\033[
