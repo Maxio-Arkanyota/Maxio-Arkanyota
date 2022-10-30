@@ -1530,4 +1530,4 @@ def readfile(file):
 			current_ligne = "\033[33mH4\u2588\u2588" + current_ligne[4:] + "\033[0m"
 		elif current_ligne[0:3] == "###":
 			current_ligne = "\033[32m\033[1m" + (' ' + current_ligne[3:] + " ").center(os.get_terminal_size()[0], ".") + "\033[0m"
-		elif current_ligne[0:2] =
+		elif current_ligne[0:2] ==
