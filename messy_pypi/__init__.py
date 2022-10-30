@@ -1532,4 +1532,4 @@ def readfile(file):
 			current_ligne = "\033[32m\033[1m" + (' ' + current_ligne[3:] + " ").center(os.get_terminal_size()[0], ".") + "\033[0m"
 		elif current_ligne[0:2] == "##":
 			current_ligne = "\033[34m\033[1m" + (' ' + current_ligne[2:] + " ").center(os.get_terminal_size()[0], "─") + "\033[0m"
-		elif current_ligne[0:1] ==
+		elif current_ligne[0:1] == 
