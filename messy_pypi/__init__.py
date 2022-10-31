@@ -1537,4 +1537,4 @@ def readfile(file):
 		# While "**" or "~~" or "*" or "==" or "__" not i current line
 		if "**" in current_ligne and not etat[0]:
 			etat[0] = True
-			current_ligne = current_ligne.replace("**
+			current_ligne = current_ligne.replace("**"
