@@ -1539,4 +1539,4 @@ def readfile(file):
 			etat[0] = True
 			current_ligne = current_ligne.replace("**", "\033[1m\033[91m", 1)
 		if "**" in current_ligne and etat[0]:
-			etat[0] 
+			etat[0] =
