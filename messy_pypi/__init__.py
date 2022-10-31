@@ -1533,4 +1533,4 @@ def readfile(file):
 		elif current_ligne[0:2] == "##":
 			current_ligne = "\033[34m\033[1m" + (' ' + current_ligne[2:] + " ").center(os.get_terminal_size()[0], "─") + "\033[0m"
 		elif current_ligne[0:1] == "#":
-			current_ligne = "\033[31m\033[1m\033[4m" + (' ' + current_ligne[1:] + " ").center(os.get_terminal_size(
+			current_ligne = "\033[31m\033[1m\033[4m" + (' ' + current_ligne[1:] + " ").center(os.get_terminal_size()
