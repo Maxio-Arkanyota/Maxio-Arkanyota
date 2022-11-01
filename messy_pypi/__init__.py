@@ -1543,4 +1543,4 @@ def readfile(file):
 			current_ligne = current_ligne.replace("**", "\033[0m", 1)
 		if "__" in current_ligne and not etat[2]:
 			etat[2] = True
-			current_ligne = current_ligne.replace("__", "\033[1m",
+			current_ligne = current_ligne.replace("__", "\033[1m", 
