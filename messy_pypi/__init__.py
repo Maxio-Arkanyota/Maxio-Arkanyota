@@ -1541,4 +1541,4 @@ def readfile(file):
 		if "**" in current_ligne and etat[0]:
 			etat[0] = False
 			current_ligne = current_ligne.replace("**", "\033[0m", 1)
-		if "__" in current_ligne and 
+		if "__" in current_ligne and n
