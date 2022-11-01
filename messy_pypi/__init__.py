@@ -1544,4 +1544,4 @@ def readfile(file):
 		if "__" in current_ligne and not etat[2]:
 			etat[2] = True
 			current_ligne = current_ligne.replace("__", "\033[1m", 1)
-		if "__" 
+		if "__" i
