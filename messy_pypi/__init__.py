@@ -1551,4 +1551,4 @@ def readfile(file):
 			etat[7] = True
 			current_ligne = current_ligne.replace("==", "\033[103m\033[30m", 1)
 		if "==" in current_ligne and etat[7]:
-			etat[7
+			etat[7]
