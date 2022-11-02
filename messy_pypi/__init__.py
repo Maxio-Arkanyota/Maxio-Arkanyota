@@ -1554,4 +1554,4 @@ def readfile(file):
 			etat[7] = False
 			current_ligne = current_ligne.replace("==", "\033[0m", 1)
 		to_printfile.append(current_ligne)
-	return
+	return 
