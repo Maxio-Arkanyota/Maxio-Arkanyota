@@ -1547,4 +1547,4 @@ def readfile(file):
 		if "__" in current_ligne and etat[2]:
 			etat[2] = False
 			current_ligne = current_ligne.replace("__", "\033[0m", 1)
-		if "==" in current
+		if "==" in current_
