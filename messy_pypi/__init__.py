@@ -1555,4 +1555,4 @@ def readfile(file):
 			current_ligne = current_ligne.replace("==", "\033[0m", 1)
 		to_printfile.append(current_ligne)
 	return to_printfile
-def printontermnal(to_printfi
+def printontermnal(to_printfil
