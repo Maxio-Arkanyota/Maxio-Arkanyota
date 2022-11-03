@@ -1556,4 +1556,4 @@ def readfile(file):
 		to_printfile.append(current_ligne)
 	return to_printfile
 def printontermnal(to_printfile):
-	for i in to_p
+	for i in to_pr
