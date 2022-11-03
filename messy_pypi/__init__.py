@@ -1560,4 +1560,4 @@ def printontermnal(to_printfile):
 		print(i)
 def LauchPrintMd():
 	if sys.argv[1:]:
-		printontermnal(readfile
+		printontermnal(readfile(
