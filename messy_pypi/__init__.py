@@ -1561,4 +1561,4 @@ def printontermnal(to_printfile):
 def LauchPrintMd():
 	if sys.argv[1:]:
 		printontermnal(readfile(sys.argv[1]))
-	else
+	else:
