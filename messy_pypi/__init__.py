@@ -1564,4 +1564,4 @@ def LauchPrintMd():
 	else:
 		printontermnal(readfile(input("Ficher Markdown: ")))
 # Count Line {{{3
-def count_number_of_lines_in_file(f
+def count_number_of_lines_in_file(fi
