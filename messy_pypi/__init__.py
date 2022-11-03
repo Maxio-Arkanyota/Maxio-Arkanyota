@@ -1558,3 +1558,4 @@ def readfile(file):
 def printontermnal(to_printfile):
 	for i in to_printfile:
 		print(i)
+d
