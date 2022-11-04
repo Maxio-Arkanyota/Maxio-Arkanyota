@@ -1575,4 +1575,4 @@ def count_number_of_lines_in_file(file: str) -> int:
 		text = [e for e in text if e.strip() not in {""}]
 		return len(text)
 def count_number_of_lines_in_folder(folder: str, match: str = "(.py$|.md$)") -> int:
-	""
+	"""
