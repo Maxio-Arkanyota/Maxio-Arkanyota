@@ -1570,4 +1570,4 @@ def count_number_of_lines_in_file(file: str) -> int:
 	Sortie: int
 	Compte le nombre de lignes dans un fichier
 	"""
-	with open(file, "r", encoding="latin-1") a
+	with open(file, "r", encoding="latin-1") as
