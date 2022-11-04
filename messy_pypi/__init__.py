@@ -1572,4 +1572,4 @@ def count_number_of_lines_in_file(file: str) -> int:
 	"""
 	with open(file, "r", encoding="latin-1") as f:
 		text = f.readlines()
-		text = [e for e in text if e.strip() not in {
+		text = [e for e in text if e.strip() not in {"
