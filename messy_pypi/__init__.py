@@ -1576,4 +1576,4 @@ def count_number_of_lines_in_file(file: str) -> int:
 		return len(text)
 def count_number_of_lines_in_folder(folder: str, match: str = "(.py$|.md$)") -> int:
 	"""
-	Info: You can set 
+	Info: You can set "
