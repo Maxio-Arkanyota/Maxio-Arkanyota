@@ -1583,4 +1583,4 @@ def count_number_of_lines_in_folder(folder: str, match: str = "(.py$|.md$)") -> 
 	for root, directories, files in os.walk(folder, topdown=False):
 		for name in files:
 			if re.search(match, name):
-				nombres_lignes += count_number_of_lines_in_file(os.pat
+				nombres_lignes += count_number_of_lines_in_file(os.path
