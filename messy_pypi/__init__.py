@@ -1580,4 +1580,4 @@ def count_number_of_lines_in_folder(folder: str, match: str = "(.py$|.md$)") -> 
 	Info: C'est le fichier a partir du dossier de ce fichier
 	"""
 	nombres_lignes = 0
-	for root, directories, files in os.walk(folder, 
+	for root, directories, files in os.walk(folder, t
