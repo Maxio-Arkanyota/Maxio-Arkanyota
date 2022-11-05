@@ -1577,4 +1577,4 @@ def count_number_of_lines_in_file(file: str) -> int:
 def count_number_of_lines_in_folder(folder: str, match: str = "(.py$|.md$)") -> int:
 	"""
 	Info: You can set "../../Here"
-	Info: C'est le fichier a partir du dossier
+	Info: C'est le fichier a partir du dossier 
