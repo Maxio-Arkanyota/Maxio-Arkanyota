@@ -1590,4 +1590,4 @@ def count_number_of_lines_in_folder_verbose(folder: str, match: str = "(.py$|.md
 	Info: You can set "../../Here"
 	Info: C'est le fichier a partir du dossier de ce fichier
 	"""
-	dico_otherinfo =
+	dico_otherinfo = 
