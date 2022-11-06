@@ -1592,4 +1592,4 @@ def count_number_of_lines_in_folder_verbose(folder: str, match: str = "(.py$|.md
 	"""
 	dico_otherinfo = {}
 	nombres_lignes = 0
-	for root, directories, files in os.walk(folder, 
+	for root, directories, files in os.walk(folder, t
