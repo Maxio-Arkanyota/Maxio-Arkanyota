@@ -1587,4 +1587,4 @@ def count_number_of_lines_in_folder(folder: str, match: str = "(.py$|.md$)") -> 
 	return nombres_lignes
 def count_number_of_lines_in_folder_verbose(folder: str, match: str = "(.py$|.md$)", otherinfo=False) -> int:
 	"""
-	Info
+	Info:
