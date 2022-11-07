@@ -1599,4 +1599,4 @@ def count_number_of_lines_in_folder_verbose(folder: str, match: str = "(.py$|.md
 		for name in files:
 			if re.search(match, name):
 				print("\033[31m---\033[0m")
-				print("\033[36mname:\033[0m " + str
+				print("\033[36mname:\033[0m " + str(
