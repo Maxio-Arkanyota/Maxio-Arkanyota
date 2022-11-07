@@ -1594,4 +1594,4 @@ def count_number_of_lines_in_folder_verbose(folder: str, match: str = "(.py$|.md
 	nombres_lignes = 0
 	for root, directories, files in os.walk(folder, topdown=False):
 		print("\033[31mroot:\033[0m " + root)
-		print("\033[32mdirectories
+		print("\033[32mdirectories:
