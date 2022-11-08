@@ -1603,4 +1603,4 @@ def count_number_of_lines_in_folder_verbose(folder: str, match: str = "(.py$|.md
 				print("\033[34mpath:\033[0m " + str(os.path.join(root, name)))
 				ligne = count_number_of_lines_in_file(os.path.join(root, name))
 				print("\033[35mlignes:\033[0m " + str(ligne))
-				if otherinfo
+				if otherinfo:
