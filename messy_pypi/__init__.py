@@ -1605,4 +1605,4 @@ def count_number_of_lines_in_folder_verbose(folder: str, match: str = "(.py$|.md
 				print("\033[35mlignes:\033[0m " + str(ligne))
 				if otherinfo:
 					if name in dico_otherinfo:
-						if isinstance(dico_otheri
+						if isinstance(dico_otherin
