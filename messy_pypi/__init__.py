@@ -1607,4 +1607,4 @@ def count_number_of_lines_in_folder_verbose(folder: str, match: str = "(.py$|.md
 					if name in dico_otherinfo:
 						if isinstance(dico_otherinfo[name], list):
 							dico_otherinfo[name] = dico_otherinfo[name] + [ligne]
-						
+						e
