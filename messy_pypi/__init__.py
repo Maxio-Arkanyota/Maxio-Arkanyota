@@ -1612,4 +1612,4 @@ def count_number_of_lines_in_folder_verbose(folder: str, match: str = "(.py$|.md
 					else:
 						dico_otherinfo[name] = ligne
 				nombres_lignes += ligne
-		t
+		tr
