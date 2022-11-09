@@ -1613,4 +1613,4 @@ def count_number_of_lines_in_folder_verbose(folder: str, match: str = "(.py$|.md
 						dico_otherinfo[name] = ligne
 				nombres_lignes += ligne
 		try:
-			print("\n" + "=" * (os.get_termina
+			print("\n" + "=" * (os.get_terminal
