@@ -1622,4 +1622,4 @@ def count_number_of_lines_in_folder_verbose(folder: str, match: str = "(.py$|.md
 		info_byext = {}
 		for i in dico_otherinfo.keys():
 			max_len = max(len(i), max_len)
-		for i, j in dico_otherinfo.items(
+		for i, j in dico_otherinfo.items()
