@@ -1626,4 +1626,4 @@ def count_number_of_lines_in_folder_verbose(folder: str, match: str = "(.py$|.md
 			l = 0
 			if isinstance(j, list):
 				for k in j:
-					l +=
+					l += 
