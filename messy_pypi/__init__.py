@@ -1619,4 +1619,4 @@ def count_number_of_lines_in_folder_verbose(folder: str, match: str = "(.py$|.md
 	if otherinfo:
 		print(dico_otherinfo)
 		max_len = 0
-		info_byext 
+		info_byext =
