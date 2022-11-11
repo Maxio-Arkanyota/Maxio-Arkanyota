@@ -1639,4 +1639,4 @@ def count_number_of_lines_in_folder_verbose(folder: str, match: str = "(.py$|.md
 		for i, j in info_byext.items():
 			print(str(i) + "\t: " + str(j))
 		try:
-			prin
+			print
