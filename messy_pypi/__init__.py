@@ -1633,4 +1633,4 @@ def count_number_of_lines_in_folder_verbose(folder: str, match: str = "(.py$|.md
 				i.split('.')[-1]))
 			if i.split('.')[-1] in info_byext:
 				info_byext[i.split('.')[-1]] += l
-		
+			
