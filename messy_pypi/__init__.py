@@ -1648,4 +1648,4 @@ def count_number_of_lines_in_folder_verbose(folder: str, match: str = "(.py$|.md
 def LaunchCountLines():
 	if len(sys.argv) > 1:
 		match = sys.argv[1]
-	else
+	else:
