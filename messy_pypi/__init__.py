@@ -1644,4 +1644,4 @@ def count_number_of_lines_in_folder_verbose(folder: str, match: str = "(.py$|.md
 			print("\n" + "=" * 25 + "\n")
 		return nombres_lignes
 	else:
-		retu
+		retur
