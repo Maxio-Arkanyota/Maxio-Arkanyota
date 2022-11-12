@@ -1650,4 +1650,4 @@ def LaunchCountLines():
 		match = sys.argv[1]
 	else:
 		match = "\.py$|\.md$|\.html$|\.css$|\.txt$|LICENCE$|\.cfg$|\.json$"
-	print("nombre de lignes: " + str(count
+	print("nombre de lignes: " + str(count_
