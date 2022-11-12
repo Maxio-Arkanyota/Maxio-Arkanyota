@@ -1649,4 +1649,4 @@ def LaunchCountLines():
 	if len(sys.argv) > 1:
 		match = sys.argv[1]
 	else:
-		match = "\.py$|\.md$|\.html$|\.c
+		match = "\.py$|\.md$|\.html$|\.cs
