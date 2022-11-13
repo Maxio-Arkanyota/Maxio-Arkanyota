@@ -1654,4 +1654,4 @@ def LaunchCountLines():
 	print("match: " + match)
 	print("fichier courant: " + str(os.getcwd()))
 # Shell {{{3
-class She
+class Shel
