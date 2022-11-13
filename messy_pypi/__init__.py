@@ -1655,4 +1655,4 @@ def LaunchCountLines():
 	print("fichier courant: " + str(os.getcwd()))
 # Shell {{{3
 class ShellFunctions:
-	@classmeth
+	@classmetho
