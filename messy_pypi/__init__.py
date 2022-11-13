@@ -1656,4 +1656,4 @@ def LaunchCountLines():
 # Shell {{{3
 class ShellFunctions:
 	@classmethod
-	def auto_complete(cls, command, list_of_command
+	def auto_complete(cls, command, list_of_command)
