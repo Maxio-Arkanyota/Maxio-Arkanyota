@@ -1661,4 +1661,4 @@ class ShellFunctions:
 		This function is used to auto-complete the command.
 		"""
 		command_list = []
-		for i in list_of_comman
+		for i in list_of_command
