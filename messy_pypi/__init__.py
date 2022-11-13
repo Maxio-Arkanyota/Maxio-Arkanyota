@@ -1658,4 +1658,4 @@ class ShellFunctions:
 	@classmethod
 	def auto_complete(cls, command, list_of_command):
 		"""
-		This function is used to 
+		This function is used to a
