@@ -1660,4 +1660,4 @@ class ShellFunctions:
 		"""
 		This function is used to auto-complete the command.
 		"""
-		co
+		com
