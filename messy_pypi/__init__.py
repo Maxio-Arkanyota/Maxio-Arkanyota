@@ -1653,4 +1653,4 @@ def LaunchCountLines():
 	print("nombre de lignes: " + str(count_number_of_lines_in_folder_verbose(".", match, otherinfo=True)))
 	print("match: " + match)
 	print("fichier courant: " + str(os.getcwd()))
-# Shell
+# Shell 
