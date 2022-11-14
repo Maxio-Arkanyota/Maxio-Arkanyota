@@ -1672,4 +1672,4 @@ class ShellFunctions:
 class ShellDraw:
 	@classmethod
 	def draw_footer(cls):
-		x = os.get_termina
+		x = os.get_terminal
