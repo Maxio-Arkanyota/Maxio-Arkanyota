@@ -1671,4 +1671,4 @@ class ShellFunctions:
 		ShellInfos.tabulationIndex = -1
 class ShellDraw:
 	@classmethod
-	def draw_footer(c
+	def draw_footer(cl
