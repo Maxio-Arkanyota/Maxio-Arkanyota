@@ -1666,4 +1666,4 @@ class ShellFunctions:
 				command_list.append(i)
 		return command_list
 	@classmethod
-	def reset_tabulationIndex(c
+	def reset_tabulationIndex(cl
