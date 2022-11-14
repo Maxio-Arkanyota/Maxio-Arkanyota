@@ -1664,4 +1664,4 @@ class ShellFunctions:
 		for i in list_of_command:
 			if i.startswith(command):
 				command_list.append(i)
-		return command_l
+		return command_li
