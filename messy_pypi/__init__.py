@@ -1670,4 +1670,4 @@ class ShellFunctions:
 		ShellDraw.reload_all()
 		ShellInfos.tabulationIndex = -1
 class ShellDraw:
-	@cl
+	@cla
