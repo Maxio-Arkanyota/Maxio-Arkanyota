@@ -1671,4 +1671,4 @@ class ShellFunctions:
 		ShellInfos.tabulationIndex = -1
 class ShellDraw:
 	@classmethod
-	def draw_foo
+	def draw_foot
