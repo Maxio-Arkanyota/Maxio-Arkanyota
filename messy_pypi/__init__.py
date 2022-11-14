@@ -1665,4 +1665,4 @@ class ShellFunctions:
 			if i.startswith(command):
 				command_list.append(i)
 		return command_list
-	@cla
+	@clas
