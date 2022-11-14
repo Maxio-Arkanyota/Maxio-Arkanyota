@@ -1669,4 +1669,4 @@ class ShellFunctions:
 	def reset_tabulationIndex(cls):
 		ShellDraw.reload_all()
 		ShellInfos.tabulationIndex = -1
-class ShellDraw
+class ShellDraw:
