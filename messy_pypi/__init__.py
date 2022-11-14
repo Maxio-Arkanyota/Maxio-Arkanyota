@@ -1667,4 +1667,4 @@ class ShellFunctions:
 		return command_list
 	@classmethod
 	def reset_tabulationIndex(cls):
-		ShellDraw.reload_all
+		ShellDraw.reload_all(
