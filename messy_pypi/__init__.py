@@ -1663,4 +1663,4 @@ class ShellFunctions:
 		command_list = []
 		for i in list_of_command:
 			if i.startswith(command):
-				co
+				com
