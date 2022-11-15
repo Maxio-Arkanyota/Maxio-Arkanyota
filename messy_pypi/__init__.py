@@ -1679,3 +1679,4 @@ class ShellDraw:
 		sys.stdout.write(f"\033[{y - 1};20H" + ShellInfos.stack_key)
 		sys.stdout.flush()
 	@classmethod
+	
