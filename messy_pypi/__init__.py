@@ -1675,4 +1675,4 @@ class ShellDraw:
 		x = os.get_terminal_size()[0]
 		y = os.get_terminal_size()[1]
 		sys.stdout.write(f"\033[{y - 1};0H" + "-" * x)
-		sys.stdout.write(f"\033[{y - 1};6H" + ShellM
+		sys.stdout.write(f"\033[{y - 1};6H" + ShellMo
