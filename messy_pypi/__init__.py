@@ -1681,4 +1681,4 @@ class ShellDraw:
 	@classmethod
 	def cursor_key(cls):
 		sys.stdout.write(
-			f"\033[{ShellInfos.cursor_pos // os.get_terminal_size()[0] + 1};{Shell
+			f"\033[{ShellInfos.cursor_pos // os.get_terminal_size()[0] + 1};{ShellI
