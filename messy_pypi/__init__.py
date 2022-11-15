@@ -1681,4 +1681,4 @@ class ShellDraw:
 	@classmethod
 	def cursor_key(cls):
 		sys.stdout.write(
-			f"\033[{Sh
+			f"\033[{She
