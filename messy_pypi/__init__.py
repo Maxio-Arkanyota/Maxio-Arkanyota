@@ -1677,4 +1677,4 @@ class ShellDraw:
 		sys.stdout.write(f"\033[{y - 1};0H" + "-" * x)
 		sys.stdout.write(f"\033[{y - 1};6H" + ShellModes.get_mode_name())
 		sys.stdout.write(f"\033[{y - 1};20H" + ShellInfos.stack_key)
-		sys.s
+		sys.st
