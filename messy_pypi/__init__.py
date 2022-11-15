@@ -1680,4 +1680,4 @@ class ShellDraw:
 		sys.stdout.flush()
 	@classmethod
 	def cursor_key(cls):
-		sys.std
+		sys.stdo
