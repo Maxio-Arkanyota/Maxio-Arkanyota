@@ -1685,4 +1685,4 @@ class ShellDraw:
 	@classmethod
 	def actulise_input(cls):
 		sys.stdout.write("\033[0;0H" + ShellInfos.input_string + " ")
-	@classmetho
+	@classmethod
