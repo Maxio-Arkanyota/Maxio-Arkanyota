@@ -1682,3 +1682,4 @@ class ShellDraw:
 	def cursor_key(cls):
 		sys.stdout.write(
 			f"\033[{ShellInfos.cursor_pos // os.get_terminal_size()[0] + 1};{ShellInfos.cursor_pos % os.get_terminal_size()[0]}H")
+	
