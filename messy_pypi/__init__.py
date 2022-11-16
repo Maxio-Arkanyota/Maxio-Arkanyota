@@ -1687,4 +1687,4 @@ class ShellDraw:
 		sys.stdout.write("\033[0;0H" + ShellInfos.input_string + " ")
 	@classmethod
 	def clear_input(cls):
-		sys.stdout.write("\033[0;0H" + " " * os.get_terminal_si
+		sys.stdout.write("\033[0;0H" + " " * os.get_terminal_siz
