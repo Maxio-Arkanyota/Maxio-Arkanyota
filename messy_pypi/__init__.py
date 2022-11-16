@@ -1691,4 +1691,4 @@ class ShellDraw:
 	@classmethod
 	def reload_all(cls):
 		clear()
-		cls.draw_
+		cls.draw_f
