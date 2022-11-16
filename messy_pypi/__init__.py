@@ -1692,4 +1692,4 @@ class ShellDraw:
 	def reload_all(cls):
 		clear()
 		cls.draw_footer()
-	
+		
