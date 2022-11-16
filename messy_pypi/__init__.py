@@ -1691,3 +1691,4 @@ class ShellDraw:
 	@classmethod
 	def reload_all(cls):
 		clear()
+	
