@@ -1683,4 +1683,4 @@ class ShellDraw:
 		sys.stdout.write(
 			f"\033[{ShellInfos.cursor_pos // os.get_terminal_size()[0] + 1};{ShellInfos.cursor_pos % os.get_terminal_size()[0]}H")
 	@classmethod
-	def actulise_in
+	def actulise_inp
