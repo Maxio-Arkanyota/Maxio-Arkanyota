@@ -1687,4 +1687,4 @@ class ShellDraw:
 		sys.stdout.write("\033[0;0H" + ShellInfos.input_string + " ")
 	@classmethod
 	def clear_input(cls):
-	
+		
