@@ -1686,4 +1686,4 @@ class ShellDraw:
 	def actulise_input(cls):
 		sys.stdout.write("\033[0;0H" + ShellInfos.input_string + " ")
 	@classmethod
-	def clear_input(
+	def clear_input(c
