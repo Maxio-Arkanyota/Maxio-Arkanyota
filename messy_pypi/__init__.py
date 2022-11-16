@@ -1688,4 +1688,4 @@ class ShellDraw:
 	@classmethod
 	def clear_input(cls):
 		sys.stdout.write("\033[0;0H" + " " * os.get_terminal_size()[0])
-	@cl
+	@cla
