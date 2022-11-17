@@ -1704,4 +1704,4 @@ class ShellConfig:
 			with open("config.txt", "r") as f:
 				config = f.readlines()
 			return config
-		except FileNotFo
+		except FileNotFou
