@@ -1698,4 +1698,4 @@ class ShellConfig:
 	@classmethod
 	def load_config(cls):
 		"""
-		This function is used to lo
+		This function is used to loa
