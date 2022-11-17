@@ -1694,4 +1694,4 @@ class ShellDraw:
 		cls.draw_footer()
 		cls.actulise_input()
 		cls.cursor_key()
-class ShellConfi
+class ShellConfig
