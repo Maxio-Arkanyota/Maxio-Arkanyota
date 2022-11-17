@@ -1703,4 +1703,4 @@ class ShellConfig:
 		try:
 			with open("config.txt", "r") as f:
 				config = f.readlines()
-			return con
+			return conf
