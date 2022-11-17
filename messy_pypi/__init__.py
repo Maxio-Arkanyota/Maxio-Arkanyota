@@ -1698,4 +1698,4 @@ class ShellConfig:
 	@classmethod
 	def load_config(cls):
 		"""
-		This function is us
+		This function is use
