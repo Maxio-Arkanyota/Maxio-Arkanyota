@@ -1699,3 +1699,4 @@ class ShellConfig:
 	def load_config(cls):
 		"""
 		This function is used to load the configuration file.
+	
