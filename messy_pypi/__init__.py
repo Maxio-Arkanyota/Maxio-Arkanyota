@@ -1696,3 +1696,4 @@ class ShellDraw:
 		cls.cursor_key()
 class ShellConfig:
 	@classmethod
+	
