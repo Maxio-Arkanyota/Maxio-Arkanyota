@@ -1693,4 +1693,4 @@ class ShellDraw:
 		clear()
 		cls.draw_footer()
 		cls.actulise_input()
-		cls.cursor_k
+		cls.cursor_ke
