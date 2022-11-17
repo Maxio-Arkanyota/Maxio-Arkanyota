@@ -1695,3 +1695,4 @@ class ShellDraw:
 		cls.actulise_input()
 		cls.cursor_key()
 class ShellConfig:
+	
