@@ -1696,4 +1696,4 @@ class ShellDraw:
 		cls.cursor_key()
 class ShellConfig:
 	@classmethod
-	def load_con
+	def load_conf
