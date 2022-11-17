@@ -1700,4 +1700,4 @@ class ShellConfig:
 		"""
 		This function is used to load the configuration file.
 		"""
-		tr
+		try
