@@ -1701,4 +1701,4 @@ class ShellConfig:
 		This function is used to load the configuration file.
 		"""
 		try:
-			with open("config.txt", "r") as 
+			with open("config.txt", "r") as f
