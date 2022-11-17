@@ -1698,4 +1698,4 @@ class ShellConfig:
 	@classmethod
 	def load_config(cls):
 		"""
-		This function is used to load the configurati
+		This function is used to load the configuratio
