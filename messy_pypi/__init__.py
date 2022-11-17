@@ -1705,3 +1705,4 @@ class ShellConfig:
 				config = f.readlines()
 			return config
 		except FileNotFoundError:
+	
