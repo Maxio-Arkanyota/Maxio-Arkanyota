@@ -1698,3 +1698,4 @@ class ShellConfig:
 	@classmethod
 	def load_config(cls):
 		"""
+	
