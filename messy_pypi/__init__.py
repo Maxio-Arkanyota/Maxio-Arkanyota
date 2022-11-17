@@ -1705,4 +1705,4 @@ class ShellConfig:
 				config = f.readlines()
 			return config
 		except FileNotFoundError:
-			print("ShellConfiguration file not foun
+			print("ShellConfiguration file not found
