@@ -1708,3 +1708,4 @@ class ShellConfig:
 			print("ShellConfiguration file not found.")
 			return False
 	@classmethod
+	
