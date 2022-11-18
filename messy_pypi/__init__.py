@@ -1718,3 +1718,4 @@ class ShellConfig:
 			return history
 		except FileNotFoundError:
 			return []
+	
