@@ -1719,4 +1719,4 @@ class ShellConfig:
 		except FileNotFoundError:
 			return []
 	@classmethod
-	def write_
+	def write_h
