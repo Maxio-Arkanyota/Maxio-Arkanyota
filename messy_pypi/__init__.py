@@ -1709,3 +1709,4 @@ class ShellConfig:
 			return False
 	@classmethod
 	def get_history(cls):
+	
