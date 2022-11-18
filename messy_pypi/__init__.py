@@ -1713,4 +1713,4 @@ class ShellConfig:
 		This function is used to get the history of commands.
 		"""
 		try:
-			with open("history.txt", "r")
+			with open("history.txt", "r") 
