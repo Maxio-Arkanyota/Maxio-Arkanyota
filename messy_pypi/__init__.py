@@ -1708,4 +1708,4 @@ class ShellConfig:
 			print("ShellConfiguration file not found.")
 			return False
 	@classmethod
-	def get_hist
+	def get_histo
