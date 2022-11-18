@@ -1719,3 +1719,4 @@ class ShellConfig:
 		except FileNotFoundError:
 			return []
 	@classmethod
+	
