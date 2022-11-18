@@ -1706,4 +1706,4 @@ class ShellConfig:
 			return config
 		except FileNotFoundError:
 			print("ShellConfiguration file not found.")
-			return Fals
+			return False
