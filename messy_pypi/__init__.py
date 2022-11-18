@@ -1714,4 +1714,4 @@ class ShellConfig:
 		"""
 		try:
 			with open("history.txt", "r") as f:
-				hi
+				his
