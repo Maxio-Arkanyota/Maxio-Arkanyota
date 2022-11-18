@@ -1715,4 +1715,4 @@ class ShellConfig:
 		try:
 			with open("history.txt", "r") as f:
 				history = [i.lstrip() for i in f.readlines()]
-			retur
+			return
