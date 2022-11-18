@@ -1716,4 +1716,4 @@ class ShellConfig:
 			with open("history.txt", "r") as f:
 				history = [i.lstrip() for i in f.readlines()]
 			return history
-	
+		
