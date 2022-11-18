@@ -1710,3 +1710,4 @@ class ShellConfig:
 	@classmethod
 	def get_history(cls):
 		"""
+	
