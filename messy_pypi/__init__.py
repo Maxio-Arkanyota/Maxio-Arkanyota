@@ -1717,4 +1717,4 @@ class ShellConfig:
 				history = [i.lstrip() for i in f.readlines()]
 			return history
 		except FileNotFoundError:
-		
+			
