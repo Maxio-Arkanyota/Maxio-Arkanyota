@@ -1707,4 +1707,4 @@ class ShellConfig:
 		except FileNotFoundError:
 			print("ShellConfiguration file not found.")
 			return False
-	@classm
+	@classme
