@@ -1719,4 +1719,4 @@ class ShellConfig:
 		except FileNotFoundError:
 			return []
 	@classmethod
-	def write_history(cls,
+	def write_history(cls, 
