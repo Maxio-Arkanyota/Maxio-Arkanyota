@@ -1712,4 +1712,4 @@ class ShellConfig:
 		"""
 		This function is used to get the history of commands.
 		"""
-		
+		t
