@@ -1711,4 +1711,4 @@ class ShellConfig:
 	def get_history(cls):
 		"""
 		This function is used to get the history of commands.
-	
+		
