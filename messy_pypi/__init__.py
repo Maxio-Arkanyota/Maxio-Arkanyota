@@ -1729,4 +1729,4 @@ class ShellInfos:
 	stack_key = ""
 	input_string = ""
 	cursor_pos = 1
-	tabulationInde
+	tabulationIndex
