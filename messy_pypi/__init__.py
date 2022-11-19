@@ -1728,4 +1728,4 @@ class ShellConfig:
 class ShellInfos:
 	stack_key = ""
 	input_string = ""
-	cursor_p
+	cursor_po
