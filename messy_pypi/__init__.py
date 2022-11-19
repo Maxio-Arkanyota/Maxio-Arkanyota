@@ -1723,3 +1723,4 @@ class ShellConfig:
 		"""
 		This function is used to write the history of commands.
 		"""
+	
