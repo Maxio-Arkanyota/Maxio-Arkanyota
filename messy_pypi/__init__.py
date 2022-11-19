@@ -1719,4 +1719,4 @@ class ShellConfig:
 		except FileNotFoundError:
 			return []
 	@classmethod
-	def write_history(cls, comma
+	def write_history(cls, comman
