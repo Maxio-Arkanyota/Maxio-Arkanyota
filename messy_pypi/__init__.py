@@ -1726,4 +1726,4 @@ class ShellConfig:
 		with open("history.txt", "a") as f:
 			f.write(command + "\n")
 class ShellInfos:
-	stack
+	stack_
