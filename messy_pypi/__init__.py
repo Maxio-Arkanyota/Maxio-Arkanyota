@@ -1720,4 +1720,4 @@ class ShellConfig:
 			return []
 	@classmethod
 	def write_history(cls, command):
-		
+		"
