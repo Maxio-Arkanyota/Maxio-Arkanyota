@@ -1733,4 +1733,4 @@ class ShellInfos:
 	history = ShellConfig.get_history()
 	history_index = 0
 class ShellModes:
-	allShell
+	allShellM
