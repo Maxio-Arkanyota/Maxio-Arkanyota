@@ -1731,4 +1731,4 @@ class ShellInfos:
 	cursor_pos = 1
 	tabulationIndex = -1
 	history = ShellConfig.get_history()
-	hist
+	histo
