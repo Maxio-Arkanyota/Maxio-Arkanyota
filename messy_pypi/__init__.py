@@ -1730,3 +1730,4 @@ class ShellInfos:
 	input_string = ""
 	cursor_pos = 1
 	tabulationIndex = -1
+	
