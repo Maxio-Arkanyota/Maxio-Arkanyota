@@ -1723,4 +1723,4 @@ class ShellConfig:
 		"""
 		This function is used to write the history of commands.
 		"""
-		with open("history.txt", "a") as
+		with open("history.txt", "a") as 
