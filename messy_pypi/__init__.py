@@ -1721,4 +1721,4 @@ class ShellConfig:
 	@classmethod
 	def write_history(cls, command):
 		"""
-		This function is used to
+		This function is used to 
