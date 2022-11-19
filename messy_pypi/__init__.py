@@ -1727,4 +1727,4 @@ class ShellConfig:
 			f.write(command + "\n")
 class ShellInfos:
 	stack_key = ""
-	input_st
+	input_str
