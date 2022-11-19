@@ -1732,4 +1732,4 @@ class ShellInfos:
 	tabulationIndex = -1
 	history = ShellConfig.get_history()
 	history_index = 0
-class Sh
+class She
