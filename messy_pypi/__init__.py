@@ -1743,3 +1743,4 @@ class ShellModes:
 	@staticmethod
 	def change_mode(new_mode: int):
 		if new_mode == 0:
+	
