@@ -1738,4 +1738,4 @@ class ShellModes:
 	def __init__(self, id, name, commands):
 		self.modId = id
 		self.modName = name
-		self.command = comma
+		self.command = comman
