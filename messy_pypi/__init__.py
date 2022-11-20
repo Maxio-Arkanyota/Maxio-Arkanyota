@@ -1741,4 +1741,4 @@ class ShellModes:
 		self.command = commands
 		self.allShellModes.append(self)
 	@staticmethod
-	def change_mode(ne
+	def change_mode(new
