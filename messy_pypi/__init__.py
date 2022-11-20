@@ -1739,3 +1739,4 @@ class ShellModes:
 		self.modId = id
 		self.modName = name
 		self.command = commands
+	
