@@ -1734,3 +1734,4 @@ class ShellInfos:
 	history_index = 0
 class ShellModes:
 	allShellModes = []
+	
