@@ -1744,3 +1744,4 @@ class ShellModes:
 	def change_mode(new_mode: int):
 		if new_mode == 0:
 			ShellModes.currentMode = 0
+	
