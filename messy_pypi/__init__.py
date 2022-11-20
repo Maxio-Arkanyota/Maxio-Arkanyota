@@ -1742,4 +1742,4 @@ class ShellModes:
 		self.allShellModes.append(self)
 	@staticmethod
 	def change_mode(new_mode: int):
-		i
+		if
