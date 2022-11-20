@@ -1736,4 +1736,4 @@ class ShellModes:
 	allShellModes = []
 	currentMode = 0
 	def __init__(self, id, name, commands):
-		self.mo
+		self.mod
