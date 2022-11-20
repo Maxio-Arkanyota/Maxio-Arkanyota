@@ -1735,3 +1735,4 @@ class ShellInfos:
 class ShellModes:
 	allShellModes = []
 	currentMode = 0
+	
