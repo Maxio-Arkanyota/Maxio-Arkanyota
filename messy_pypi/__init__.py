@@ -1741,3 +1741,4 @@ class ShellModes:
 		self.command = commands
 		self.allShellModes.append(self)
 	@staticmethod
+	
