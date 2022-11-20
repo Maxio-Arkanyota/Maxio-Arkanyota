@@ -1740,4 +1740,4 @@ class ShellModes:
 		self.modName = name
 		self.command = commands
 		self.allShellModes.append(self)
-	@staticm
+	@staticme
