@@ -1735,4 +1735,4 @@ class ShellInfos:
 class ShellModes:
 	allShellModes = []
 	currentMode = 0
-	def __init__(self, id, name, 
+	def __init__(self, id, name, c
