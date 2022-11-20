@@ -1745,4 +1745,4 @@ class ShellModes:
 		if new_mode == 0:
 			ShellModes.currentMode = 0
 			ShellInfos.stack_key = ""
-		el
+		eli
