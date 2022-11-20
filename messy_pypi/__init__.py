@@ -1739,4 +1739,4 @@ class ShellModes:
 		self.modId = id
 		self.modName = name
 		self.command = commands
-		self.allShellModes.app
+		self.allShellModes.appe
