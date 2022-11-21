@@ -1753,4 +1753,4 @@ class ShellModes:
 		elif new_mode == 3:
 			ShellModes.currentMode = 3
 		ShellDraw.draw_footer()
-	def normal_i
+	def normal_in
