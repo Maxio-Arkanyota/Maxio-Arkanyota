@@ -1752,4 +1752,4 @@ class ShellModes:
 			ShellModes.currentMode = 2
 		elif new_mode == 3:
 			ShellModes.currentMode = 3
-		ShellDraw.dr
+		ShellDraw.dra
