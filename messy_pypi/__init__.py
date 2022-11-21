@@ -1750,4 +1750,4 @@ class ShellModes:
 			ShellFunctions.reset_tabulationIndex()
 		elif new_mode == 2:
 			ShellModes.currentMode = 2
-		elif new_
+		elif new_m
