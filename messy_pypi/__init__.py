@@ -1754,4 +1754,4 @@ class ShellModes:
 			ShellModes.currentMode = 3
 		ShellDraw.draw_footer()
 	def normal_insert_mode(key: str):
-		if re.match('\\x1b\\
+		if re.match('\\x1b\\[
