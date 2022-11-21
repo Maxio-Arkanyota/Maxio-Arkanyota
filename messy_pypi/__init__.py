@@ -1751,4 +1751,4 @@ class ShellModes:
 		elif new_mode == 2:
 			ShellModes.currentMode = 2
 		elif new_mode == 3:
-			Shel
+			Shell
