@@ -1746,4 +1746,4 @@ class ShellModes:
 			ShellModes.currentMode = 0
 			ShellInfos.stack_key = ""
 		elif new_mode == 1:
-			ShellModes.curre
+			ShellModes.curren
