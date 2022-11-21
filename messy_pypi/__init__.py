@@ -1756,4 +1756,4 @@ class ShellModes:
 	def normal_insert_mode(key: str):
 		if re.match('\\x1b\\[[A-D]', key):
 			if key == "\x1b[C":
-			
+				
