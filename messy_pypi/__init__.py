@@ -1755,4 +1755,4 @@ class ShellModes:
 		ShellDraw.draw_footer()
 	def normal_insert_mode(key: str):
 		if re.match('\\x1b\\[[A-D]', key):
-			if key =
+			if key ==
