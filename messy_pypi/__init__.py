@@ -1757,4 +1757,4 @@ class ShellModes:
 		if re.match('\\x1b\\[[A-D]', key):
 			if key == "\x1b[C":
 				ShellInfos.cursor_pos = min(ShellInfos.cursor_pos + 1, len(ShellInfos.input_string) + 1)
-			elif k
+			elif ke
