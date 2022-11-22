@@ -1760,4 +1760,4 @@ class ShellModes:
 			elif key == "\x1b[D":
 				ShellInfos.cursor_pos = max(0, ShellInfos.cursor_pos - 1)
 			elif key == "\x1b[A":  # Up
-				if ShellInfos.his
+				if ShellInfos.hist
