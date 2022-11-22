@@ -1759,4 +1759,4 @@ class ShellModes:
 				ShellInfos.cursor_pos = min(ShellInfos.cursor_pos + 1, len(ShellInfos.input_string) + 1)
 			elif key == "\x1b[D":
 				ShellInfos.cursor_pos = max(0, ShellInfos.cursor_pos - 1)
-			elif key == "\x1b[A":  
+			elif key == "\x1b[A":  #
