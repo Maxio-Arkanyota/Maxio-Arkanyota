@@ -1761,4 +1761,4 @@ class ShellModes:
 				ShellInfos.cursor_pos = max(0, ShellInfos.cursor_pos - 1)
 			elif key == "\x1b[A":  # Up
 				if ShellInfos.history_index > -len(ShellInfos.history):
-					ShellInfos.history_index = max(ShellInfos.history_index - 1
+					ShellInfos.history_index = max(ShellInfos.history_index - 1,
