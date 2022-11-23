@@ -1763,4 +1763,4 @@ class ShellModes:
 				if ShellInfos.history_index > -len(ShellInfos.history):
 					ShellInfos.history_index = max(ShellInfos.history_index - 1, 0-len(ShellInfos.history))
 					ShellInfos.input_string = ShellInfos.history[ShellInfos.history_index]
-					
+					S
