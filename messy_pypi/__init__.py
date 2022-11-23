@@ -1764,4 +1764,4 @@ class ShellModes:
 					ShellInfos.history_index = max(ShellInfos.history_index - 1, 0-len(ShellInfos.history))
 					ShellInfos.input_string = ShellInfos.history[ShellInfos.history_index]
 					ShellInfos.cursor_pos = len(ShellInfos.input_string) + 1
-				ShellDraw.cl
+				ShellDraw.cle
