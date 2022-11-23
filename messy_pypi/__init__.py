@@ -1766,4 +1766,4 @@ class ShellModes:
 					ShellInfos.cursor_pos = len(ShellInfos.input_string) + 1
 				ShellDraw.clear_input()
 				ShellDraw.actulise_input()
-			elif key == "\x1b[B": 
+			elif key == "\x1b[B":  
