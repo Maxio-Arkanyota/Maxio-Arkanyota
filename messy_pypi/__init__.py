@@ -1765,4 +1765,4 @@ class ShellModes:
 					ShellInfos.input_string = ShellInfos.history[ShellInfos.history_index]
 					ShellInfos.cursor_pos = len(ShellInfos.input_string) + 1
 				ShellDraw.clear_input()
-		
+			
