@@ -1768,4 +1768,4 @@ class ShellModes:
 				ShellDraw.actulise_input()
 			elif key == "\x1b[B":  # Down
 				if ShellInfos.history_index < -1:
-					ShellInfos.history_index
+					ShellInfos.history_index 
