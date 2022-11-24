@@ -1777,4 +1777,4 @@ class ShellModes:
 					ShellInfos.cursor_pos = 1
 				ShellDraw.clear_input()
 				ShellDraw.actulise_input()
-	def normal_
+	def normal_m
