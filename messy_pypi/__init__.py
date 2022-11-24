@@ -1772,4 +1772,4 @@ class ShellModes:
 					ShellInfos.input_string = ShellInfos.history[ShellInfos.history_index]
 					ShellInfos.cursor_pos = len(ShellInfos.input_string) + 1
 				elif ShellInfos.history_index == -1:
-					ShellInfos.
+					ShellInfos.h
