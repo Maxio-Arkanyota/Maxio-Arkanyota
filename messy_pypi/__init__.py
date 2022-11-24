@@ -1770,4 +1770,4 @@ class ShellModes:
 				if ShellInfos.history_index < -1:
 					ShellInfos.history_index += 1
 					ShellInfos.input_string = ShellInfos.history[ShellInfos.history_index]
-					ShellInfos.cu
+					ShellInfos.cur
