@@ -1774,4 +1774,4 @@ class ShellModes:
 				elif ShellInfos.history_index == -1:
 					ShellInfos.history_index = 0
 					ShellInfos.input_string = ""
-					Shel
+					Shell
