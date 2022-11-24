@@ -1769,4 +1769,4 @@ class ShellModes:
 			elif key == "\x1b[B":  # Down
 				if ShellInfos.history_index < -1:
 					ShellInfos.history_index += 1
-					ShellInfos.input_string = ShellInfos.history[ShellInfos.histo
+					ShellInfos.input_string = ShellInfos.history[ShellInfos.histor
