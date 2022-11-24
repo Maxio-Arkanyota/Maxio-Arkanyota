@@ -1776,3 +1776,4 @@ class ShellModes:
 					ShellInfos.input_string = ""
 					ShellInfos.cursor_pos = 1
 				ShellDraw.clear_input()
+	
