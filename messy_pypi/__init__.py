@@ -1775,4 +1775,4 @@ class ShellModes:
 					ShellInfos.history_index = 0
 					ShellInfos.input_string = ""
 					ShellInfos.cursor_pos = 1
-				ShellDraw
+				ShellDraw.
