@@ -1787,4 +1787,4 @@ class ShellModes:
 			ShellModes.change_mode(1)
 			if ShellInfos.cursor_pos < len(ShellInfos.input_string) + 1:
 				ShellInfos.cursor_pos += 1
-			
+			r
