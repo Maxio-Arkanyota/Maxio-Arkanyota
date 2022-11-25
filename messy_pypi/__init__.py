@@ -1778,4 +1778,4 @@ class ShellModes:
 				ShellDraw.clear_input()
 				ShellDraw.actulise_input()
 	def normal_mode(key: str):
-		if re.match('^[0-9d hjklwb]$', key) or key 
+		if re.match('^[0-9d hjklwb]$', key) or key i
