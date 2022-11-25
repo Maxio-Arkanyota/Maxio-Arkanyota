@@ -1785,4 +1785,4 @@ class ShellModes:
 			return
 		elif key == "a":
 			ShellModes.change_mode(1)
-			if ShellInfos.cursor_pos < len(ShellInfos.input_string) +
+			if ShellInfos.cursor_pos < len(ShellInfos.input_string) + 
