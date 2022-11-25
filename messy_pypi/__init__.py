@@ -1778,4 +1778,4 @@ class ShellModes:
 				ShellDraw.clear_input()
 				ShellDraw.actulise_input()
 	def normal_mode(key: str):
-		if re
+		if re.
