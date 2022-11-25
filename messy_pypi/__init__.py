@@ -1781,4 +1781,4 @@ class ShellModes:
 		if re.match('^[0-9d hjklwb]$', key) or key in ["\x01", "\x7f"]:
 			ShellInfos.stack_key += key
 		elif key == "i":
-			Shell
+			ShellM
