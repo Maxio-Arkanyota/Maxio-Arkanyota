@@ -1782,4 +1782,4 @@ class ShellModes:
 			ShellInfos.stack_key += key
 		elif key == "i":
 			ShellModes.change_mode(1)
-			retu
+			retur
