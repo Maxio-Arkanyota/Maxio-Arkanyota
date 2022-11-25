@@ -1784,3 +1784,4 @@ class ShellModes:
 			ShellModes.change_mode(1)
 			return
 		elif key == "a":
+	
