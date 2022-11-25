@@ -1779,4 +1779,4 @@ class ShellModes:
 				ShellDraw.actulise_input()
 	def normal_mode(key: str):
 		if re.match('^[0-9d hjklwb]$', key) or key in ["\x01", "\x7f"]:
-			She
+			Shel
