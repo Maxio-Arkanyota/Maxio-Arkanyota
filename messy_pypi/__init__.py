@@ -1794,4 +1794,4 @@ class ShellModes:
 		elif key == ":":
 			ShellModes.change_mode(3)
 			return
-		if ShellInfos.stack_key
+		if ShellInfos.stack_key[
