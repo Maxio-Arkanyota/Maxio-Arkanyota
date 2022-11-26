@@ -1792,4 +1792,4 @@ class ShellModes:
 			ShellModes.change_mode(2)
 			return
 		elif key == ":":
-			ShellModes.change_mod
+			ShellModes.change_mode
