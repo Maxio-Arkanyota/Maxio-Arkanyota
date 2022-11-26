@@ -1796,4 +1796,4 @@ class ShellModes:
 			return
 		if ShellInfos.stack_key[-2:] == "dd":
 			ShellInfos.input_string = ""
-			She
+			Shel
