@@ -1792,4 +1792,4 @@ class ShellModes:
 			ShellModes.change_mode(2)
 			return
 		elif key == ":":
-			ShellModes.cha
+			ShellModes.chan
