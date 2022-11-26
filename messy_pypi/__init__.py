@@ -1799,3 +1799,4 @@ class ShellModes:
 			ShellInfos.cursor_pos = 1
 			ShellInfos.stack_key = ""
 			ShellDraw.clear_input()
+	
