@@ -1788,4 +1788,4 @@ class ShellModes:
 			if ShellInfos.cursor_pos < len(ShellInfos.input_string) + 1:
 				ShellInfos.cursor_pos += 1
 			return
-		elif key == "
+		elif key == "r
