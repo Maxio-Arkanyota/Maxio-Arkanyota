@@ -1789,4 +1789,4 @@ class ShellModes:
 				ShellInfos.cursor_pos += 1
 			return
 		elif key == "r":
-			ShellModes.change_mode(2
+			ShellModes.change_mode(2)
