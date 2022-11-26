@@ -1800,4 +1800,4 @@ class ShellModes:
 			ShellInfos.stack_key = ""
 			ShellDraw.clear_input()
 		elif ShellInfos.stack_key[-1:] == " ":
-			if ShellInfos.stack_
+			if ShellInfos.stack_k
