@@ -1794,4 +1794,4 @@ class ShellModes:
 		elif key == ":":
 			ShellModes.change_mode(3)
 			return
-		if Shel
+		if Shell
