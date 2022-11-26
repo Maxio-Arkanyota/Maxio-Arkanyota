@@ -1791,3 +1791,4 @@ class ShellModes:
 		elif key == "r":
 			ShellModes.change_mode(2)
 			return
+	
