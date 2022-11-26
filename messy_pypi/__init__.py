@@ -1797,4 +1797,4 @@ class ShellModes:
 		if ShellInfos.stack_key[-2:] == "dd":
 			ShellInfos.input_string = ""
 			ShellInfos.cursor_pos = 1
-			ShellInfos
+			ShellInfos.
