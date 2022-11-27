@@ -1804,4 +1804,4 @@ class ShellModes:
 				ShellInfos.cursor_pos += int(ShellInfos.stack_key[:-1])
 			else:
 				ShellInfos.cursor_pos += 1
-			ShellInfos.curs
+			ShellInfos.curso
