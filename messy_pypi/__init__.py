@@ -1803,4 +1803,4 @@ class ShellModes:
 			if ShellInfos.stack_key[:-1].isdigit():
 				ShellInfos.cursor_pos += int(ShellInfos.stack_key[:-1])
 			else:
-				ShellInfos.cursor_p
+				ShellInfos.cursor_po
