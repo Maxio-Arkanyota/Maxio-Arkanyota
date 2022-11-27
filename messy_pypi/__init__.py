@@ -1806,4 +1806,4 @@ class ShellModes:
 				ShellInfos.cursor_pos += 1
 			ShellInfos.cursor_pos = min(ShellInfos.cursor_pos, len(ShellInfos.input_string) + 1)
 			ShellInfos.stack_key = ""
-		elif ShellInfos.stack_key[-1
+		elif ShellInfos.stack_key[-1:
