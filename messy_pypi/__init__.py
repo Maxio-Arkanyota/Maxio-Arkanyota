@@ -1807,4 +1807,4 @@ class ShellModes:
 			ShellInfos.cursor_pos = min(ShellInfos.cursor_pos, len(ShellInfos.input_string) + 1)
 			ShellInfos.stack_key = ""
 		elif ShellInfos.stack_key[-1:] == "\x7f":
-			if ShellInfos.stack
+			if ShellInfos.stack_
