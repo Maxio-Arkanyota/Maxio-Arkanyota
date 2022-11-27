@@ -1802,4 +1802,4 @@ class ShellModes:
 		elif ShellInfos.stack_key[-1:] == " ":
 			if ShellInfos.stack_key[:-1].isdigit():
 				ShellInfos.cursor_pos += int(ShellInfos.stack_key[:-1])
-			el
+			els
