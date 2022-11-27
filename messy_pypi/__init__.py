@@ -1801,4 +1801,4 @@ class ShellModes:
 			ShellDraw.clear_input()
 		elif ShellInfos.stack_key[-1:] == " ":
 			if ShellInfos.stack_key[:-1].isdigit():
-				ShellInfos.cursor_pos += int(Shel
+				ShellInfos.cursor_pos += int(Shell
