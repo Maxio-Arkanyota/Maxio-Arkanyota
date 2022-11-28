@@ -1815,4 +1815,4 @@ class ShellModes:
 			ShellInfos.stack_key = ""
 		ShellDraw.actulise_input()
 		ShellDraw.draw_footer()
-	d
+	de
