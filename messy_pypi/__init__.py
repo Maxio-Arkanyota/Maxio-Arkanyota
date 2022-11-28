@@ -1812,4 +1812,4 @@ class ShellModes:
 			else:
 				ShellInfos.cursor_pos -= 1
 			ShellInfos.cursor_pos = max(ShellInfos.cursor_pos, 1)
-			ShellInfos.stack_key
+			ShellInfos.stack_key 
