@@ -1816,4 +1816,4 @@ class ShellModes:
 		ShellDraw.actulise_input()
 		ShellDraw.draw_footer()
 	def insert_mode(key: str):
-		if key == 
+		if key == "
