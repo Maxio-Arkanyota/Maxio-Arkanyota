@@ -1813,4 +1813,4 @@ class ShellModes:
 				ShellInfos.cursor_pos -= 1
 			ShellInfos.cursor_pos = max(ShellInfos.cursor_pos, 1)
 			ShellInfos.stack_key = ""
-		ShellDraw.actulise_
+		ShellDraw.actulise_i
