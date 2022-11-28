@@ -1809,4 +1809,4 @@ class ShellModes:
 		elif ShellInfos.stack_key[-1:] == "\x7f":
 			if ShellInfos.stack_key[:-1].isdigit():
 				ShellInfos.cursor_pos -= int(ShellInfos.stack_key[:-1])
-		
+			
