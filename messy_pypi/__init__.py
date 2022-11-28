@@ -1817,4 +1817,4 @@ class ShellModes:
 		ShellDraw.draw_footer()
 	def insert_mode(key: str):
 		if key == "\x7f":
-			ShellInfos.input_string = ShellInfos.input_
+			ShellInfos.input_string = ShellInfos.input_s
